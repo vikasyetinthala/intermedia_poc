@@ -1,0 +1,10 @@
+pandas
+numpy
+lightgbm
+scikit-learn
+google-generativeai
+python-dotenv
+streamlit
+mlflow
+shap
+matplotlib
