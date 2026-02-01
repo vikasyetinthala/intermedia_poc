@@ -1,0 +1,301 @@
+PO_Number,Supplier_ID,PO_Date,PO_Amount,Currency,Department,Requestor,Description,Line_Item_Count
+PO-00001,SUP-029,2025-12-07,6010.89,USD,Finance,User_8,Bank Transaction Fees,4
+PO-00002,SUP-043,2025-03-26,36955.33,USD,Finance,User_19,Bank Transaction Fees,7
+PO-00003,SUP-038,2025-01-30,1974.96,USD,Operations,User_17,Office Supplies - Paper/Pens/Ink,10
+PO-00004,SUP-046,2025-01-27,28281.63,USD,Operations,User_15,Waste Management Services,10
+PO-00005,SUP-036,2025-06-05,40566.81,USD,Finance,User_14,Audit Services - FY2025,6
+PO-00006,SUP-044,2025-06-05,8196.24,USD,Finance,User_3,Financial Reporting Software - Seat License,7
+PO-00007,SUP-040,2025-03-04,18269.48,USD,Marketing,User_2,Video Production Services - Promo,8
+PO-00008,SUP-030,2025-10-15,6678.9,USD,IT,User_18,Monitor 27-inch 4K - Dell UltraSharp,5
+PO-00009,SUP-044,2025-12-01,31116.73,USD,Finance,User_3,Financial Reporting Software - Seat License,1
+PO-00010,SUP-022,2025-12-18,11780.96,USD,Finance,User_8,Financial Reporting Software - Seat License,2
+PO-00011,SUP-048,2025-07-27,14259.69,USD,Finance,User_6,Bank Transaction Fees,6
+PO-00012,SUP-004,2025-07-14,10870.6,USD,Operations,User_20,Breakroom Snacks and Coffee,3
+PO-00013,SUP-030,2025-10-14,36591.78,EUR,IT,User_13,Cisco Meraki MR56 Access Points,5
+PO-00014,SUP-003,2025-12-07,34564.02,USD,IT,User_2,Lenovo ThinkPad X1 Carbon Gen 9,4
+PO-00015,SUP-013,2025-01-30,40349.77,USD,IT,User_3,Monitor 27-inch 4K - Dell UltraSharp,4
+PO-00016,SUP-016,2025-10-31,43880.2,USD,Operations,User_16,Facilities Management Retainer,7
+PO-00017,SUP-014,2025-12-09,23213.17,USD,Finance,User_8,Financial Reporting Software - Seat License,9
+PO-00018,SUP-043,2025-10-16,13505.71,EUR,Finance,User_19,Corporate Insurance Premium,7
+PO-00019,SUP-031,2025-07-18,11356.38,EUR,Marketing,User_3,Google Ads Spend - September,1
+PO-00020,SUP-050,2025-03-11,8065.65,EUR,Operations,User_20,HVAC Maintenance and Repair,2
+PO-00021,SUP-048,2025-07-30,19390.15,USD,Finance,User_18,Payroll Processing Fees - Oct,1
+PO-00022,SUP-019,2025-12-28,36175.73,USD,Operations,User_4,Breakroom Snacks and Coffee,5
+PO-00023,SUP-024,2025-08-24,8328.81,USD,IT,User_17,Dell Latitude 5520 Laptop (Count: 5),3
+PO-00024,SUP-016,2025-09-30,45675.08,USD,Operations,User_5,Breakroom Snacks and Coffee,6
+PO-00025,SUP-003,2025-04-06,27199.26,USD,IT,User_16,Dell Latitude 5520 Laptop (Count: 5),1
+PO-00026,SUP-016,2025-03-12,46490.38,USD,Operations,User_2,Breakroom Snacks and Coffee,4
+PO-00027,SUP-001,2025-10-31,47374.0,EUR,Operations,User_3,Security Guard Services - Nov,9
+PO-00028,SUP-043,2025-03-19,6855.38,USD,Finance,User_9,Payroll Processing Fees - Oct,9
+PO-00029,SUP-016,2025-11-20,21445.33,USD,Operations,User_10,Office Supplies - Paper/Pens/Ink,7
+PO-00030,SUP-027,2025-12-23,32668.96,EUR,Finance,User_4,Payroll Processing Fees - Oct,4
+PO-00031,SUP-012,2025-05-09,3669.28,USD,IT,User_19,Dell Latitude 5520 Laptop (Count: 5),4
+PO-00032,SUP-043,2025-01-17,4014.16,USD,Finance,User_8,Bank Transaction Fees,2
+PO-00033,SUP-049,2025-01-30,43051.95,USD,Operations,User_9,Security Guard Services - Nov,8
+PO-00034,SUP-030,2025-05-03,27192.08,USD,IT,User_16,Server Rack Maintenance Fee,7
+PO-00035,SUP-041,2025-04-21,5169.13,USD,IT,User_14,Monitor 27-inch 4K - Dell UltraSharp,7
+PO-00036,SUP-001,2025-09-10,43259.92,USD,Operations,User_2,Office Cleaning Services - Monthly,7
+PO-00037,SUP-011,2025-07-06,40129.33,USD,IT,User_7,Microsoft 365 Enterprise Licenses (Annual),4
+PO-00038,SUP-044,2025-10-15,22706.37,USD,Finance,User_9,Payroll Processing Fees - Oct,8
+PO-00039,SUP-025,2025-05-21,43787.05,EUR,Operations,User_18,Security Guard Services - Nov,2
+PO-00040,SUP-011,2025-02-08,32781.17,USD,IT,User_8,Dell Latitude 5520 Laptop (Count: 5),3
+PO-00041,SUP-033,2025-08-10,24539.24,EUR,Marketing,User_2,SEO Optimization Services,3
+PO-00042,SUP-045,2025-07-27,606.69,USD,Marketing,User_15,Email Marketing Platform Subscription,5
+PO-00043,SUP-027,2025-08-18,34981.28,EUR,Finance,User_5,Bank Transaction Fees,4
+PO-00044,SUP-045,2025-06-14,11276.19,USD,Marketing,User_11,Q3 Digital Ad Campaign Management,1
+PO-00045,SUP-011,2025-02-08,29416.79,USD,IT,User_17,Cisco Meraki MR56 Access Points,2
+PO-00046,SUP-013,2025-04-19,3891.81,USD,IT,User_13,Microsoft 365 Enterprise Licenses (Annual),2
+PO-00047,SUP-007,2025-11-01,12687.66,USD,IT,User_14,Dell Latitude 5520 Laptop (Count: 5),10
+PO-00048,SUP-026,2025-10-30,26377.74,USD,Finance,User_11,Financial Reporting Software - Seat License,4
+PO-00049,SUP-022,2025-05-29,20091.4,USD,Finance,User_15,Bank Transaction Fees,6
+PO-00050,SUP-047,2025-02-20,961.12,USD,IT,User_18,Microsoft 365 Enterprise Licenses (Annual),4
+PO-00051,SUP-001,2025-09-30,13627.42,USD,Operations,User_8,Facilities Management Retainer,6
+PO-00052,SUP-009,2025-06-08,8308.47,USD,IT,User_18,Cloud Hosting Services - AWS,5
+PO-00053,SUP-028,2025-12-19,5627.53,USD,IT,User_4,Cisco Meraki MR56 Access Points,2
+PO-00054,SUP-011,2025-10-24,8194.67,USD,IT,User_11,Cloud Hosting Services - AWS,4
+PO-00055,SUP-034,2025-12-31,31894.78,EUR,IT,User_9,Cloud Hosting Services - AWS,1
+PO-00056,SUP-027,2025-03-02,31897.08,USD,Finance,User_1,Financial Reporting Software - Seat License,6
+PO-00057,SUP-044,2025-03-21,32037.11,USD,Finance,User_15,Financial Reporting Software - Seat License,9
+PO-00058,SUP-006,2025-08-20,28264.89,USD,Operations,User_5,Security Guard Services - Nov,9
+PO-00059,SUP-027,2025-02-01,41812.45,USD,Finance,User_14,Corporate Insurance Premium,3
+PO-00060,SUP-036,2025-02-04,15758.79,USD,Finance,User_7,Audit Services - FY2025,4
+PO-00061,SUP-048,2025-12-21,5588.28,EUR,Finance,User_20,Corporate Insurance Premium,3
+PO-00062,SUP-028,2025-05-15,43297.98,EUR,IT,User_1,Cisco Meraki MR56 Access Points,3
+PO-00063,SUP-010,2025-07-03,39228.13,USD,Finance,User_9,Payroll Processing Fees - Oct,3
+PO-00064,SUP-042,2026-01-08,5850.73,EUR,Operations,User_8,Office Cleaning Services - Monthly,4
+PO-00065,SUP-002,2025-09-06,17808.09,USD,Marketing,User_1,SEO Optimization Services,4
+PO-00066,SUP-040,2025-08-06,16748.97,USD,Marketing,User_12,Social Media Content Creation - Oct,9
+PO-00067,SUP-013,2025-08-06,34136.15,USD,IT,User_4,Software Development Consultation - Q3,5
+PO-00068,SUP-044,2025-04-15,29239.19,USD,Finance,User_4,Financial Reporting Software - Seat License,10
+PO-00069,SUP-012,2025-08-24,17611.51,EUR,IT,User_20,Software Development Consultation - Q3,9
+PO-00070,SUP-022,2025-03-14,19567.17,USD,Finance,User_9,Corporate Insurance Premium,1
+PO-00071,SUP-014,2025-08-25,583.72,USD,Finance,User_12,Corporate Insurance Premium,7
+PO-00072,SUP-018,2025-02-18,47469.29,USD,Operations,User_4,Facilities Management Retainer,5
+PO-00073,SUP-005,2025-09-30,15809.59,USD,Operations,User_13,Waste Management Services,5
+PO-00074,SUP-031,2025-10-24,6800.75,EUR,Marketing,User_6,Email Marketing Platform Subscription,10
+PO-00075,SUP-015,2025-11-01,15397.02,USD,IT,User_10,Dell Latitude 5520 Laptop (Count: 5),4
+PO-00076,SUP-018,2025-08-22,39395.06,EUR,Operations,User_15,Facilities Management Retainer,8
+PO-00077,SUP-021,2025-12-25,11078.22,USD,Finance,User_3,Payroll Processing Fees - Oct,5
+PO-00078,SUP-009,2025-10-04,33360.76,USD,IT,User_8,Software Development Consultation - Q3,5
+PO-00079,SUP-009,2025-05-09,40424.86,USD,IT,User_2,Cisco Meraki MR56 Access Points,4
+PO-00080,SUP-039,2025-09-14,30758.06,EUR,Operations,User_14,Security Guard Services - Nov,10
+PO-00081,SUP-038,2025-04-23,36058.12,EUR,Operations,User_13,Waste Management Services,4
+PO-00082,SUP-014,2025-03-30,32974.87,USD,Finance,User_14,Audit Services - FY2025,4
+PO-00083,SUP-018,2025-04-14,40303.44,USD,Operations,User_18,Pest Control Quarterly Service,4
+PO-00084,SUP-036,2025-03-17,23094.86,USD,Finance,User_15,Payroll Processing Fees - Oct,10
+PO-00085,SUP-024,2025-09-29,21623.67,USD,IT,User_16,Server Rack Maintenance Fee,8
+PO-00086,SUP-049,2025-05-26,37712.95,EUR,Operations,User_8,Breakroom Snacks and Coffee,5
+PO-00087,SUP-046,2025-08-27,4335.43,USD,Operations,User_9,Breakroom Snacks and Coffee,6
+PO-00088,SUP-039,2025-06-26,44704.83,USD,Operations,User_5,Security Guard Services - Nov,4
+PO-00089,SUP-049,2025-07-29,34850.52,USD,Operations,User_14,Office Supplies - Paper/Pens/Ink,7
+PO-00090,SUP-048,2025-07-02,27359.25,USD,Finance,User_7,Payroll Processing Fees - Oct,7
+PO-00091,SUP-019,2025-08-01,45289.5,EUR,Operations,User_16,Office Cleaning Services - Monthly,1
+PO-00092,SUP-030,2025-07-13,15281.33,EUR,IT,User_18,Monitor 27-inch 4K - Dell UltraSharp,9
+PO-00093,SUP-048,2025-11-18,44941.66,USD,Finance,User_9,Payroll Processing Fees - Oct,7
+PO-00094,SUP-038,2025-09-19,1936.73,EUR,Operations,User_6,Facilities Management Retainer,8
+PO-00095,SUP-009,2025-03-20,49045.74,EUR,IT,User_19,Dell Latitude 5520 Laptop (Count: 5),10
+PO-00096,SUP-017,2025-12-19,1841.55,USD,IT,User_15,Monitor 27-inch 4K - Dell UltraSharp,3
+PO-00097,SUP-023,2025-02-08,13377.74,USD,Finance,User_15,Financial Reporting Software - Seat License,6
+PO-00098,SUP-013,2025-07-05,38180.87,USD,IT,User_14,Monitor 27-inch 4K - Dell UltraSharp,5
+PO-00099,SUP-006,2025-02-24,23780.19,USD,Operations,User_8,Office Cleaning Services - Monthly,2
+PO-00100,SUP-016,2025-12-13,2492.78,USD,Operations,User_7,Office Cleaning Services - Monthly,1
+PO-00101,SUP-032,2025-11-28,8042.93,EUR,Finance,User_4,Tax Consultation Fees,10
+PO-00102,SUP-011,2025-05-05,23519.18,USD,IT,User_6,Cloud Hosting Services - AWS,10
+PO-00103,SUP-049,2025-11-20,48204.87,USD,Operations,User_10,Security Guard Services - Nov,2
+PO-00104,SUP-010,2025-11-06,1771.08,EUR,Finance,User_13,Financial Reporting Software - Seat License,4
+PO-00105,SUP-039,2025-02-21,29808.84,USD,Operations,User_10,Office Supplies - Paper/Pens/Ink,10
+PO-00106,SUP-030,2025-03-16,39913.25,USD,IT,User_18,Dell Latitude 5520 Laptop (Count: 5),7
+PO-00107,SUP-014,2025-12-18,18843.26,USD,Finance,User_1,Corporate Insurance Premium,7
+PO-00108,SUP-043,2025-09-21,5724.17,EUR,Finance,User_5,Financial Reporting Software - Seat License,7
+PO-00109,SUP-022,2025-04-14,36822.87,USD,Finance,User_20,Bank Transaction Fees,9
+PO-00110,SUP-024,2025-09-18,23511.25,USD,IT,User_8,Cloud Hosting Services - AWS,2
+PO-00111,SUP-027,2025-06-05,44140.74,EUR,Finance,User_19,Tax Consultation Fees,10
+PO-00112,SUP-038,2025-12-22,19259.97,EUR,Operations,User_11,Office Cleaning Services - Monthly,3
+PO-00113,SUP-033,2025-09-20,10999.93,USD,Marketing,User_9,Creative Design for Holiday Campaign,10
+PO-00114,SUP-006,2026-01-08,44065.31,USD,Operations,User_3,Office Cleaning Services - Monthly,4
+PO-00115,SUP-037,2025-08-10,24684.6,EUR,IT,User_16,Lenovo ThinkPad X1 Carbon Gen 9,8
+PO-00116,SUP-033,2025-01-22,5106.14,EUR,Marketing,User_8,SEO Optimization Services,5
+PO-00117,SUP-024,2025-12-19,29287.0,USD,IT,User_14,Server Rack Maintenance Fee,9
+PO-00118,SUP-018,2025-07-02,17914.62,USD,Operations,User_10,Pest Control Quarterly Service,5
+PO-00119,SUP-030,2025-05-12,6472.47,USD,IT,User_4,Lenovo ThinkPad X1 Carbon Gen 9,9
+PO-00120,SUP-042,2026-01-02,9664.92,EUR,Operations,User_9,Office Supplies - Paper/Pens/Ink,10
+PO-00121,SUP-016,2025-10-09,30041.14,USD,Operations,User_10,Security Guard Services - Nov,4
+PO-00122,SUP-003,2025-07-17,9382.36,USD,IT,User_9,Dell Latitude 5520 Laptop (Count: 5),1
+PO-00123,SUP-001,2025-02-10,27891.27,EUR,Operations,User_4,HVAC Maintenance and Repair,1
+PO-00124,SUP-022,2025-11-03,14574.8,EUR,Finance,User_11,Payroll Processing Fees - Oct,3
+PO-00125,SUP-029,2025-02-09,12997.68,USD,Finance,User_3,Payroll Processing Fees - Oct,7
+PO-00126,SUP-010,2025-09-22,4167.07,USD,Finance,User_5,Bank Transaction Fees,3
+PO-00127,SUP-003,2025-10-29,47481.72,USD,IT,User_4,Microsoft 365 Enterprise Licenses (Annual),9
+PO-00128,SUP-015,2025-08-15,30512.72,EUR,IT,User_15,Lenovo ThinkPad X1 Carbon Gen 9,8
+PO-00129,SUP-007,2025-06-15,43078.25,USD,IT,User_19,Monitor 27-inch 4K - Dell UltraSharp,10
+PO-00130,SUP-016,2025-02-13,30676.73,USD,Operations,User_7,Security Guard Services - Nov,5
+PO-00131,SUP-045,2025-12-18,4518.78,USD,Marketing,User_18,SEO Optimization Services,2
+PO-00132,SUP-025,2025-04-04,632.45,EUR,Operations,User_10,Pest Control Quarterly Service,1
+PO-00133,SUP-037,2025-05-12,14761.19,EUR,IT,User_3,Cloud Hosting Services - AWS,4
+PO-00134,SUP-024,2025-05-29,39497.49,EUR,IT,User_4,Lenovo ThinkPad X1 Carbon Gen 9,9
+PO-00135,SUP-028,2025-05-09,32557.92,USD,IT,User_3,Cloud Hosting Services - AWS,1
+PO-00136,SUP-027,2025-04-08,39735.11,USD,Finance,User_15,Corporate Insurance Premium,2
+PO-00137,SUP-030,2025-09-10,34589.56,USD,IT,User_17,Monitor 27-inch 4K - Dell UltraSharp,9
+PO-00138,SUP-024,2025-09-23,22169.06,EUR,IT,User_11,Dell Latitude 5520 Laptop (Count: 5),10
+PO-00139,SUP-049,2025-05-22,1780.31,USD,Operations,User_9,Office Supplies - Paper/Pens/Ink,10
+PO-00140,SUP-033,2025-02-03,38273.9,EUR,Marketing,User_17,Google Ads Spend - September,8
+PO-00141,SUP-044,2025-06-05,9483.71,EUR,Finance,User_16,Corporate Insurance Premium,2
+PO-00142,SUP-009,2025-09-11,17724.07,USD,IT,User_4,Software Development Consultation - Q3,3
+PO-00143,SUP-039,2025-07-01,20876.43,USD,Operations,User_13,Pest Control Quarterly Service,9
+PO-00144,SUP-035,2025-02-01,23013.88,USD,Operations,User_11,Facilities Management Retainer,2
+PO-00145,SUP-016,2025-08-08,43313.07,EUR,Operations,User_14,Office Cleaning Services - Monthly,1
+PO-00146,SUP-014,2025-04-20,26162.75,EUR,Finance,User_15,Corporate Insurance Premium,1
+PO-00147,SUP-029,2025-04-28,13719.28,USD,Finance,User_15,Tax Consultation Fees,8
+PO-00148,SUP-021,2025-03-17,1929.04,USD,Finance,User_6,Bank Transaction Fees,5
+PO-00149,SUP-044,2025-10-23,1176.89,USD,Finance,User_8,Payroll Processing Fees - Oct,2
+PO-00150,SUP-006,2025-09-07,47379.51,EUR,Operations,User_10,HVAC Maintenance and Repair,9
+PO-00151,SUP-026,2025-06-02,21066.77,EUR,Finance,User_8,Payroll Processing Fees - Oct,8
+PO-00152,SUP-014,2025-10-23,7659.78,USD,Finance,User_3,Tax Consultation Fees,5
+PO-00153,SUP-008,2025-08-14,17323.82,USD,IT,User_10,Cloud Hosting Services - AWS,5
+PO-00154,SUP-003,2025-11-10,29206.21,USD,IT,User_15,Server Rack Maintenance Fee,9
+PO-00155,SUP-023,2025-09-18,17583.64,EUR,Finance,User_15,Corporate Insurance Premium,6
+PO-00156,SUP-042,2025-04-20,49048.34,EUR,Operations,User_8,Office Supplies - Paper/Pens/Ink,7
+PO-00157,SUP-021,2025-02-05,16249.73,EUR,Finance,User_13,Payroll Processing Fees - Oct,3
+PO-00158,SUP-046,2025-09-24,48258.81,USD,Operations,User_4,HVAC Maintenance and Repair,8
+PO-00159,SUP-029,2025-03-06,26534.58,USD,Finance,User_5,Payroll Processing Fees - Oct,7
+PO-00160,SUP-033,2025-12-15,48512.86,EUR,Marketing,User_9,Social Media Content Creation - Oct,6
+PO-00161,SUP-003,2025-11-29,34788.88,USD,IT,User_18,Microsoft 365 Enterprise Licenses (Annual),7
+PO-00162,SUP-005,2025-06-25,31526.56,USD,Operations,User_20,Pest Control Quarterly Service,2
+PO-00163,SUP-030,2025-05-14,31742.47,USD,IT,User_3,Cloud Hosting Services - AWS,7
+PO-00164,SUP-038,2025-03-05,38138.3,EUR,Operations,User_6,Security Guard Services - Nov,5
+PO-00165,SUP-022,2025-01-28,2776.55,USD,Finance,User_12,Audit Services - FY2025,6
+PO-00166,SUP-018,2025-08-22,7705.7,USD,Operations,User_6,Waste Management Services,3
+PO-00167,SUP-044,2025-02-23,30669.84,USD,Finance,User_16,Payroll Processing Fees - Oct,10
+PO-00168,SUP-035,2025-03-28,11993.33,EUR,Operations,User_9,Breakroom Snacks and Coffee,1
+PO-00169,SUP-045,2025-09-09,45109.87,USD,Marketing,User_15,Google Ads Spend - September,6
+PO-00170,SUP-027,2025-11-10,15308.14,USD,Finance,User_15,Payroll Processing Fees - Oct,5
+PO-00171,SUP-010,2025-04-25,49968.99,USD,Finance,User_8,Payroll Processing Fees - Oct,7
+PO-00172,SUP-006,2025-11-02,18268.48,USD,Operations,User_1,Breakroom Snacks and Coffee,7
+PO-00173,SUP-012,2025-06-03,900.85,EUR,IT,User_10,Dell Latitude 5520 Laptop (Count: 5),4
+PO-00174,SUP-023,2025-11-20,40195.63,USD,Finance,User_20,Tax Consultation Fees,5
+PO-00175,SUP-016,2025-12-27,37901.08,USD,Operations,User_2,HVAC Maintenance and Repair,5
+PO-00176,SUP-020,2025-08-27,2151.54,USD,Operations,User_3,Facilities Management Retainer,5
+PO-00177,SUP-009,2025-06-30,37500.3,USD,IT,User_5,Cisco Meraki MR56 Access Points,9
+PO-00178,SUP-030,2025-07-20,26777.19,USD,IT,User_9,Cloud Hosting Services - AWS,8
+PO-00179,SUP-029,2025-06-14,37454.69,USD,Finance,User_15,Financial Reporting Software - Seat License,2
+PO-00180,SUP-012,2025-03-27,37830.5,EUR,IT,User_18,Lenovo ThinkPad X1 Carbon Gen 9,6
+PO-00181,SUP-002,2025-03-01,39638.76,USD,Marketing,User_18,Q3 Digital Ad Campaign Management,2
+PO-00182,SUP-030,2025-09-03,18744.99,EUR,IT,User_12,Cloud Hosting Services - AWS,2
+PO-00183,SUP-029,2025-12-25,12074.18,USD,Finance,User_20,Audit Services - FY2025,4
+PO-00184,SUP-013,2025-12-11,3629.24,USD,IT,User_14,Server Rack Maintenance Fee,2
+PO-00185,SUP-016,2025-03-26,2744.67,USD,Operations,User_16,Office Cleaning Services - Monthly,2
+PO-00186,SUP-044,2025-03-04,12122.6,USD,Finance,User_13,Corporate Insurance Premium,8
+PO-00187,SUP-020,2025-07-22,33689.07,USD,Operations,User_14,Waste Management Services,2
+PO-00188,SUP-007,2025-09-21,30974.78,USD,IT,User_12,Cloud Hosting Services - AWS,4
+PO-00189,SUP-019,2025-08-29,22512.45,USD,Operations,User_4,Office Supplies - Paper/Pens/Ink,6
+PO-00190,SUP-027,2025-10-19,45133.96,USD,Finance,User_2,Bank Transaction Fees,7
+PO-00191,SUP-010,2025-06-04,9895.52,EUR,Finance,User_3,Audit Services - FY2025,4
+PO-00192,SUP-016,2025-12-08,32154.9,USD,Operations,User_11,Office Cleaning Services - Monthly,4
+PO-00193,SUP-011,2025-03-19,39455.42,USD,IT,User_18,Lenovo ThinkPad X1 Carbon Gen 9,4
+PO-00194,SUP-025,2025-11-10,11189.59,USD,Operations,User_5,Office Supplies - Paper/Pens/Ink,10
+PO-00195,SUP-025,2025-01-15,14225.1,USD,Operations,User_18,HVAC Maintenance and Repair,5
+PO-00196,SUP-025,2025-04-13,5941.35,USD,Operations,User_1,Office Cleaning Services - Monthly,6
+PO-00197,SUP-044,2025-05-15,29648.22,USD,Finance,User_9,Audit Services - FY2025,1
+PO-00198,SUP-042,2025-03-19,37215.04,USD,Operations,User_16,Security Guard Services - Nov,8
+PO-00199,SUP-027,2025-07-18,25905.28,EUR,Finance,User_17,Audit Services - FY2025,4
+PO-00200,SUP-017,2025-11-24,2646.57,EUR,IT,User_1,Cloud Hosting Services - AWS,1
+PO-00201,SUP-050,2025-09-16,42441.28,USD,Operations,User_16,Waste Management Services,8
+PO-00202,SUP-004,2025-02-20,45013.7,USD,Operations,User_3,Facilities Management Retainer,3
+PO-00203,SUP-043,2025-06-03,31403.72,USD,Finance,User_13,Corporate Insurance Premium,10
+PO-00204,SUP-035,2025-10-12,15097.44,USD,Operations,User_4,Waste Management Services,9
+PO-00205,SUP-004,2025-05-04,21788.46,EUR,Operations,User_11,Office Supplies - Paper/Pens/Ink,8
+PO-00206,SUP-028,2025-08-06,21091.49,USD,IT,User_14,Microsoft 365 Enterprise Licenses (Annual),6
+PO-00207,SUP-021,2025-12-20,13117.04,EUR,Finance,User_3,Tax Consultation Fees,2
+PO-00208,SUP-023,2025-02-26,5114.89,USD,Finance,User_5,Audit Services - FY2025,9
+PO-00209,SUP-045,2025-02-13,29530.02,USD,Marketing,User_14,Video Production Services - Promo,6
+PO-00210,SUP-008,2025-12-20,47085.93,USD,IT,User_10,Monitor 27-inch 4K - Dell UltraSharp,10
+PO-00211,SUP-025,2025-06-22,17906.49,USD,Operations,User_16,Office Supplies - Paper/Pens/Ink,4
+PO-00212,SUP-034,2025-03-10,17830.64,USD,IT,User_9,Software Development Consultation - Q3,10
+PO-00213,SUP-031,2025-05-09,40457.46,USD,Marketing,User_1,Q3 Digital Ad Campaign Management,3
+PO-00214,SUP-048,2025-06-02,35283.59,USD,Finance,User_12,Financial Reporting Software - Seat License,1
+PO-00215,SUP-048,2025-04-16,43558.2,EUR,Finance,User_3,Corporate Insurance Premium,3
+PO-00216,SUP-035,2025-12-04,48604.61,USD,Operations,User_13,Security Guard Services - Nov,7
+PO-00217,SUP-021,2025-09-03,17374.35,USD,Finance,User_11,Financial Reporting Software - Seat License,10
+PO-00218,SUP-002,2025-11-15,4705.37,USD,Marketing,User_6,Q3 Digital Ad Campaign Management,10
+PO-00219,SUP-045,2025-02-08,33861.45,EUR,Marketing,User_14,Creative Design for Holiday Campaign,8
+PO-00220,SUP-046,2025-11-20,22381.19,USD,Operations,User_17,Breakroom Snacks and Coffee,2
+PO-00221,SUP-017,2025-07-09,21780.72,EUR,IT,User_17,Cloud Hosting Services - AWS,5
+PO-00222,SUP-020,2025-02-06,11415.66,USD,Operations,User_7,Office Cleaning Services - Monthly,5
+PO-00223,SUP-020,2025-05-02,38483.8,USD,Operations,User_11,Breakroom Snacks and Coffee,2
+PO-00224,SUP-032,2025-01-17,25120.57,USD,Finance,User_5,Payroll Processing Fees - Oct,7
+PO-00225,SUP-026,2025-10-13,35331.73,USD,Finance,User_3,Corporate Insurance Premium,7
+PO-00226,SUP-042,2025-02-04,22092.87,USD,Operations,User_11,Pest Control Quarterly Service,10
+PO-00227,SUP-022,2025-08-21,28883.28,EUR,Finance,User_10,Bank Transaction Fees,2
+PO-00228,SUP-046,2025-08-09,1532.4,USD,Operations,User_20,Facilities Management Retainer,8
+PO-00229,SUP-038,2026-01-02,46028.6,EUR,Operations,User_4,Security Guard Services - Nov,4
+PO-00230,SUP-050,2025-08-25,29649.13,EUR,Operations,User_10,Security Guard Services - Nov,6
+PO-00231,SUP-021,2025-05-07,16986.9,USD,Finance,User_17,Tax Consultation Fees,2
+PO-00232,SUP-007,2025-10-12,25742.63,USD,IT,User_5,Software Development Consultation - Q3,4
+PO-00233,SUP-050,2025-03-07,7748.99,USD,Operations,User_20,Office Supplies - Paper/Pens/Ink,3
+PO-00234,SUP-039,2025-12-15,4229.99,EUR,Operations,User_19,Pest Control Quarterly Service,10
+PO-00235,SUP-023,2025-08-31,34216.11,USD,Finance,User_11,Corporate Insurance Premium,3
+PO-00236,SUP-014,2025-08-27,3880.17,USD,Finance,User_9,Payroll Processing Fees - Oct,10
+PO-00237,SUP-018,2025-02-11,17921.14,USD,Operations,User_15,Security Guard Services - Nov,8
+PO-00238,SUP-034,2025-02-02,3316.06,USD,IT,User_3,Cloud Hosting Services - AWS,10
+PO-00239,SUP-015,2025-11-14,25599.86,USD,IT,User_15,Server Rack Maintenance Fee,10
+PO-00240,SUP-044,2025-12-13,9817.85,EUR,Finance,User_17,Corporate Insurance Premium,3
+PO-00241,SUP-002,2025-02-14,22800.89,USD,Marketing,User_17,Video Production Services - Promo,3
+PO-00242,SUP-011,2025-02-03,12763.31,EUR,IT,User_17,Server Rack Maintenance Fee,9
+PO-00243,SUP-030,2025-11-22,8357.94,USD,IT,User_13,Software Development Consultation - Q3,7
+PO-00244,SUP-022,2025-07-06,34105.44,USD,Finance,User_3,Audit Services - FY2025,6
+PO-00245,SUP-035,2025-03-03,28119.18,USD,Operations,User_9,Waste Management Services,10
+PO-00246,SUP-039,2025-03-31,17001.42,USD,Operations,User_10,HVAC Maintenance and Repair,7
+PO-00247,SUP-037,2025-03-21,29954.54,USD,IT,User_18,Microsoft 365 Enterprise Licenses (Annual),7
+PO-00248,SUP-022,2025-12-09,39687.27,USD,Finance,User_14,Tax Consultation Fees,9
+PO-00249,SUP-046,2025-07-18,1402.41,USD,Operations,User_7,Breakroom Snacks and Coffee,6
+PO-00250,SUP-004,2025-09-19,10004.26,USD,Operations,User_3,HVAC Maintenance and Repair,5
+PO-00251,SUP-046,2025-03-06,25630.64,USD,Operations,User_20,Office Cleaning Services - Monthly,3
+PO-00252,SUP-039,2025-11-15,19147.63,USD,Operations,User_20,HVAC Maintenance and Repair,3
+PO-00253,SUP-015,2025-08-26,2662.78,USD,IT,User_15,Software Development Consultation - Q3,10
+PO-00254,SUP-040,2025-06-08,37743.36,USD,Marketing,User_18,Conference Sponsorship - TechSummit,4
+PO-00255,SUP-046,2025-06-21,48297.03,USD,Operations,User_12,Pest Control Quarterly Service,10
+PO-00256,SUP-011,2025-08-27,23353.16,EUR,IT,User_17,Cloud Hosting Services - AWS,9
+PO-00257,SUP-024,2025-08-16,48330.27,USD,IT,User_9,Lenovo ThinkPad X1 Carbon Gen 9,1
+PO-00258,SUP-030,2025-12-08,24289.24,USD,IT,User_17,Software Development Consultation - Q3,2
+PO-00259,SUP-039,2025-06-08,4651.82,USD,Operations,User_15,HVAC Maintenance and Repair,9
+PO-00260,SUP-035,2025-03-30,41636.81,USD,Operations,User_15,Security Guard Services - Nov,6
+PO-00261,SUP-037,2025-01-27,21037.4,USD,IT,User_8,Monitor 27-inch 4K - Dell UltraSharp,7
+PO-00262,SUP-044,2025-02-24,19058.18,USD,Finance,User_4,Audit Services - FY2025,6
+PO-00263,SUP-014,2025-03-29,7311.18,EUR,Finance,User_5,Financial Reporting Software - Seat License,8
+PO-00264,SUP-009,2025-08-31,30959.74,USD,IT,User_9,Microsoft 365 Enterprise Licenses (Annual),4
+PO-00265,SUP-016,2025-03-31,27665.81,USD,Operations,User_10,Waste Management Services,4
+PO-00266,SUP-046,2025-06-17,6531.49,EUR,Operations,User_20,Office Supplies - Paper/Pens/Ink,8
+PO-00267,SUP-023,2025-02-15,5987.47,USD,Finance,User_17,Payroll Processing Fees - Oct,10
+PO-00268,SUP-040,2025-05-17,36067.94,EUR,Marketing,User_1,Creative Design for Holiday Campaign,10
+PO-00269,SUP-002,2025-07-13,12407.93,USD,Marketing,User_3,Email Marketing Platform Subscription,9
+PO-00270,SUP-014,2025-07-17,3850.13,USD,Finance,User_13,Corporate Insurance Premium,8
+PO-00271,SUP-002,2025-02-05,31965.7,USD,Marketing,User_1,Video Production Services - Promo,6
+PO-00272,SUP-043,2025-02-17,17567.72,USD,Finance,User_19,Bank Transaction Fees,6
+PO-00273,SUP-031,2025-03-23,2694.62,USD,Marketing,User_15,Video Production Services - Promo,8
+PO-00274,SUP-035,2025-12-03,9522.76,USD,Operations,User_15,HVAC Maintenance and Repair,1
+PO-00275,SUP-036,2025-06-13,10478.75,USD,Finance,User_11,Tax Consultation Fees,5
+PO-00276,SUP-012,2025-10-04,20212.09,USD,IT,User_2,Server Rack Maintenance Fee,4
+PO-00277,SUP-020,2025-06-09,18170.22,USD,Operations,User_9,Office Cleaning Services - Monthly,2
+PO-00278,SUP-047,2025-07-21,22129.09,EUR,IT,User_13,Monitor 27-inch 4K - Dell UltraSharp,6
+PO-00279,SUP-023,2025-04-19,25062.06,USD,Finance,User_17,Payroll Processing Fees - Oct,5
+PO-00280,SUP-026,2025-02-25,36490.53,EUR,Finance,User_20,Audit Services - FY2025,3
+PO-00281,SUP-022,2025-10-20,15041.44,USD,Finance,User_11,Audit Services - FY2025,5
+PO-00282,SUP-009,2025-06-19,22572.83,USD,IT,User_15,Monitor 27-inch 4K - Dell UltraSharp,6
+PO-00283,SUP-050,2025-08-30,2596.58,EUR,Operations,User_9,Facilities Management Retainer,1
+PO-00284,SUP-048,2025-02-21,33723.6,USD,Finance,User_17,Payroll Processing Fees - Oct,3
+PO-00285,SUP-041,2025-01-29,7567.58,USD,IT,User_5,Server Rack Maintenance Fee,2
+PO-00286,SUP-001,2025-05-14,39036.51,USD,Operations,User_13,Facilities Management Retainer,10
+PO-00287,SUP-001,2025-01-30,30452.19,USD,Operations,User_12,Pest Control Quarterly Service,8
+PO-00288,SUP-043,2025-02-22,28909.13,USD,Finance,User_13,Corporate Insurance Premium,6
+PO-00289,SUP-041,2025-12-12,14295.14,USD,IT,User_6,Microsoft 365 Enterprise Licenses (Annual),8
+PO-00290,SUP-005,2025-10-06,19655.88,USD,Operations,User_9,Security Guard Services - Nov,8
+PO-00291,SUP-015,2025-05-03,49820.07,EUR,IT,User_7,Cloud Hosting Services - AWS,2
+PO-00292,SUP-020,2025-03-24,42714.9,USD,Operations,User_15,Pest Control Quarterly Service,2
+PO-00293,SUP-004,2025-12-29,48394.28,USD,Operations,User_3,Facilities Management Retainer,9
+PO-00294,SUP-017,2025-10-18,14872.93,USD,IT,User_6,Cloud Hosting Services - AWS,6
+PO-00295,SUP-009,2025-10-01,11599.96,USD,IT,User_8,Lenovo ThinkPad X1 Carbon Gen 9,8
+PO-00296,SUP-027,2025-01-27,18364.38,USD,Finance,User_15,Corporate Insurance Premium,9
+PO-00297,SUP-011,2025-03-21,30791.44,USD,IT,User_10,Microsoft 365 Enterprise Licenses (Annual),7
+PO-00298,SUP-032,2025-09-16,26521.93,USD,Finance,User_5,Payroll Processing Fees - Oct,6
+PO-00299,SUP-014,2025-12-08,4171.17,USD,Finance,User_5,Payroll Processing Fees - Oct,9
+PO-00300,SUP-017,2025-12-07,29595.41,EUR,IT,User_17,Cisco Meraki MR56 Access Points,1

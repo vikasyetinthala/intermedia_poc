@@ -1,0 +1,45 @@
+artifact_path: file:F:/Data Science/Neurealm/Intermedia_V3/mlruns/1/models/m-5a92b7f0cca74c809f2735e51a33f06a/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.0
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.8.0
+is_signature_from_type_hint: false
+mlflow_version: 3.8.1
+model_id: m-5a92b7f0cca74c809f2735e51a33f06a
+model_size_bytes: 184146
+model_uuid: m-5a92b7f0cca74c809f2735e51a33f06a
+prompts: null
+run_id: 985dae055a7448dc8dd3c96d4679365f
+signature:
+  inputs: '[{"type": "double", "name": "Invoice_Amount", "required": true}, {"type":
+    "long", "name": "Sup_Risk", "required": true}, {"type": "long", "name": "Sup_Tenure",
+    "required": true}, {"type": "double", "name": "Sup_Approval_Rate", "required":
+    true}, {"type": "double", "name": "Sup_Avg_Inv_Amount", "required": true}, {"type":
+    "long", "name": "Sup_Inv_Count", "required": true}, {"type": "long", "name": "Sup_Is_New",
+    "required": true}, {"type": "double", "name": "Amt_Variance", "required": true},
+    {"type": "double", "name": "Amt_Diff_Abs", "required": true}, {"type": "long",
+    "name": "Currency_Mismatch", "required": true}, {"type": "long", "name": "Is_Non_PO",
+    "required": true}, {"type": "double", "name": "Days_Since_PO", "required": true},
+    {"type": "integer", "name": "Inv_DayOfWeek", "required": true}, {"type": "integer",
+    "name": "Inv_Month", "required": true}, {"type": "long", "name": "Desc_Word_Count",
+    "required": true}, {"type": "long", "name": "Has_Urgent_Keyword", "required":
+    true}, {"type": "long", "name": "Dept_Code", "required": true}, {"type": "long",
+    "name": "Requestor_Code", "required": true}, {"type": "long", "name": "Match_Type_Code",
+    "required": true}, {"type": "double", "name": "Text_SVD_0", "required": true},
+    {"type": "double", "name": "Text_SVD_1", "required": true}, {"type": "double",
+    "name": "Text_SVD_2", "required": true}, {"type": "double", "name": "Text_SVD_3",
+    "required": true}, {"type": "double", "name": "Text_SVD_4", "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "int64", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2026-01-13 19:43:26.138839'

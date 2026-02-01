@@ -1,0 +1,22 @@
+artifact_path: file:F:/Data Science/Neurealm/Intermedia_V3/mlruns/1/models/m-6be06f1eb63547f4bf0c8f708a259da9/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.0
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.8.0
+mlflow_version: 3.8.1
+model_id: m-6be06f1eb63547f4bf0c8f708a259da9
+model_size_bytes: 183872
+model_uuid: m-6be06f1eb63547f4bf0c8f708a259da9
+prompts: null
+run_id: 0725066d8dae4aae8aa543995b6008dc
+utc_time_created: '2026-01-05 09:31:56.976613'

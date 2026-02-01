@@ -1,0 +1,61 @@
+Invoice_ID,PO_Number,Supplier_ID,Invoice_Amount,Currency,Invoice_Date,Description,Department,Requestor
+INV-NEW-0001,PO-00230,SUP-050,29649.13,EUR,2026-01-14,Security Guard Services - Nov,Operations,User_10
+INV-NEW-0002,PO-00295,SUP-009,11599.96,USD,2026-01-14,Lenovo ThinkPad X1 Carbon Gen 9,IT,User_8
+INV-NEW-0003,PO-00257,SUP-024,48330.27,USD,2026-01-14,Lenovo ThinkPad X1 Carbon Gen 9,IT,User_9
+INV-NEW-0004,PO-00284,SUP-048,33723.6,USD,2026-01-14,Payroll Processing Fees - Oct,Finance,User_17
+INV-NEW-0005,PO-00026,SUP-016,46490.38,USD,2026-01-14,Breakroom Snacks and Coffee,Operations,User_2
+INV-NEW-0006,PO-00104,SUP-010,1771.08,EUR,2026-01-14,Financial Reporting Software - Seat License,Finance,User_13
+INV-NEW-0007,PO-00275,SUP-036,10478.75,USD,2026-01-14,Tax Consultation Fees,Finance,User_11
+INV-NEW-0008,PO-00234,SUP-039,4229.99,EUR,2026-01-14,Pest Control Quarterly Service,Operations,User_19
+INV-NEW-0009,PO-00238,SUP-034,3316.06,USD,2026-01-14,Cloud Hosting Services - AWS,IT,User_3
+INV-NEW-0010,PO-00136,SUP-027,39735.11,USD,2026-01-14,Corporate Insurance Premium,Finance,User_15
+INV-NEW-0011,PO-00031,SUP-012,3669.28,USD,2026-01-14,Dell Latitude 5520 Laptop (Count: 5),IT,User_19
+INV-NEW-0012,PO-00294,SUP-017,14872.93,USD,2026-01-14,Cloud Hosting Services - AWS,IT,User_6
+INV-NEW-0013,PO-00184,SUP-013,3629.24,USD,2026-01-14,Server Rack Maintenance Fee,IT,User_14
+INV-NEW-0014,PO-00252,SUP-039,19147.63,USD,2026-01-14,HVAC Maintenance and Repair,Operations,User_20
+INV-NEW-0015,PO-00214,SUP-048,35283.59,USD,2026-01-14,Financial Reporting Software - Seat License,Finance,User_12
+INV-NEW-0016,PO-00103,SUP-049,48204.87,USD,2026-01-14,Security Guard Services - Nov,Operations,User_10
+INV-NEW-0017,PO-00001,SUP-029,6010.89,USD,2026-01-14,Bank Transaction Fees,Finance,User_8
+INV-NEW-0018,PO-00167,SUP-044,30669.84,USD,2026-01-14,Payroll Processing Fees - Oct,Finance,User_16
+INV-NEW-0019,PO-00298,SUP-032,26521.93,USD,2026-01-14,Payroll Processing Fees - Oct,Finance,User_5
+INV-NEW-0020,PO-00105,SUP-039,29808.84,USD,2026-01-14,Office Supplies - Paper/Pens/Ink,Operations,User_10
+INV-NEW-0021,PO-00058,SUP-006,28264.89,GBP,2026-01-14,Security Guard Services - Nov,Operations,User_5
+INV-NEW-0022,PO-00130,SUP-016,33387.86,USD,2026-01-14,Security Guard Services - Nov (Review),Operations,User_7
+INV-NEW-0023,PO-00016,SUP-016,48247.32,USD,2026-01-14,Facilities Management Retainer (Review),Operations,User_16
+INV-NEW-0024,PO-00156,SUP-042,49048.34,USD,2026-01-14,Office Supplies - Paper/Pens/Ink,Operations,User_8
+INV-NEW-0025,PO-00001,SUP-029,6010.89,GBP,2026-01-14,Bank Transaction Fees,Finance,User_8
+INV-NEW-0026,PO-00029,SUP-016,21445.33,GBP,2026-01-14,Office Supplies - Paper/Pens/Ink,Operations,User_10
+INV-NEW-0027,PO-00283,SUP-050,2759.12,EUR,2026-01-14,Facilities Management Retainer (Review),Operations,User_9
+INV-NEW-0028,,SUP-026,35207.61,USD,2025-10-23,Corporate Insurance Premium,Finance,User_3
+INV-NEW-0029,PO-00265,SUP-016,29986.83,USD,2026-01-14,Waste Management Services (Review),Operations,User_10
+INV-NEW-0030,PO-00282,SUP-009,22572.83,GBP,2026-01-14,Monitor 27-inch 4K - Dell UltraSharp,IT,User_15
+INV-NEW-0031,PO-00089,SUP-049,37171.65,USD,2026-01-14,Office Supplies - Paper/Pens/Ink (Review),Operations,User_14
+INV-NEW-0032,PO-00190,SUP-027,49385.5,USD,2026-01-14,Bank Transaction Fees (Review),Finance,User_2
+INV-NEW-0033,,SUP-040,18397.93,USD,2025-03-09,Video Production Services - Promo,Marketing,User_2
+INV-NEW-0034,,SUP-027,43714.91,EUR,2025-06-13,Tax Consultation Fees,Finance,User_19
+INV-NEW-0035,PO-00293,SUP-004,52050.53,USD,2026-01-14,Facilities Management Retainer (Review),Operations,User_3
+INV-NEW-0036,PO-00190,SUP-027,45133.96,GBP,2026-01-14,Bank Transaction Fees,Finance,User_2
+INV-NEW-0037,PO-00101,SUP-032,8728.44,EUR,2026-01-14,Tax Consultation Fees (Review),Finance,User_4
+INV-NEW-0038,,SUP-036,15607.89,USD,2025-01-28,Audit Services - FY2025,Finance,User_7
+INV-NEW-0039,,SUP-027,32824.41,EUR,2025-12-20,Payroll Processing Fees - Oct,Finance,User_4
+INV-NEW-0040,PO-00198,SUP-042,39187.29,USD,2026-01-14,Security Guard Services - Nov (Review),Operations,User_16
+INV-NEW-0041,,SUP-034,299.49,USD,2026-01-14,Miscellaneous Office Expense,IT,User_7
+INV-NEW-0042,,SUP-001,9999.99,USD,2026-01-14,Consulting Services [URGENT WIRE],Operations,Unknown_User
+INV-NEW-0043,PO-00191,SUP-010,9895.52,EUR,2026-01-14,Personal Gym Equipment,Finance,User_3
+INV-NEW-0044,,SUP-015,9999.99,USD,2026-01-14,Consulting Services [URGENT WIRE],IT,Unknown_User
+INV-NEW-0045,PO-00267,SUP-023,14968.68,USD,2026-01-14,Payroll Processing Fees - Oct,Finance,User_17
+INV-NEW-0046,,SUP-035,9999.99,USD,2026-01-14,Consulting Services [URGENT WIRE],Operations,Unknown_User
+INV-NEW-0047,PO-00188,SUP-007,30974.78,USD,2026-01-14,Personal Gym Equipment,IT,User_12
+INV-NEW-0048,,SUP-039,153.71,USD,2026-01-14,Miscellaneous Office Expense,Operations,User_11
+INV-NEW-0049,PO-00206,SUP-028,52728.73,USD,2026-01-14,Microsoft 365 Enterprise Licenses (Annual),IT,User_14
+INV-NEW-0050,PO-00069,SUP-012,17611.51,EUR,2026-01-14,Personal Gym Equipment,IT,User_20
+INV-NEW-0051,,SUP-050,400.22,USD,2026-01-14,Miscellaneous Office Expense,Operations,User_8
+INV-NEW-0052,,SUP-018,237.09,USD,2026-01-14,Miscellaneous Office Expense,Operations,User_7
+INV-NEW-0053,PO-00279,SUP-023,62655.15,USD,2026-01-14,Payroll Processing Fees - Oct,Finance,User_17
+INV-NEW-0054,,SUP-050,9999.99,USD,2026-01-14,Consulting Services [URGENT WIRE],Operations,Unknown_User
+INV-NEW-0055,,SUP-045,9999.99,USD,2026-01-14,Consulting Services [URGENT WIRE],Marketing,Unknown_User
+INV-NEW-0056,PO-00157,SUP-021,16249.73,EUR,2026-01-14,Personal Gym Equipment,Finance,User_13
+INV-NEW-0057,,SUP-012,173.42,USD,2026-01-14,Miscellaneous Office Expense,IT,User_1
+INV-NEW-0058,PO-00161,SUP-003,86972.2,USD,2026-01-14,Microsoft 365 Enterprise Licenses (Annual),IT,User_18
+INV-NEW-0059,PO-00265,SUP-016,27665.81,USD,2026-01-14,Personal Gym Equipment,Operations,User_10
+INV-NEW-0060,PO-00087,SUP-046,10838.58,USD,2026-01-14,Breakroom Snacks and Coffee,Operations,User_9

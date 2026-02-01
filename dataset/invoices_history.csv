@@ -1,0 +1,1501 @@
+Invoice_ID,PO_Number,Supplier_ID,Invoice_Amount,Currency,Invoice_Date,Description,Department,Requestor,Status
+INV-000001,PO-00219,SUP-045,35828.74,EUR,2025-02-23,Creative Design for Holiday Campaign (Shipping/Tax Diff),Marketing,User_14,Review Further
+INV-000002,PO-00218,SUP-002,4705.37,USD,2025-11-21,Unrelated Service Fee,Marketing,User_6,Reject
+INV-000003,,SUP-006,3193.53,USD,2025-10-23,Suspicious Non-PO Request,Operations,User_9,Reject
+INV-000004,PO-00232,SUP-007,25742.63,USD,2025-11-23,Software Development Consultation - Q3,IT,User_5,Approve
+INV-000005,,SUP-033,4710.95,USD,2025-04-02,Suspicious Non-PO Request,Marketing,User_6,Reject
+INV-000006,PO-00219,SUP-045,39479.46,EUR,2025-03-22,Creative Design for Holiday Campaign,Marketing,User_14,Reject
+INV-000007,PO-00212,SUP-034,17830.64,USD,2025-03-24,Software Development Consultation - Q3,IT,User_9,Approve
+INV-000008,PO-00134,SUP-024,39497.49,EUR,2025-07-09,Lenovo ThinkPad X1 Carbon Gen 9,IT,User_4,Approve
+INV-000009,,SUP-046,4450.53,USD,2025-10-20,Suspicious Non-PO Request,Operations,User_10,Reject
+INV-000010,PO-00146,SUP-014,27566.35,EUR,2025-04-24,Corporate Insurance Premium (Shipping/Tax Diff),Finance,User_15,Review Further
+INV-000011,,SUP-016,2107.33,USD,2025-09-08,Suspicious Non-PO Request,Operations,User_7,Reject
+INV-000012,PO-00162,SUP-005,34459.76,USD,2025-07-21,Pest Control Quarterly Service (Shipping/Tax Diff),Operations,User_20,Review Further
+INV-000013,,SUP-015,1884.17,USD,2025-10-28,Software Development Consultation - Q3,IT,User_4,Review Further
+INV-000014,,SUP-049,2275.5,USD,2025-03-27,Office Cleaning Services - Monthly,Operations,User_4,Review Further
+INV-000015,PO-00162,SUP-005,34466.9,USD,2025-07-06,Pest Control Quarterly Service (Shipping/Tax Diff),Operations,User_20,Review Further
+INV-000016,PO-00180,SUP-012,37830.5,EUR,2025-04-09,Unrelated Service Fee,IT,User_18,Reject
+INV-000017,PO-00029,SUP-016,21445.33,USD,2025-12-23,Office Supplies - Paper/Pens/Ink,Operations,User_10,Approve
+INV-000018,PO-00203,SUP-043,37104.03,USD,2025-06-29,Corporate Insurance Premium,Finance,User_13,Reject
+INV-000019,PO-00133,SUP-037,18798.57,EUR,2025-05-16,Cloud Hosting Services - AWS,IT,User_3,Reject
+INV-000020,,SUP-030,3007.72,USD,2025-12-14,Suspicious Non-PO Request,IT,User_16,Reject
+INV-000021,PO-00292,SUP-020,42714.9,USD,2025-04-10,Pest Control Quarterly Service,Operations,User_15,Approve
+INV-000022,PO-00258,SUP-030,25990.19,USD,2026-01-14,Software Development Consultation - Q3 (Shipping/Tax Diff),IT,User_17,Review Further
+INV-000023,PO-00249,SUP-046,1402.41,USD,2025-08-06,Breakroom Snacks and Coffee,Operations,User_7,Approve
+INV-000024,,SUP-012,2546.06,USD,2025-10-22,Microsoft 365 Enterprise Licenses (Annual),IT,User_9,Review Further
+INV-000025,,SUP-008,1897.33,USD,2025-07-06,Suspicious Non-PO Request,IT,User_18,Reject
+INV-000026,,SUP-001,2570.16,USD,2025-09-27,Office Cleaning Services - Monthly,Operations,User_2,Review Further
+INV-000027,PO-00246,SUP-039,20437.9,USD,2025-05-03,HVAC Maintenance and Repair,Operations,User_10,Reject
+INV-000028,,SUP-027,4660.28,USD,2025-06-26,Suspicious Non-PO Request,Finance,User_6,Reject
+INV-000029,PO-00270,SUP-014,3850.13,USD,2025-08-08,Corporate Insurance Premium,Finance,User_13,Approve
+INV-000030,PO-00259,SUP-039,5015.34,USD,2025-07-09,HVAC Maintenance and Repair (Shipping/Tax Diff),Operations,User_15,Review Further
+INV-000031,PO-00286,SUP-001,39036.51,USD,2025-06-27,Facilities Management Retainer,Operations,User_13,Approve
+INV-000032,,SUP-022,2111.87,USD,2025-06-20,Suspicious Non-PO Request,Finance,User_1,Reject
+INV-000033,PO-00186,SUP-044,13078.85,USD,2025-03-08,Corporate Insurance Premium (Shipping/Tax Diff),Finance,User_13,Review Further
+INV-000034,PO-00192,SUP-016,32154.9,USD,2026-01-18,Office Cleaning Services - Monthly,Operations,User_11,Approve
+INV-000035,PO-00038,SUP-044,24774.54,USD,2025-10-31,Payroll Processing Fees - Oct (Shipping/Tax Diff),Finance,User_9,Review Further
+INV-000036,,SUP-029,4743.62,USD,2025-03-11,Suspicious Non-PO Request,Finance,User_7,Reject
+INV-000037,PO-00027,SUP-001,47374.0,EUR,2025-11-14,Security Guard Services - Nov,Operations,User_3,Approve
+INV-000038,PO-00203,SUP-043,31403.72,GBP,2025-06-07,Corporate Insurance Premium,Finance,User_13,Review Further
+INV-000039,PO-00074,SUP-031,7480.19,EUR,2025-11-24,Email Marketing Platform Subscription (Shipping/Tax Diff),Marketing,User_6,Review Further
+INV-000040,PO-00252,SUP-039,19147.63,USD,2025-11-27,HVAC Maintenance and Repair,Operations,User_20,Approve
+INV-000041,PO-00103,SUP-049,52244.12,USD,2026-01-03,Security Guard Services - Nov (Shipping/Tax Diff),Operations,User_10,Review Further
+INV-000042,PO-00153,SUP-008,18356.55,USD,2025-08-30,Cloud Hosting Services - AWS (Shipping/Tax Diff),IT,User_10,Review Further
+INV-000043,,SUP-009,1527.57,USD,2025-06-15,Suspicious Non-PO Request,IT,User_10,Reject
+INV-000044,PO-00173,SUP-012,900.85,EUR,2025-07-09,Dell Latitude 5520 Laptop (Count: 5),IT,User_10,Approve
+INV-000045,PO-00226,SUP-042,23332.14,USD,2025-03-20,Pest Control Quarterly Service (Shipping/Tax Diff),Operations,User_11,Review Further
+INV-000046,PO-00095,SUP-009,62327.19,EUR,2025-03-30,Dell Latitude 5520 Laptop (Count: 5),IT,User_19,Reject
+INV-000047,,SUP-019,1473.77,USD,2025-02-23,Suspicious Non-PO Request,Operations,User_12,Reject
+INV-000048,PO-00137,SUP-030,34589.56,USD,2025-10-15,Monitor 27-inch 4K - Dell UltraSharp,IT,User_17,Approve
+INV-000049,,SUP-049,2831.99,USD,2025-06-02,Suspicious Non-PO Request,Operations,User_5,Reject
+INV-000050,PO-00240,SUP-044,9817.85,EUR,2026-01-25,Corporate Insurance Premium,Finance,User_17,Approve
+INV-000051,PO-00043,SUP-027,34981.28,EUR,2025-09-02,Bank Transaction Fees,Finance,User_5,Approve
+INV-000052,,SUP-040,2095.84,USD,2025-09-12,Google Ads Spend - September,Marketing,User_4,Review Further
+INV-000053,PO-00201,SUP-050,62696.86,USD,2025-10-17,Waste Management Services,Operations,User_16,Reject
+INV-000054,PO-00292,SUP-020,42714.9,USD,2025-04-12,Pest Control Quarterly Service,Operations,User_15,Approve
+INV-000055,PO-00268,SUP-040,36067.94,USD,2025-05-23,Creative Design for Holiday Campaign,Marketing,User_1,Review Further
+INV-000056,PO-00162,SUP-005,31526.56,USD,2025-06-28,Pest Control Quarterly Service,Operations,User_20,Approve
+INV-000057,PO-00276,SUP-012,20212.09,USD,2025-10-16,Server Rack Maintenance Fee,IT,User_2,Approve
+INV-000058,PO-00194,SUP-025,11189.59,USD,2025-12-06,Office Supplies - Paper/Pens/Ink,Operations,User_5,Approve
+INV-000059,PO-00042,SUP-045,606.69,USD,2025-08-15,Email Marketing Platform Subscription,Marketing,User_15,Approve
+INV-000060,PO-00051,SUP-001,13627.42,USD,2025-11-06,Facilities Management Retainer,Operations,User_8,Approve
+INV-000061,PO-00294,SUP-017,19469.0,USD,2025-11-29,Cloud Hosting Services - AWS,IT,User_6,Reject
+INV-000062,PO-00247,SUP-037,29954.54,USD,2025-03-30,Microsoft 365 Enterprise Licenses (Annual),IT,User_18,Approve
+INV-000063,PO-00255,SUP-046,48297.03,USD,2025-07-04,Pest Control Quarterly Service,Operations,User_12,Approve
+INV-000064,PO-00248,SUP-022,39687.27,USD,2026-01-08,Tax Consultation Fees,Finance,User_14,Approve
+INV-000065,PO-00185,SUP-016,2928.17,USD,2025-04-14,Office Cleaning Services - Monthly (Shipping/Tax Diff),Operations,User_16,Review Further
+INV-000066,PO-00062,SUP-028,47316.35,EUR,2025-06-10,Cisco Meraki MR56 Access Points (Shipping/Tax Diff),IT,User_1,Review Further
+INV-000067,PO-00136,SUP-027,43051.51,USD,2025-04-20,Corporate Insurance Premium (Shipping/Tax Diff),Finance,User_15,Review Further
+INV-000068,PO-00057,SUP-044,32037.11,USD,2025-04-06,Financial Reporting Software - Seat License,Finance,User_15,Approve
+INV-000069,,SUP-022,1948.69,USD,2025-08-30,Suspicious Non-PO Request,Finance,User_9,Reject
+INV-000070,PO-00143,SUP-039,20876.43,USD,2025-08-12,Pest Control Quarterly Service,Operations,User_13,Approve
+INV-000071,PO-00283,SUP-050,2596.58,EUR,2025-10-12,Facilities Management Retainer,Operations,User_9,Approve
+INV-000072,,SUP-025,1568.69,USD,2025-08-09,Suspicious Non-PO Request,Operations,User_17,Reject
+INV-000073,PO-00210,SUP-008,57788.43,USD,2025-12-29,Monitor 27-inch 4K - Dell UltraSharp,IT,User_10,Reject
+INV-000074,PO-00114,SUP-006,44065.31,USD,2026-02-16,Office Cleaning Services - Monthly,Operations,User_3,Approve
+INV-000075,PO-00259,SUP-039,4651.82,GBP,2025-07-13,HVAC Maintenance and Repair,Operations,User_15,Review Further
+INV-000076,PO-00265,SUP-016,27665.81,USD,2025-05-14,Unrelated Service Fee,Operations,User_10,Reject
+INV-000077,PO-00248,SUP-022,51845.93,USD,2026-01-02,Tax Consultation Fees,Finance,User_14,Reject
+INV-000078,,SUP-018,2842.64,USD,2025-02-14,Suspicious Non-PO Request,Operations,User_18,Reject
+INV-000079,,SUP-020,1674.18,USD,2025-10-07,Suspicious Non-PO Request,Operations,User_15,Reject
+INV-000080,PO-00176,SUP-020,2151.54,USD,2025-09-29,Facilities Management Retainer,Operations,User_3,Approve
+INV-000081,PO-00039,SUP-025,43787.05,EUR,2025-05-30,Security Guard Services - Nov,Operations,User_18,Approve
+INV-000082,PO-00165,SUP-022,2776.55,USD,2025-02-01,Audit Services - FY2025,Finance,User_12,Approve
+INV-000083,PO-00183,SUP-029,12691.03,USD,2026-01-11,Audit Services - FY2025 (Shipping/Tax Diff),Finance,User_20,Review Further
+INV-000084,PO-00144,SUP-035,24216.69,USD,2025-02-24,Facilities Management Retainer (Shipping/Tax Diff),Operations,User_11,Review Further
+INV-000085,PO-00227,SUP-022,31618.84,EUR,2025-09-21,Bank Transaction Fees (Shipping/Tax Diff),Finance,User_10,Review Further
+INV-000086,,SUP-049,2073.89,USD,2025-03-24,Suspicious Non-PO Request,Operations,User_14,Reject
+INV-000087,PO-00211,SUP-025,17906.49,USD,2025-07-17,Unrelated Service Fee,Operations,User_16,Reject
+INV-000088,,SUP-047,4822.51,USD,2025-10-17,Software Development Consultation - Q3,IT,User_5,Review Further
+INV-000089,PO-00274,SUP-035,9522.76,USD,2025-12-12,HVAC Maintenance and Repair,Operations,User_15,Approve
+INV-000090,PO-00222,SUP-020,11415.66,USD,2025-02-07,Office Cleaning Services - Monthly,Operations,User_7,Approve
+INV-000091,PO-00283,SUP-050,3639.58,EUR,2025-09-27,Facilities Management Retainer,Operations,User_9,Reject
+INV-000092,PO-00081,SUP-038,45835.49,EUR,2025-05-11,Waste Management Services,Operations,User_13,Reject
+INV-000093,,SUP-034,4382.28,USD,2025-03-12,Suspicious Non-PO Request,IT,User_2,Reject
+INV-000094,PO-00300,SUP-017,34731.75,EUR,2026-01-15,Cisco Meraki MR56 Access Points,IT,User_17,Reject
+INV-000095,,SUP-042,3009.04,USD,2026-01-09,Suspicious Non-PO Request,Operations,User_2,Reject
+INV-000096,PO-00166,SUP-018,7705.7,USD,2025-09-05,Waste Management Services,Operations,User_6,Approve
+INV-000097,PO-00097,SUP-023,14711.16,USD,2025-02-23,Financial Reporting Software - Seat License (Shipping/Tax Diff),Finance,User_15,Review Further
+INV-000098,PO-00126,SUP-010,4500.0,USD,2025-11-05,Bank Transaction Fees (Shipping/Tax Diff),Finance,User_5,Review Further
+INV-000099,PO-00194,SUP-025,11189.59,USD,2025-11-20,Office Supplies - Paper/Pens/Ink,Operations,User_5,Approve
+INV-000100,PO-00071,SUP-014,620.94,USD,2025-09-30,Corporate Insurance Premium (Shipping/Tax Diff),Finance,User_12,Review Further
+INV-000101,PO-00085,SUP-024,21623.67,USD,2025-11-09,Unrelated Service Fee,IT,User_16,Reject
+INV-000102,PO-00051,SUP-001,14543.47,USD,2025-11-11,Facilities Management Retainer (Shipping/Tax Diff),Operations,User_8,Review Further
+INV-000103,PO-00029,SUP-016,22964.01,USD,2025-11-30,Office Supplies - Paper/Pens/Ink (Shipping/Tax Diff),Operations,User_10,Review Further
+INV-000104,,SUP-004,960.2,USD,2025-10-16,Suspicious Non-PO Request,Operations,User_16,Reject
+INV-000105,PO-00050,SUP-047,961.12,GBP,2025-02-24,Microsoft 365 Enterprise Licenses (Annual),IT,User_18,Review Further
+INV-000106,PO-00123,SUP-001,33383.97,EUR,2025-02-26,HVAC Maintenance and Repair,Operations,User_4,Reject
+INV-000107,,SUP-001,1684.8,USD,2025-02-23,Facilities Management Retainer,Operations,User_15,Review Further
+INV-000108,PO-00133,SUP-037,14761.19,EUR,2025-05-30,Cloud Hosting Services - AWS,IT,User_3,Approve
+INV-000109,PO-00045,SUP-011,30994.68,USD,2025-03-18,Cisco Meraki MR56 Access Points (Shipping/Tax Diff),IT,User_17,Review Further
+INV-000110,PO-00243,SUP-030,9139.19,USD,2025-12-14,Software Development Consultation - Q3 (Shipping/Tax Diff),IT,User_13,Review Further
+INV-000111,PO-00079,SUP-009,49177.18,USD,2025-05-17,Cisco Meraki MR56 Access Points,IT,User_2,Reject
+INV-000112,PO-00194,SUP-025,11189.59,GBP,2025-12-25,Office Supplies - Paper/Pens/Ink,Operations,User_5,Review Further
+INV-000113,PO-00110,SUP-024,23511.25,USD,2025-10-04,Cloud Hosting Services - AWS,IT,User_8,Approve
+INV-000114,PO-00244,SUP-022,36720.73,USD,2025-07-29,Audit Services - FY2025 (Shipping/Tax Diff),Finance,User_3,Review Further
+INV-000115,PO-00292,SUP-020,42714.9,USD,2025-04-25,Pest Control Quarterly Service,Operations,User_15,Approve
+INV-000116,PO-00007,SUP-040,18269.48,USD,2025-03-25,Unrelated Service Fee,Marketing,User_2,Reject
+INV-000117,PO-00015,SUP-013,40349.77,USD,2025-02-26,Monitor 27-inch 4K - Dell UltraSharp,IT,User_3,Approve
+INV-000118,,SUP-038,4327.22,USD,2025-03-29,Suspicious Non-PO Request,Operations,User_1,Reject
+INV-000119,PO-00164,SUP-038,40419.34,EUR,2025-03-20,Security Guard Services - Nov (Shipping/Tax Diff),Operations,User_6,Review Further
+INV-000120,PO-00108,SUP-043,7894.28,EUR,2025-11-04,Financial Reporting Software - Seat License,Finance,User_5,Reject
+INV-000121,PO-00031,SUP-012,3985.49,USD,2025-06-10,Dell Latitude 5520 Laptop (Count: 5) (Shipping/Tax Diff),IT,User_19,Review Further
+INV-000122,PO-00089,SUP-049,36836.93,USD,2025-09-02,Office Supplies - Paper/Pens/Ink (Shipping/Tax Diff),Operations,User_14,Review Further
+INV-000123,PO-00124,SUP-022,20035.01,EUR,2025-11-07,Payroll Processing Fees - Oct,Finance,User_11,Reject
+INV-000124,PO-00054,SUP-011,11769.99,USD,2025-10-28,Cloud Hosting Services - AWS,IT,User_11,Reject
+INV-000125,PO-00078,SUP-009,33360.76,USD,2025-11-14,Software Development Consultation - Q3,IT,User_8,Approve
+INV-000126,,SUP-038,3550.49,USD,2025-01-18,Suspicious Non-PO Request,Operations,User_7,Reject
+INV-000127,PO-00195,SUP-025,15280.04,USD,2025-02-16,HVAC Maintenance and Repair (Shipping/Tax Diff),Operations,User_18,Review Further
+INV-000128,,SUP-037,2684.45,USD,2025-08-12,Suspicious Non-PO Request,IT,User_1,Reject
+INV-000129,,SUP-035,4888.52,USD,2025-01-22,Suspicious Non-PO Request,Operations,User_17,Reject
+INV-000130,PO-00262,SUP-044,19058.18,USD,2025-03-03,Audit Services - FY2025,Finance,User_4,Approve
+INV-000131,PO-00246,SUP-039,17001.42,USD,2025-05-10,HVAC Maintenance and Repair,Operations,User_10,Approve
+INV-000132,PO-00298,SUP-032,34184.48,USD,2025-10-10,Payroll Processing Fees - Oct,Finance,User_5,Reject
+INV-000133,PO-00228,SUP-046,1532.4,USD,2025-08-25,Facilities Management Retainer,Operations,User_20,Approve
+INV-000134,PO-00261,SUP-037,21037.4,USD,2025-03-12,Monitor 27-inch 4K - Dell UltraSharp,IT,User_8,Approve
+INV-000135,PO-00026,SUP-016,46490.38,USD,2025-04-23,Breakroom Snacks and Coffee,Operations,User_2,Approve
+INV-000136,PO-00281,SUP-022,15041.44,USD,2025-11-14,Audit Services - FY2025,Finance,User_11,Approve
+INV-000137,PO-00296,SUP-027,18364.38,USD,2025-03-09,Corporate Insurance Premium,Finance,User_15,Approve
+INV-000138,,SUP-039,898.35,USD,2025-09-26,Suspicious Non-PO Request,Operations,User_14,Reject
+INV-000139,PO-00116,SUP-033,5106.14,EUR,2025-02-25,SEO Optimization Services,Marketing,User_8,Approve
+INV-000140,PO-00062,SUP-028,43297.98,EUR,2025-06-29,Cisco Meraki MR56 Access Points,IT,User_1,Approve
+INV-000141,PO-00197,SUP-044,29648.22,USD,2025-05-18,Audit Services - FY2025,Finance,User_9,Approve
+INV-000142,PO-00259,SUP-039,5010.72,USD,2025-07-21,HVAC Maintenance and Repair (Shipping/Tax Diff),Operations,User_15,Review Further
+INV-000143,,SUP-011,4647.39,USD,2025-06-24,Suspicious Non-PO Request,IT,User_1,Reject
+INV-000144,PO-00019,SUP-031,11967.89,EUR,2025-07-29,Google Ads Spend - September (Shipping/Tax Diff),Marketing,User_3,Review Further
+INV-000145,PO-00028,SUP-043,6855.38,GBP,2025-05-02,Payroll Processing Fees - Oct,Finance,User_9,Review Further
+INV-000146,PO-00020,SUP-050,8065.65,EUR,2025-03-20,HVAC Maintenance and Repair,Operations,User_20,Approve
+INV-000147,PO-00286,SUP-001,42443.34,USD,2025-06-06,Facilities Management Retainer (Shipping/Tax Diff),Operations,User_13,Review Further
+INV-000148,,SUP-035,2213.59,USD,2025-02-21,Suspicious Non-PO Request,Operations,User_11,Reject
+INV-000149,PO-00251,SUP-046,27489.57,USD,2025-03-21,Office Cleaning Services - Monthly (Shipping/Tax Diff),Operations,User_20,Review Further
+INV-000150,PO-00070,SUP-022,27157.14,USD,2025-04-26,Corporate Insurance Premium,Finance,User_9,Reject
+INV-000151,PO-00146,SUP-014,27793.28,EUR,2025-04-25,Corporate Insurance Premium (Shipping/Tax Diff),Finance,User_15,Review Further
+INV-000152,,SUP-019,813.39,USD,2025-12-04,Suspicious Non-PO Request,Operations,User_5,Reject
+INV-000153,,SUP-034,75.72,USD,2025-06-20,Suspicious Non-PO Request,IT,User_15,Reject
+INV-000154,,SUP-030,482.12,USD,2025-08-22,Monitor 27-inch 4K - Dell UltraSharp,IT,User_15,Review Further
+INV-000155,,SUP-007,2793.39,USD,2025-11-15,Suspicious Non-PO Request,IT,User_20,Reject
+INV-000156,,SUP-023,2098.36,USD,2025-02-26,Suspicious Non-PO Request,Finance,User_18,Reject
+INV-000157,,SUP-044,1934.62,USD,2025-03-26,Financial Reporting Software - Seat License,Finance,User_9,Review Further
+INV-000158,,SUP-042,877.68,USD,2025-06-04,Suspicious Non-PO Request,Operations,User_14,Reject
+INV-000159,,SUP-045,1295.91,USD,2025-05-20,Suspicious Non-PO Request,Marketing,User_16,Reject
+INV-000160,,SUP-006,83.5,USD,2025-08-04,Suspicious Non-PO Request,Operations,User_11,Reject
+INV-000161,PO-00168,SUP-035,11993.33,EUR,2025-05-09,Breakroom Snacks and Coffee,Operations,User_9,Approve
+INV-000162,PO-00142,SUP-009,17724.07,USD,2025-10-02,Software Development Consultation - Q3,IT,User_4,Approve
+INV-000163,PO-00052,SUP-009,8797.69,USD,2025-07-04,Cloud Hosting Services - AWS (Shipping/Tax Diff),IT,User_18,Review Further
+INV-000164,PO-00125,SUP-029,12997.68,USD,2025-03-26,Payroll Processing Fees - Oct,Finance,User_3,Approve
+INV-000165,PO-00041,SUP-033,24539.24,EUR,2025-08-31,Unrelated Service Fee,Marketing,User_2,Reject
+INV-000166,PO-00052,SUP-009,9885.92,USD,2025-07-15,Cloud Hosting Services - AWS,IT,User_18,Reject
+INV-000167,,SUP-042,4986.46,USD,2025-04-16,Suspicious Non-PO Request,Operations,User_18,Reject
+INV-000168,PO-00022,SUP-019,38511.47,USD,2026-02-11,Breakroom Snacks and Coffee (Shipping/Tax Diff),Operations,User_4,Review Further
+INV-000169,,SUP-029,4246.55,USD,2025-08-11,Suspicious Non-PO Request,Finance,User_16,Reject
+INV-000170,,SUP-036,3310.38,USD,2025-08-18,Suspicious Non-PO Request,Finance,User_13,Reject
+INV-000171,PO-00225,SUP-026,38729.75,USD,2025-11-27,Corporate Insurance Premium (Shipping/Tax Diff),Finance,User_3,Review Further
+INV-000172,PO-00017,SUP-014,23213.17,USD,2026-01-02,Financial Reporting Software - Seat License,Finance,User_8,Approve
+INV-000173,PO-00034,SUP-030,39973.46,USD,2025-05-10,Server Rack Maintenance Fee,IT,User_16,Reject
+INV-000174,PO-00049,SUP-022,21745.93,USD,2025-06-01,Bank Transaction Fees (Shipping/Tax Diff),Finance,User_15,Review Further
+INV-000175,PO-00025,SUP-003,29874.05,USD,2025-04-28,Dell Latitude 5520 Laptop (Count: 5) (Shipping/Tax Diff),IT,User_16,Review Further
+INV-000176,PO-00278,SUP-047,22129.09,EUR,2025-07-22,Monitor 27-inch 4K - Dell UltraSharp,IT,User_13,Approve
+INV-000177,,SUP-034,1148.91,USD,2025-10-06,Suspicious Non-PO Request,IT,User_18,Reject
+INV-000178,PO-00013,SUP-030,39337.02,EUR,2025-11-06,Cisco Meraki MR56 Access Points (Shipping/Tax Diff),IT,User_13,Review Further
+INV-000179,PO-00056,SUP-027,31897.08,USD,2025-03-21,Financial Reporting Software - Seat License,Finance,User_1,Approve
+INV-000180,PO-00255,SUP-046,71442.74,USD,2025-07-01,Pest Control Quarterly Service,Operations,User_12,Reject
+INV-000181,PO-00233,SUP-050,7748.99,USD,2025-03-21,Office Supplies - Paper/Pens/Ink,Operations,User_20,Approve
+INV-000182,PO-00284,SUP-048,33723.6,USD,2025-02-28,Payroll Processing Fees - Oct,Finance,User_17,Approve
+INV-000183,PO-00163,SUP-030,33806.15,USD,2025-05-22,Cloud Hosting Services - AWS (Shipping/Tax Diff),IT,User_3,Review Further
+INV-000184,,SUP-005,1748.24,USD,2025-03-10,Suspicious Non-PO Request,Operations,User_6,Reject
+INV-000185,PO-00165,SUP-022,2776.55,USD,2025-02-25,Audit Services - FY2025,Finance,User_12,Approve
+INV-000186,PO-00278,SUP-047,22129.09,EUR,2025-08-16,Monitor 27-inch 4K - Dell UltraSharp,IT,User_13,Approve
+INV-000187,PO-00136,SUP-027,39735.11,USD,2025-05-21,Corporate Insurance Premium,Finance,User_15,Approve
+INV-000188,PO-00094,SUP-038,1936.73,EUR,2025-10-29,Facilities Management Retainer,Operations,User_6,Approve
+INV-000189,PO-00146,SUP-014,26162.75,EUR,2025-05-18,Corporate Insurance Premium,Finance,User_15,Approve
+INV-000190,PO-00134,SUP-024,42958.11,EUR,2025-06-03,Lenovo ThinkPad X1 Carbon Gen 9 (Shipping/Tax Diff),IT,User_4,Review Further
+INV-000191,PO-00062,SUP-028,46254.78,EUR,2025-05-28,Cisco Meraki MR56 Access Points (Shipping/Tax Diff),IT,User_1,Review Further
+INV-000192,PO-00152,SUP-014,7659.78,USD,2025-11-24,Tax Consultation Fees,Finance,User_3,Approve
+INV-000193,PO-00037,SUP-011,43362.37,USD,2025-08-13,Microsoft 365 Enterprise Licenses (Annual) (Shipping/Tax Diff),IT,User_7,Review Further
+INV-000194,,SUP-001,1792.33,USD,2025-09-05,Suspicious Non-PO Request,Operations,User_20,Reject
+INV-000195,PO-00008,SUP-030,6678.9,USD,2025-11-24,Monitor 27-inch 4K - Dell UltraSharp,IT,User_18,Approve
+INV-000196,PO-00017,SUP-014,24650.73,USD,2025-12-17,Financial Reporting Software - Seat License (Shipping/Tax Diff),Finance,User_8,Review Further
+INV-000197,,SUP-020,3482.51,USD,2025-10-02,Suspicious Non-PO Request,Operations,User_13,Reject
+INV-000198,PO-00168,SUP-035,11993.33,EUR,2025-04-29,Breakroom Snacks and Coffee,Operations,User_9,Approve
+INV-000199,PO-00291,SUP-015,54801.83,EUR,2025-06-08,Cloud Hosting Services - AWS (Shipping/Tax Diff),IT,User_7,Review Further
+INV-000200,,SUP-037,1479.73,USD,2025-04-19,Suspicious Non-PO Request,IT,User_11,Reject
+INV-000201,PO-00175,SUP-016,46174.7,USD,2026-01-21,HVAC Maintenance and Repair,Operations,User_2,Reject
+INV-000202,PO-00093,SUP-048,48727.31,USD,2025-12-15,Payroll Processing Fees - Oct (Shipping/Tax Diff),Finance,User_9,Review Further
+INV-000203,PO-00148,SUP-021,1929.04,USD,2025-03-28,Bank Transaction Fees,Finance,User_6,Approve
+INV-000204,,SUP-003,202.76,USD,2025-05-06,Dell Latitude 5520 Laptop (Count: 5),IT,User_10,Review Further
+INV-000205,PO-00059,SUP-027,41812.45,USD,2025-03-03,Corporate Insurance Premium,Finance,User_14,Approve
+INV-000206,PO-00068,SUP-044,31447.93,USD,2025-05-22,Financial Reporting Software - Seat License (Shipping/Tax Diff),Finance,User_4,Review Further
+INV-000207,,SUP-049,3886.81,USD,2025-07-20,Suspicious Non-PO Request,Operations,User_18,Reject
+INV-000208,PO-00057,SUP-044,32037.11,USD,2025-04-18,Financial Reporting Software - Seat License,Finance,User_15,Approve
+INV-000209,,SUP-038,4158.85,USD,2025-05-20,Suspicious Non-PO Request,Operations,User_10,Reject
+INV-000210,PO-00122,SUP-003,14053.7,USD,2025-08-02,Dell Latitude 5520 Laptop (Count: 5),IT,User_9,Reject
+INV-000211,,SUP-011,3701.18,USD,2026-01-01,Monitor 27-inch 4K - Dell UltraSharp,IT,User_12,Review Further
+INV-000212,,SUP-014,1072.77,USD,2025-04-29,Suspicious Non-PO Request,Finance,User_2,Reject
+INV-000213,,SUP-033,2716.9,USD,2025-06-28,Suspicious Non-PO Request,Marketing,User_10,Reject
+INV-000214,PO-00103,SUP-049,48204.87,GBP,2025-11-27,Security Guard Services - Nov,Operations,User_10,Review Further
+INV-000215,,SUP-046,3762.97,USD,2025-08-12,Suspicious Non-PO Request,Operations,User_2,Reject
+INV-000216,,SUP-012,4337.09,USD,2025-05-21,Suspicious Non-PO Request,IT,User_5,Reject
+INV-000217,PO-00035,SUP-041,5576.83,USD,2025-05-09,Monitor 27-inch 4K - Dell UltraSharp (Shipping/Tax Diff),IT,User_14,Review Further
+INV-000218,PO-00201,SUP-050,42441.28,USD,2025-09-21,Waste Management Services,Operations,User_16,Approve
+INV-000219,PO-00198,SUP-042,49513.3,USD,2025-04-06,Security Guard Services - Nov,Operations,User_16,Reject
+INV-000220,PO-00085,SUP-024,28560.88,USD,2025-11-06,Server Rack Maintenance Fee,IT,User_16,Reject
+INV-000221,,SUP-008,3881.97,USD,2025-03-02,Suspicious Non-PO Request,IT,User_15,Reject
+INV-000222,PO-00218,SUP-002,4705.37,USD,2025-12-13,Q3 Digital Ad Campaign Management,Marketing,User_6,Approve
+INV-000223,PO-00227,SUP-022,28883.28,EUR,2025-09-11,Bank Transaction Fees,Finance,User_10,Approve
+INV-000224,PO-00019,SUP-031,11356.38,EUR,2025-08-24,Google Ads Spend - September,Marketing,User_3,Approve
+INV-000225,,SUP-045,4269.49,USD,2025-07-08,Q3 Digital Ad Campaign Management,Marketing,User_2,Review Further
+INV-000226,PO-00289,SUP-041,14295.14,USD,2025-12-20,Microsoft 365 Enterprise Licenses (Annual),IT,User_6,Approve
+INV-000227,PO-00188,SUP-007,30974.78,USD,2025-10-21,Cloud Hosting Services - AWS,IT,User_12,Approve
+INV-000228,,SUP-015,4792.26,USD,2025-04-27,Cloud Hosting Services - AWS,IT,User_5,Review Further
+INV-000229,PO-00171,SUP-010,49968.99,USD,2025-06-06,Payroll Processing Fees - Oct,Finance,User_8,Approve
+INV-000230,PO-00220,SUP-046,22381.19,USD,2026-01-02,Breakroom Snacks and Coffee,Operations,User_17,Approve
+INV-000231,PO-00276,SUP-012,20212.09,USD,2025-10-30,Server Rack Maintenance Fee,IT,User_2,Approve
+INV-000232,PO-00060,SUP-036,16884.94,USD,2025-02-10,Audit Services - FY2025 (Shipping/Tax Diff),Finance,User_7,Review Further
+INV-000233,PO-00067,SUP-013,34136.15,USD,2025-09-06,Software Development Consultation - Q3,IT,User_4,Approve
+INV-000234,,SUP-016,2988.71,USD,2025-10-06,Office Cleaning Services - Monthly,Operations,User_15,Review Further
+INV-000235,PO-00291,SUP-015,49820.07,EUR,2025-05-31,Cloud Hosting Services - AWS,IT,User_7,Approve
+INV-000236,PO-00002,SUP-043,36955.33,USD,2025-04-10,Bank Transaction Fees,Finance,User_19,Approve
+INV-000237,PO-00014,SUP-003,36833.76,USD,2025-12-27,Lenovo ThinkPad X1 Carbon Gen 9 (Shipping/Tax Diff),IT,User_2,Review Further
+INV-000238,,SUP-003,3878.63,USD,2025-03-23,Suspicious Non-PO Request,IT,User_5,Reject
+INV-000239,,SUP-006,3267.6,USD,2025-08-27,Suspicious Non-PO Request,Operations,User_12,Reject
+INV-000240,,SUP-035,2087.96,USD,2025-12-31,Office Supplies - Paper/Pens/Ink,Operations,User_15,Review Further
+INV-000241,,SUP-031,3774.61,USD,2025-11-11,Suspicious Non-PO Request,Marketing,User_13,Reject
+INV-000242,PO-00062,SUP-028,43297.98,EUR,2025-06-02,Cisco Meraki MR56 Access Points,IT,User_1,Approve
+INV-000243,PO-00245,SUP-035,28119.18,USD,2025-04-11,Waste Management Services,Operations,User_9,Approve
+INV-000244,PO-00101,SUP-032,8722.75,EUR,2026-01-10,Tax Consultation Fees (Shipping/Tax Diff),Finance,User_4,Review Further
+INV-000245,PO-00013,SUP-030,36591.78,EUR,2025-11-22,Cisco Meraki MR56 Access Points,IT,User_13,Approve
+INV-000246,PO-00046,SUP-013,4097.02,USD,2025-05-05,Microsoft 365 Enterprise Licenses (Annual) (Shipping/Tax Diff),IT,User_13,Review Further
+INV-000247,PO-00082,SUP-014,32974.87,USD,2025-05-01,Audit Services - FY2025,Finance,User_14,Approve
+INV-000248,PO-00106,SUP-030,39913.25,USD,2025-03-17,Dell Latitude 5520 Laptop (Count: 5),IT,User_18,Approve
+INV-000249,PO-00271,SUP-002,46391.34,USD,2025-03-14,Video Production Services - Promo,Marketing,User_1,Reject
+INV-000250,PO-00236,SUP-014,4165.56,USD,2025-09-01,Payroll Processing Fees - Oct (Shipping/Tax Diff),Finance,User_9,Review Further
+INV-000251,,SUP-007,384.29,USD,2025-05-28,Suspicious Non-PO Request,IT,User_7,Reject
+INV-000252,PO-00027,SUP-001,47374.0,EUR,2025-11-19,Security Guard Services - Nov,Operations,User_3,Approve
+INV-000253,PO-00201,SUP-050,46052.63,USD,2025-09-22,Waste Management Services (Shipping/Tax Diff),Operations,User_16,Review Further
+INV-000254,PO-00284,SUP-048,35550.74,USD,2025-02-27,Payroll Processing Fees - Oct (Shipping/Tax Diff),Finance,User_17,Review Further
+INV-000255,PO-00244,SUP-022,34105.44,USD,2025-07-16,Audit Services - FY2025,Finance,User_3,Approve
+INV-000256,PO-00098,SUP-013,38180.87,USD,2025-08-15,Monitor 27-inch 4K - Dell UltraSharp,IT,User_14,Approve
+INV-000257,PO-00075,SUP-015,16405.66,USD,2025-11-29,Dell Latitude 5520 Laptop (Count: 5) (Shipping/Tax Diff),IT,User_10,Review Further
+INV-000258,PO-00037,SUP-011,47359.61,USD,2025-08-03,Microsoft 365 Enterprise Licenses (Annual),IT,User_7,Reject
+INV-000259,,SUP-024,3080.87,USD,2025-02-11,Cisco Meraki MR56 Access Points,IT,User_10,Review Further
+INV-000260,PO-00079,SUP-009,44372.38,USD,2025-06-12,Cisco Meraki MR56 Access Points (Shipping/Tax Diff),IT,User_2,Review Further
+INV-000261,PO-00172,SUP-006,23386.47,USD,2025-11-20,Breakroom Snacks and Coffee,Operations,User_1,Reject
+INV-000262,PO-00244,SUP-022,34105.44,USD,2025-07-08,Audit Services - FY2025,Finance,User_3,Approve
+INV-000263,PO-00219,SUP-045,33861.45,EUR,2025-03-14,Creative Design for Holiday Campaign,Marketing,User_14,Approve
+INV-000264,,SUP-043,3576.0,USD,2025-11-05,Suspicious Non-PO Request,Finance,User_3,Reject
+INV-000265,PO-00165,SUP-022,2776.55,USD,2025-03-06,Audit Services - FY2025,Finance,User_12,Approve
+INV-000266,,SUP-027,828.68,USD,2025-03-07,Suspicious Non-PO Request,Finance,User_19,Reject
+INV-000267,,SUP-048,2568.68,USD,2025-02-05,Tax Consultation Fees,Finance,User_1,Review Further
+INV-000268,PO-00197,SUP-044,44060.81,USD,2025-05-18,Audit Services - FY2025,Finance,User_9,Reject
+INV-000269,PO-00017,SUP-014,23213.17,USD,2026-01-05,Unrelated Service Fee,Finance,User_8,Reject
+INV-000270,,SUP-046,1278.9,USD,2025-06-26,Suspicious Non-PO Request,Operations,User_9,Reject
+INV-000271,,SUP-023,3382.96,USD,2025-02-09,Suspicious Non-PO Request,Finance,User_6,Reject
+INV-000272,PO-00258,SUP-030,31886.5,USD,2025-12-27,Software Development Consultation - Q3,IT,User_17,Reject
+INV-000273,PO-00092,SUP-030,15281.33,EUR,2025-07-19,Monitor 27-inch 4K - Dell UltraSharp,IT,User_18,Approve
+INV-000274,PO-00211,SUP-025,17906.49,USD,2025-07-05,Office Supplies - Paper/Pens/Ink,Operations,User_16,Approve
+INV-000275,,SUP-007,3933.31,USD,2025-11-28,Suspicious Non-PO Request,IT,User_8,Reject
+INV-000276,PO-00145,SUP-016,43313.07,EUR,2025-09-12,Unrelated Service Fee,Operations,User_14,Reject
+INV-000277,PO-00039,SUP-025,43787.05,EUR,2025-05-22,Security Guard Services - Nov,Operations,User_18,Approve
+INV-000278,PO-00171,SUP-010,49968.99,USD,2025-05-30,Payroll Processing Fees - Oct,Finance,User_8,Approve
+INV-000279,PO-00166,SUP-018,7705.7,USD,2025-09-13,Unrelated Service Fee,Operations,User_6,Reject
+INV-000280,,SUP-028,3303.65,USD,2025-06-20,Suspicious Non-PO Request,IT,User_4,Reject
+INV-000281,,SUP-042,2485.54,USD,2025-02-13,Breakroom Snacks and Coffee,Operations,User_5,Review Further
+INV-000282,PO-00151,SUP-026,29394.39,EUR,2025-06-26,Payroll Processing Fees - Oct,Finance,User_8,Reject
+INV-000283,PO-00218,SUP-002,5059.55,USD,2025-12-26,Q3 Digital Ad Campaign Management (Shipping/Tax Diff),Marketing,User_6,Review Further
+INV-000284,PO-00151,SUP-026,21066.77,EUR,2025-07-09,Payroll Processing Fees - Oct,Finance,User_8,Approve
+INV-000285,,SUP-006,3329.1,USD,2025-03-21,Breakroom Snacks and Coffee,Operations,User_8,Review Further
+INV-000286,PO-00021,SUP-048,19390.15,USD,2025-08-20,Unrelated Service Fee,Finance,User_18,Reject
+INV-000287,PO-00104,SUP-010,1771.08,EUR,2025-11-11,Financial Reporting Software - Seat License,Finance,User_13,Approve
+INV-000288,PO-00212,SUP-034,17830.64,USD,2025-04-17,Software Development Consultation - Q3,IT,User_9,Approve
+INV-000289,,SUP-003,573.01,USD,2025-09-01,Suspicious Non-PO Request,IT,User_15,Reject
+INV-000290,PO-00298,SUP-032,33362.14,USD,2025-10-03,Payroll Processing Fees - Oct,Finance,User_5,Reject
+INV-000291,PO-00253,SUP-015,2662.78,USD,2025-10-09,Software Development Consultation - Q3,IT,User_15,Approve
+INV-000292,PO-00229,SUP-038,48824.89,EUR,2026-01-23,Security Guard Services - Nov (Shipping/Tax Diff),Operations,User_4,Review Further
+INV-000293,,SUP-040,3570.23,USD,2025-07-15,Suspicious Non-PO Request,Marketing,User_13,Reject
+INV-000294,,SUP-011,4953.85,USD,2025-01-29,Suspicious Non-PO Request,IT,User_13,Reject
+INV-000295,PO-00196,SUP-025,5941.35,USD,2025-04-20,Office Cleaning Services - Monthly,Operations,User_1,Approve
+INV-000296,PO-00028,SUP-043,6855.38,USD,2025-03-20,Payroll Processing Fees - Oct,Finance,User_9,Approve
+INV-000297,,SUP-039,3915.75,USD,2025-05-07,Suspicious Non-PO Request,Operations,User_5,Reject
+INV-000298,PO-00279,SUP-023,27044.87,USD,2025-05-06,Payroll Processing Fees - Oct (Shipping/Tax Diff),Finance,User_17,Review Further
+INV-000299,PO-00261,SUP-037,21037.4,USD,2025-02-01,Monitor 27-inch 4K - Dell UltraSharp,IT,User_8,Approve
+INV-000300,,SUP-010,3247.64,USD,2025-03-20,Financial Reporting Software - Seat License,Finance,User_3,Review Further
+INV-000301,PO-00106,SUP-030,39913.25,USD,2025-04-22,Dell Latitude 5520 Laptop (Count: 5),IT,User_18,Approve
+INV-000302,PO-00273,SUP-031,2880.92,USD,2025-04-20,Video Production Services - Promo (Shipping/Tax Diff),Marketing,User_15,Review Further
+INV-000303,,SUP-013,1112.84,USD,2025-04-19,Suspicious Non-PO Request,IT,User_9,Reject
+INV-000304,,SUP-010,3089.83,USD,2025-11-25,Bank Transaction Fees,Finance,User_8,Review Further
+INV-000305,PO-00091,SUP-019,48187.52,EUR,2025-08-10,Office Cleaning Services - Monthly (Shipping/Tax Diff),Operations,User_16,Review Further
+INV-000306,PO-00243,SUP-030,8879.96,USD,2025-12-27,Software Development Consultation - Q3 (Shipping/Tax Diff),IT,User_13,Review Further
+INV-000307,PO-00065,SUP-002,17808.09,USD,2025-09-29,Unrelated Service Fee,Marketing,User_1,Reject
+INV-000308,PO-00195,SUP-025,15338.68,USD,2025-02-05,HVAC Maintenance and Repair (Shipping/Tax Diff),Operations,User_18,Review Further
+INV-000309,PO-00007,SUP-040,18269.48,USD,2025-03-25,Video Production Services - Promo,Marketing,User_2,Approve
+INV-000310,PO-00236,SUP-014,3880.17,USD,2025-09-14,Payroll Processing Fees - Oct,Finance,User_9,Approve
+INV-000311,,SUP-007,4958.08,USD,2025-10-12,Suspicious Non-PO Request,IT,User_12,Reject
+INV-000312,,SUP-017,3301.48,USD,2025-05-30,Suspicious Non-PO Request,IT,User_18,Reject
+INV-000313,PO-00012,SUP-004,10870.6,GBP,2025-08-08,Breakroom Snacks and Coffee,Operations,User_20,Review Further
+INV-000314,PO-00140,SUP-033,38273.9,EUR,2025-02-15,Unrelated Service Fee,Marketing,User_17,Reject
+INV-000315,,SUP-005,1624.12,USD,2026-01-06,Suspicious Non-PO Request,Operations,User_12,Reject
+INV-000316,PO-00198,SUP-042,40840.47,USD,2025-04-20,Security Guard Services - Nov (Shipping/Tax Diff),Operations,User_16,Review Further
+INV-000317,PO-00191,SUP-010,9895.52,EUR,2025-06-07,Audit Services - FY2025,Finance,User_3,Approve
+INV-000318,,SUP-037,1201.49,USD,2025-05-06,Server Rack Maintenance Fee,IT,User_1,Review Further
+INV-000319,PO-00134,SUP-024,39497.49,EUR,2025-06-07,Lenovo ThinkPad X1 Carbon Gen 9,IT,User_4,Approve
+INV-000320,PO-00070,SUP-022,19567.17,USD,2025-04-04,Corporate Insurance Premium,Finance,User_9,Approve
+INV-000321,,SUP-004,781.17,USD,2026-01-09,Suspicious Non-PO Request,Operations,User_5,Reject
+INV-000322,PO-00205,SUP-004,32239.8,EUR,2025-05-30,Office Supplies - Paper/Pens/Ink,Operations,User_11,Reject
+INV-000323,PO-00014,SUP-003,34564.02,USD,2025-12-28,Lenovo ThinkPad X1 Carbon Gen 9,IT,User_2,Approve
+INV-000324,,SUP-031,829.64,USD,2025-08-25,Video Production Services - Promo,Marketing,User_16,Review Further
+INV-000325,PO-00148,SUP-021,1929.04,GBP,2025-04-09,Bank Transaction Fees,Finance,User_6,Review Further
+INV-000326,,SUP-045,2965.3,USD,2025-04-13,Suspicious Non-PO Request,Marketing,User_13,Reject
+INV-000327,,SUP-007,929.66,USD,2025-01-14,Suspicious Non-PO Request,IT,User_19,Reject
+INV-000328,PO-00144,SUP-035,24530.74,USD,2025-03-13,Facilities Management Retainer (Shipping/Tax Diff),Operations,User_11,Review Further
+INV-000329,,SUP-012,2849.47,USD,2025-09-25,Suspicious Non-PO Request,IT,User_5,Reject
+INV-000330,,SUP-019,4912.78,USD,2025-04-09,Suspicious Non-PO Request,Operations,User_3,Reject
+INV-000331,,SUP-047,1285.23,USD,2025-02-17,Suspicious Non-PO Request,IT,User_12,Reject
+INV-000332,PO-00113,SUP-033,10999.93,USD,2025-10-19,Creative Design for Holiday Campaign,Marketing,User_9,Approve
+INV-000333,PO-00300,SUP-017,29595.41,EUR,2026-01-08,Unrelated Service Fee,IT,User_17,Reject
+INV-000334,PO-00294,SUP-017,14872.93,USD,2025-11-12,Cloud Hosting Services - AWS,IT,User_6,Approve
+INV-000335,,SUP-018,2423.47,USD,2025-11-05,Suspicious Non-PO Request,Operations,User_8,Reject
+INV-000336,PO-00020,SUP-050,8065.65,EUR,2025-03-13,HVAC Maintenance and Repair,Operations,User_20,Approve
+INV-000337,PO-00286,SUP-001,47216.1,USD,2025-06-08,Facilities Management Retainer,Operations,User_13,Reject
+INV-000338,,SUP-012,421.26,USD,2025-03-02,Suspicious Non-PO Request,IT,User_11,Reject
+INV-000339,PO-00234,SUP-039,4533.32,EUR,2025-12-19,Pest Control Quarterly Service (Shipping/Tax Diff),Operations,User_19,Review Further
+INV-000340,,SUP-049,1067.47,USD,2025-04-21,Suspicious Non-PO Request,Operations,User_14,Reject
+INV-000341,,SUP-013,524.78,USD,2025-08-03,Server Rack Maintenance Fee,IT,User_19,Review Further
+INV-000342,PO-00226,SUP-042,22092.87,USD,2025-02-23,Pest Control Quarterly Service,Operations,User_11,Approve
+INV-000343,PO-00290,SUP-005,20733.99,USD,2025-10-20,Security Guard Services - Nov (Shipping/Tax Diff),Operations,User_9,Review Further
+INV-000344,,SUP-013,1494.47,USD,2025-02-24,Suspicious Non-PO Request,IT,User_16,Reject
+INV-000345,PO-00027,SUP-001,47374.0,EUR,2025-12-13,Security Guard Services - Nov,Operations,User_3,Approve
+INV-000346,,SUP-014,3227.24,USD,2025-07-31,Suspicious Non-PO Request,Finance,User_6,Reject
+INV-000347,PO-00059,SUP-027,41812.45,USD,2025-02-18,Corporate Insurance Premium,Finance,User_14,Approve
+INV-000348,PO-00182,SUP-030,18744.99,EUR,2025-09-21,Cloud Hosting Services - AWS,IT,User_12,Approve
+INV-000349,PO-00042,SUP-045,606.69,USD,2025-09-10,Email Marketing Platform Subscription,Marketing,User_15,Approve
+INV-000350,PO-00032,SUP-043,4014.16,USD,2025-02-09,Bank Transaction Fees,Finance,User_8,Approve
+INV-000351,PO-00300,SUP-017,29595.41,EUR,2026-01-14,Cisco Meraki MR56 Access Points,IT,User_17,Approve
+INV-000352,,SUP-035,351.87,USD,2025-07-31,Suspicious Non-PO Request,Operations,User_17,Reject
+INV-000353,PO-00109,SUP-022,45383.26,USD,2025-05-04,Bank Transaction Fees,Finance,User_20,Reject
+INV-000354,,SUP-025,4518.75,USD,2025-01-31,HVAC Maintenance and Repair,Operations,User_17,Review Further
+INV-000355,PO-00150,SUP-006,47379.51,EUR,2025-09-18,HVAC Maintenance and Repair,Operations,User_10,Approve
+INV-000356,PO-00223,SUP-020,49958.95,USD,2025-06-15,Breakroom Snacks and Coffee,Operations,User_11,Reject
+INV-000357,PO-00042,SUP-045,874.81,USD,2025-08-13,Email Marketing Platform Subscription,Marketing,User_15,Reject
+INV-000358,PO-00220,SUP-046,22381.19,GBP,2025-11-26,Breakroom Snacks and Coffee,Operations,User_17,Review Further
+INV-000359,PO-00096,SUP-017,1841.55,USD,2026-01-09,Monitor 27-inch 4K - Dell UltraSharp,IT,User_15,Approve
+INV-000360,PO-00085,SUP-024,21623.67,GBP,2025-09-30,Server Rack Maintenance Fee,IT,User_16,Review Further
+INV-000361,PO-00253,SUP-015,2851.78,USD,2025-09-22,Software Development Consultation - Q3 (Shipping/Tax Diff),IT,User_15,Review Further
+INV-000362,,SUP-043,2854.64,USD,2025-11-08,Suspicious Non-PO Request,Finance,User_4,Reject
+INV-000363,,SUP-039,1466.16,USD,2025-10-15,Waste Management Services,Operations,User_12,Review Further
+INV-000364,PO-00295,SUP-009,12279.83,USD,2025-10-27,Lenovo ThinkPad X1 Carbon Gen 9 (Shipping/Tax Diff),IT,User_8,Review Further
+INV-000365,,SUP-048,3062.84,USD,2026-01-04,Suspicious Non-PO Request,Finance,User_13,Reject
+INV-000366,PO-00121,SUP-016,32257.0,USD,2025-10-27,Security Guard Services - Nov (Shipping/Tax Diff),Operations,User_10,Review Further
+INV-000367,PO-00127,SUP-003,47481.72,USD,2025-11-18,Microsoft 365 Enterprise Licenses (Annual),IT,User_4,Approve
+INV-000368,PO-00185,SUP-016,2744.67,USD,2025-05-09,Unrelated Service Fee,Operations,User_16,Reject
+INV-000369,,SUP-016,4351.06,USD,2025-03-23,Suspicious Non-PO Request,Operations,User_10,Reject
+INV-000370,PO-00294,SUP-017,15682.97,USD,2025-11-16,Cloud Hosting Services - AWS (Shipping/Tax Diff),IT,User_6,Review Further
+INV-000371,,SUP-014,4128.65,USD,2025-09-19,Suspicious Non-PO Request,Finance,User_17,Reject
+INV-000372,PO-00131,SUP-045,4518.78,USD,2026-01-07,SEO Optimization Services,Marketing,User_18,Approve
+INV-000373,PO-00194,SUP-025,11189.59,USD,2025-12-14,Office Supplies - Paper/Pens/Ink,Operations,User_5,Approve
+INV-000374,PO-00271,SUP-002,31965.7,USD,2025-02-18,Video Production Services - Promo,Marketing,User_1,Approve
+INV-000375,PO-00258,SUP-030,24289.24,USD,2025-12-12,Software Development Consultation - Q3,IT,User_17,Approve
+INV-000376,,SUP-008,2309.42,USD,2025-07-17,Suspicious Non-PO Request,IT,User_7,Reject
+INV-000377,PO-00029,SUP-016,21445.33,USD,2025-11-28,Office Supplies - Paper/Pens/Ink,Operations,User_10,Approve
+INV-000378,PO-00161,SUP-003,34788.88,USD,2025-12-31,Microsoft 365 Enterprise Licenses (Annual),IT,User_18,Approve
+INV-000379,PO-00076,SUP-018,39395.06,EUR,2025-09-22,Facilities Management Retainer,Operations,User_15,Approve
+INV-000380,PO-00021,SUP-048,19390.15,USD,2025-08-10,Payroll Processing Fees - Oct,Finance,User_18,Approve
+INV-000381,PO-00280,SUP-026,36490.53,EUR,2025-04-11,Audit Services - FY2025,Finance,User_20,Approve
+INV-000382,,SUP-015,185.88,USD,2025-02-08,Suspicious Non-PO Request,IT,User_6,Reject
+INV-000383,PO-00130,SUP-016,32838.68,USD,2025-02-15,Security Guard Services - Nov (Shipping/Tax Diff),Operations,User_7,Review Further
+INV-000384,PO-00290,SUP-005,25865.84,USD,2025-10-15,Security Guard Services - Nov,Operations,User_9,Reject
+INV-000385,PO-00295,SUP-009,12326.34,USD,2025-10-21,Lenovo ThinkPad X1 Carbon Gen 9 (Shipping/Tax Diff),IT,User_8,Review Further
+INV-000386,PO-00233,SUP-050,8483.39,USD,2025-03-30,Office Supplies - Paper/Pens/Ink (Shipping/Tax Diff),Operations,User_20,Review Further
+INV-000387,PO-00190,SUP-027,45133.96,USD,2025-11-08,Bank Transaction Fees,Finance,User_2,Approve
+INV-000388,PO-00126,SUP-010,4941.35,USD,2025-10-25,Bank Transaction Fees,Finance,User_5,Reject
+INV-000389,PO-00275,SUP-036,10478.75,USD,2025-07-19,Unrelated Service Fee,Finance,User_11,Reject
+INV-000390,PO-00090,SUP-048,28875.1,USD,2025-07-07,Payroll Processing Fees - Oct (Shipping/Tax Diff),Finance,User_7,Review Further
+INV-000391,PO-00135,SUP-028,32557.92,USD,2025-05-30,Cloud Hosting Services - AWS,IT,User_3,Approve
+INV-000392,PO-00264,SUP-009,30959.74,USD,2025-10-12,Microsoft 365 Enterprise Licenses (Annual),IT,User_9,Approve
+INV-000393,,SUP-047,792.15,USD,2025-05-17,Suspicious Non-PO Request,IT,User_2,Reject
+INV-000394,PO-00255,SUP-046,53120.62,USD,2025-07-08,Pest Control Quarterly Service (Shipping/Tax Diff),Operations,User_12,Review Further
+INV-000395,PO-00237,SUP-018,17921.14,USD,2025-02-14,Security Guard Services - Nov,Operations,User_15,Approve
+INV-000396,PO-00202,SUP-004,45013.7,USD,2025-03-14,Unrelated Service Fee,Operations,User_3,Reject
+INV-000397,PO-00054,SUP-011,8194.67,USD,2025-11-28,Cloud Hosting Services - AWS,IT,User_11,Approve
+INV-000398,PO-00259,SUP-039,4651.82,USD,2025-07-21,HVAC Maintenance and Repair,Operations,User_15,Approve
+INV-000399,PO-00005,SUP-036,40566.81,USD,2025-06-16,Audit Services - FY2025,Finance,User_14,Approve
+INV-000400,PO-00134,SUP-024,46771.39,EUR,2025-06-07,Lenovo ThinkPad X1 Carbon Gen 9,IT,User_4,Reject
+INV-000401,PO-00273,SUP-031,2952.31,USD,2025-05-06,Video Production Services - Promo (Shipping/Tax Diff),Marketing,User_15,Review Further
+INV-000402,PO-00178,SUP-030,28415.05,USD,2025-08-09,Cloud Hosting Services - AWS (Shipping/Tax Diff),IT,User_9,Review Further
+INV-000403,PO-00042,SUP-045,822.03,USD,2025-08-26,Email Marketing Platform Subscription,Marketing,User_15,Reject
+INV-000404,PO-00270,SUP-014,3850.13,USD,2025-08-27,Corporate Insurance Premium,Finance,User_13,Approve
+INV-000405,PO-00113,SUP-033,16074.19,USD,2025-10-23,Creative Design for Holiday Campaign,Marketing,User_9,Reject
+INV-000406,,SUP-032,3419.45,USD,2025-10-12,Payroll Processing Fees - Oct,Finance,User_10,Review Further
+INV-000407,PO-00290,SUP-005,19655.88,USD,2025-10-19,Security Guard Services - Nov,Operations,User_9,Approve
+INV-000408,PO-00078,SUP-009,33360.76,USD,2025-11-03,Unrelated Service Fee,IT,User_8,Reject
+INV-000409,,SUP-038,4318.85,USD,2025-04-16,Suspicious Non-PO Request,Operations,User_3,Reject
+INV-000410,PO-00146,SUP-014,26162.75,EUR,2025-04-24,Corporate Insurance Premium,Finance,User_15,Approve
+INV-000411,,SUP-006,1403.96,USD,2025-04-10,Suspicious Non-PO Request,Operations,User_19,Reject
+INV-000412,PO-00248,SUP-022,39687.27,USD,2026-01-18,Tax Consultation Fees,Finance,User_14,Approve
+INV-000413,PO-00057,SUP-044,32037.11,USD,2025-04-18,Financial Reporting Software - Seat License,Finance,User_15,Approve
+INV-000414,PO-00141,SUP-044,9483.71,EUR,2025-06-08,Corporate Insurance Premium,Finance,User_16,Approve
+INV-000415,PO-00202,SUP-004,45013.7,GBP,2025-03-13,Facilities Management Retainer,Operations,User_3,Review Further
+INV-000416,PO-00158,SUP-046,50681.7,USD,2025-10-10,HVAC Maintenance and Repair (Shipping/Tax Diff),Operations,User_4,Review Further
+INV-000417,,SUP-009,4391.08,USD,2025-06-22,Suspicious Non-PO Request,IT,User_5,Reject
+INV-000418,PO-00132,SUP-025,632.45,EUR,2025-04-07,Pest Control Quarterly Service,Operations,User_10,Approve
+INV-000419,,SUP-005,1489.6,USD,2025-10-07,Suspicious Non-PO Request,Operations,User_20,Reject
+INV-000420,PO-00235,SUP-023,34216.11,USD,2025-10-02,Corporate Insurance Premium,Finance,User_11,Approve
+INV-000421,PO-00184,SUP-013,3629.24,USD,2026-01-06,Server Rack Maintenance Fee,IT,User_14,Approve
+INV-000422,,SUP-036,1160.39,USD,2025-03-22,Bank Transaction Fees,Finance,User_7,Review Further
+INV-000423,PO-00207,SUP-021,13117.04,EUR,2026-01-31,Tax Consultation Fees,Finance,User_3,Approve
+INV-000424,PO-00181,SUP-002,39638.76,USD,2025-04-11,Q3 Digital Ad Campaign Management,Marketing,User_18,Approve
+INV-000425,,SUP-039,2696.93,USD,2025-02-07,Suspicious Non-PO Request,Operations,User_20,Reject
+INV-000426,PO-00039,SUP-025,43787.05,EUR,2025-07-05,Security Guard Services - Nov,Operations,User_18,Approve
+INV-000427,,SUP-037,2249.36,USD,2025-03-18,Suspicious Non-PO Request,IT,User_18,Reject
+INV-000428,,SUP-028,3491.2,USD,2025-12-02,Suspicious Non-PO Request,IT,User_1,Reject
+INV-000429,,SUP-039,2625.53,USD,2025-11-28,Suspicious Non-PO Request,Operations,User_20,Reject
+INV-000430,PO-00124,SUP-022,15509.56,EUR,2025-11-10,Payroll Processing Fees - Oct (Shipping/Tax Diff),Finance,User_11,Review Further
+INV-000431,PO-00169,SUP-045,49240.8,USD,2025-09-22,Google Ads Spend - September (Shipping/Tax Diff),Marketing,User_15,Review Further
+INV-000432,PO-00178,SUP-030,26777.19,USD,2025-07-31,Cloud Hosting Services - AWS,IT,User_9,Approve
+INV-000433,,SUP-033,2506.96,USD,2025-04-30,Video Production Services - Promo,Marketing,User_16,Review Further
+INV-000434,,SUP-016,490.56,USD,2025-03-11,Pest Control Quarterly Service,Operations,User_19,Review Further
+INV-000435,,SUP-025,2582.94,USD,2025-03-06,Suspicious Non-PO Request,Operations,User_9,Reject
+INV-000436,PO-00287,SUP-001,30452.19,USD,2025-02-03,Pest Control Quarterly Service,Operations,User_12,Approve
+INV-000437,,SUP-012,914.77,USD,2025-02-03,Suspicious Non-PO Request,IT,User_10,Reject
+INV-000438,PO-00080,SUP-039,33462.01,EUR,2025-09-17,Security Guard Services - Nov (Shipping/Tax Diff),Operations,User_14,Review Further
+INV-000439,,SUP-003,735.05,USD,2025-12-11,Suspicious Non-PO Request,IT,User_6,Reject
+INV-000440,PO-00021,SUP-048,19390.15,GBP,2025-08-05,Payroll Processing Fees - Oct,Finance,User_18,Review Further
+INV-000441,PO-00180,SUP-012,37830.5,EUR,2025-04-04,Lenovo ThinkPad X1 Carbon Gen 9,IT,User_18,Approve
+INV-000442,PO-00108,SUP-043,7355.56,EUR,2025-10-22,Financial Reporting Software - Seat License,Finance,User_5,Reject
+INV-000443,PO-00125,SUP-029,13721.04,USD,2025-03-26,Payroll Processing Fees - Oct (Shipping/Tax Diff),Finance,User_3,Review Further
+INV-000444,PO-00006,SUP-044,8196.24,USD,2025-06-12,Unrelated Service Fee,Finance,User_3,Reject
+INV-000445,PO-00280,SUP-026,36490.53,USD,2025-04-10,Audit Services - FY2025,Finance,User_20,Review Further
+INV-000446,PO-00098,SUP-013,41257.02,USD,2025-08-18,Monitor 27-inch 4K - Dell UltraSharp (Shipping/Tax Diff),IT,User_14,Review Further
+INV-000447,PO-00087,SUP-046,4335.43,GBP,2025-09-27,Breakroom Snacks and Coffee,Operations,User_9,Review Further
+INV-000448,PO-00135,SUP-028,32557.92,USD,2025-06-05,Cloud Hosting Services - AWS,IT,User_3,Approve
+INV-000449,PO-00065,SUP-002,17808.09,USD,2025-10-18,SEO Optimization Services,Marketing,User_1,Approve
+INV-000450,PO-00022,SUP-019,39372.81,USD,2026-02-03,Breakroom Snacks and Coffee (Shipping/Tax Diff),Operations,User_4,Review Further
+INV-000451,PO-00068,SUP-044,29239.19,USD,2025-05-28,Financial Reporting Software - Seat License,Finance,User_4,Approve
+INV-000452,PO-00049,SUP-022,21717.03,USD,2025-06-26,Bank Transaction Fees (Shipping/Tax Diff),Finance,User_15,Review Further
+INV-000453,PO-00203,SUP-043,31403.72,USD,2025-06-26,Corporate Insurance Premium,Finance,User_13,Approve
+INV-000454,PO-00061,SUP-048,6098.61,EUR,2026-01-30,Corporate Insurance Premium (Shipping/Tax Diff),Finance,User_20,Review Further
+INV-000455,,SUP-020,3234.82,USD,2025-04-04,Suspicious Non-PO Request,Operations,User_17,Reject
+INV-000456,PO-00112,SUP-038,19259.97,EUR,2026-01-23,Office Cleaning Services - Monthly,Operations,User_11,Approve
+INV-000457,PO-00197,SUP-044,29648.22,USD,2025-06-02,Audit Services - FY2025,Finance,User_9,Approve
+INV-000458,,SUP-038,1152.4,USD,2025-12-09,Suspicious Non-PO Request,Operations,User_13,Reject
+INV-000459,,SUP-028,2248.73,USD,2025-11-03,Suspicious Non-PO Request,IT,User_15,Reject
+INV-000460,PO-00212,SUP-034,17830.64,USD,2025-04-11,Software Development Consultation - Q3,IT,User_9,Approve
+INV-000461,PO-00018,SUP-043,13505.71,EUR,2025-11-11,Corporate Insurance Premium,Finance,User_19,Approve
+INV-000462,PO-00271,SUP-002,33709.26,USD,2025-03-16,Video Production Services - Promo (Shipping/Tax Diff),Marketing,User_1,Review Further
+INV-000463,PO-00014,SUP-003,34564.02,GBP,2026-01-12,Lenovo ThinkPad X1 Carbon Gen 9,IT,User_2,Review Further
+INV-000464,,SUP-046,3373.8,USD,2025-07-07,Suspicious Non-PO Request,Operations,User_12,Reject
+INV-000465,PO-00124,SUP-022,14574.8,EUR,2025-12-13,Payroll Processing Fees - Oct,Finance,User_11,Approve
+INV-000466,PO-00141,SUP-044,10172.48,EUR,2025-06-12,Corporate Insurance Premium (Shipping/Tax Diff),Finance,User_16,Review Further
+INV-000467,PO-00075,SUP-015,15397.02,USD,2025-11-23,Dell Latitude 5520 Laptop (Count: 5),IT,User_10,Approve
+INV-000468,PO-00012,SUP-004,11711.82,USD,2025-08-07,Breakroom Snacks and Coffee (Shipping/Tax Diff),Operations,User_20,Review Further
+INV-000469,PO-00016,SUP-016,43880.2,USD,2025-11-11,Facilities Management Retainer,Operations,User_16,Approve
+INV-000470,PO-00105,SUP-039,29808.84,USD,2025-03-20,Unrelated Service Fee,Operations,User_10,Reject
+INV-000471,,SUP-018,3073.72,USD,2025-04-20,Waste Management Services,Operations,User_4,Review Further
+INV-000472,PO-00236,SUP-014,3880.17,USD,2025-09-18,Payroll Processing Fees - Oct,Finance,User_9,Approve
+INV-000473,,SUP-045,2101.63,USD,2025-12-04,Suspicious Non-PO Request,Marketing,User_19,Reject
+INV-000474,PO-00219,SUP-045,33861.45,USD,2025-02-17,Creative Design for Holiday Campaign,Marketing,User_14,Review Further
+INV-000475,PO-00024,SUP-016,45675.08,USD,2025-10-04,Breakroom Snacks and Coffee,Operations,User_5,Approve
+INV-000476,PO-00223,SUP-020,38483.8,USD,2025-06-09,Breakroom Snacks and Coffee,Operations,User_11,Approve
+INV-000477,PO-00266,SUP-046,6531.49,USD,2025-06-29,Office Supplies - Paper/Pens/Ink,Operations,User_20,Review Further
+INV-000478,PO-00247,SUP-037,29954.54,USD,2025-03-30,Microsoft 365 Enterprise Licenses (Annual),IT,User_18,Approve
+INV-000479,,SUP-022,3304.73,USD,2025-11-20,Suspicious Non-PO Request,Finance,User_11,Reject
+INV-000480,PO-00047,SUP-007,13479.52,USD,2025-11-27,Dell Latitude 5520 Laptop (Count: 5) (Shipping/Tax Diff),IT,User_14,Review Further
+INV-000481,PO-00133,SUP-037,17664.42,EUR,2025-06-08,Cloud Hosting Services - AWS,IT,User_3,Reject
+INV-000482,PO-00267,SUP-023,8652.35,USD,2025-03-23,Payroll Processing Fees - Oct,Finance,User_17,Reject
+INV-000483,PO-00002,SUP-043,36955.33,GBP,2025-05-06,Bank Transaction Fees,Finance,User_19,Review Further
+INV-000484,,SUP-003,1088.08,USD,2025-06-11,Suspicious Non-PO Request,IT,User_12,Reject
+INV-000485,PO-00225,SUP-026,49217.42,USD,2025-11-03,Corporate Insurance Premium,Finance,User_3,Reject
+INV-000486,PO-00171,SUP-010,53923.55,USD,2025-06-07,Payroll Processing Fees - Oct (Shipping/Tax Diff),Finance,User_8,Review Further
+INV-000487,PO-00262,SUP-044,19058.18,GBP,2025-03-31,Audit Services - FY2025,Finance,User_4,Review Further
+INV-000488,,SUP-015,4244.14,USD,2025-01-20,Microsoft 365 Enterprise Licenses (Annual),IT,User_17,Review Further
+INV-000489,,SUP-029,3367.76,USD,2025-04-26,Suspicious Non-PO Request,Finance,User_9,Reject
+INV-000490,PO-00080,SUP-039,30758.06,EUR,2025-09-18,Security Guard Services - Nov,Operations,User_14,Approve
+INV-000491,PO-00118,SUP-018,17914.62,USD,2025-08-06,Pest Control Quarterly Service,Operations,User_10,Approve
+INV-000492,,SUP-001,4079.43,USD,2025-03-07,Suspicious Non-PO Request,Operations,User_20,Reject
+INV-000493,PO-00224,SUP-032,25120.57,USD,2025-03-03,Payroll Processing Fees - Oct,Finance,User_5,Approve
+INV-000494,,SUP-043,3339.24,USD,2025-07-28,Suspicious Non-PO Request,Finance,User_13,Reject
+INV-000495,PO-00181,SUP-002,39638.76,USD,2025-04-06,Q3 Digital Ad Campaign Management,Marketing,User_18,Approve
+INV-000496,,SUP-010,3731.17,USD,2025-04-27,Suspicious Non-PO Request,Finance,User_20,Reject
+INV-000497,PO-00150,SUP-006,51537.32,EUR,2025-10-12,HVAC Maintenance and Repair (Shipping/Tax Diff),Operations,User_10,Review Further
+INV-000498,PO-00225,SUP-026,35331.73,USD,2025-10-26,Corporate Insurance Premium,Finance,User_3,Approve
+INV-000499,,SUP-013,928.26,USD,2025-12-29,Suspicious Non-PO Request,IT,User_3,Reject
+INV-000500,PO-00003,SUP-038,1974.96,USD,2025-02-02,Office Supplies - Paper/Pens/Ink,Operations,User_17,Approve
+INV-000501,PO-00091,SUP-019,48876.4,EUR,2025-08-18,Office Cleaning Services - Monthly (Shipping/Tax Diff),Operations,User_16,Review Further
+INV-000502,,SUP-028,2358.34,USD,2025-04-03,Suspicious Non-PO Request,IT,User_2,Reject
+INV-000503,PO-00063,SUP-010,42843.28,USD,2025-07-23,Payroll Processing Fees - Oct (Shipping/Tax Diff),Finance,User_9,Review Further
+INV-000504,PO-00097,SUP-023,14571.06,USD,2025-03-01,Financial Reporting Software - Seat License (Shipping/Tax Diff),Finance,User_15,Review Further
+INV-000505,PO-00050,SUP-047,1369.78,USD,2025-03-03,Microsoft 365 Enterprise Licenses (Annual),IT,User_18,Reject
+INV-000506,PO-00200,SUP-017,2808.17,EUR,2025-12-08,Cloud Hosting Services - AWS (Shipping/Tax Diff),IT,User_1,Review Further
+INV-000507,PO-00063,SUP-010,39228.13,USD,2025-07-22,Payroll Processing Fees - Oct,Finance,User_9,Approve
+INV-000508,,SUP-019,3775.65,USD,2025-10-12,Office Cleaning Services - Monthly,Operations,User_16,Review Further
+INV-000509,PO-00235,SUP-023,34216.11,USD,2025-10-12,Corporate Insurance Premium,Finance,User_11,Approve
+INV-000510,PO-00018,SUP-043,13505.71,USD,2025-11-29,Corporate Insurance Premium,Finance,User_19,Review Further
+INV-000511,PO-00030,SUP-027,32668.96,EUR,2025-12-31,Payroll Processing Fees - Oct,Finance,User_4,Approve
+INV-000512,PO-00300,SUP-017,32423.75,EUR,2025-12-31,Cisco Meraki MR56 Access Points (Shipping/Tax Diff),IT,User_17,Review Further
+INV-000513,PO-00292,SUP-020,45483.75,USD,2025-05-05,Pest Control Quarterly Service (Shipping/Tax Diff),Operations,User_15,Review Further
+INV-000514,,SUP-030,2593.78,USD,2025-03-04,Suspicious Non-PO Request,IT,User_6,Reject
+INV-000515,,SUP-025,3166.1,USD,2025-05-03,Security Guard Services - Nov,Operations,User_14,Review Further
+INV-000516,PO-00275,SUP-036,10478.75,USD,2025-07-11,Unrelated Service Fee,Finance,User_11,Reject
+INV-000517,PO-00102,SUP-011,23519.18,USD,2025-05-15,Unrelated Service Fee,IT,User_6,Reject
+INV-000518,,SUP-017,3598.5,USD,2025-02-02,Microsoft 365 Enterprise Licenses (Annual),IT,User_3,Review Further
+INV-000519,PO-00218,SUP-002,4994.2,USD,2025-12-02,Q3 Digital Ad Campaign Management (Shipping/Tax Diff),Marketing,User_6,Review Further
+INV-000520,PO-00040,SUP-011,32781.17,USD,2025-03-06,Dell Latitude 5520 Laptop (Count: 5),IT,User_8,Approve
+INV-000521,PO-00127,SUP-003,47481.72,USD,2025-12-12,Microsoft 365 Enterprise Licenses (Annual),IT,User_4,Approve
+INV-000522,,SUP-018,79.2,USD,2025-11-26,Suspicious Non-PO Request,Operations,User_3,Reject
+INV-000523,,SUP-042,4643.84,USD,2025-03-09,Suspicious Non-PO Request,Operations,User_10,Reject
+INV-000524,,SUP-032,4637.12,USD,2025-07-28,Bank Transaction Fees,Finance,User_13,Review Further
+INV-000525,,SUP-021,1138.34,USD,2025-08-02,Suspicious Non-PO Request,Finance,User_18,Reject
+INV-000526,,SUP-003,3402.58,USD,2025-12-11,Suspicious Non-PO Request,IT,User_12,Reject
+INV-000527,PO-00161,SUP-003,34788.88,USD,2025-11-30,Microsoft 365 Enterprise Licenses (Annual),IT,User_18,Approve
+INV-000528,PO-00168,SUP-035,11993.33,EUR,2025-05-03,Breakroom Snacks and Coffee,Operations,User_9,Approve
+INV-000529,PO-00110,SUP-024,23511.25,USD,2025-10-11,Cloud Hosting Services - AWS,IT,User_8,Approve
+INV-000530,,SUP-018,4532.86,USD,2025-10-03,HVAC Maintenance and Repair,Operations,User_5,Review Further
+INV-000531,PO-00275,SUP-036,10478.75,USD,2025-06-21,Tax Consultation Fees,Finance,User_11,Approve
+INV-000532,,SUP-019,4008.32,USD,2025-02-10,Suspicious Non-PO Request,Operations,User_18,Reject
+INV-000533,,SUP-034,3374.84,USD,2025-05-22,Suspicious Non-PO Request,IT,User_4,Reject
+INV-000534,PO-00058,SUP-006,28264.89,USD,2025-08-29,Security Guard Services - Nov,Operations,User_5,Approve
+INV-000535,PO-00029,SUP-016,21445.33,USD,2025-12-09,Office Supplies - Paper/Pens/Ink,Operations,User_10,Approve
+INV-000536,PO-00164,SUP-038,49874.45,EUR,2025-04-14,Security Guard Services - Nov,Operations,User_6,Reject
+INV-000537,PO-00120,SUP-042,10422.1,EUR,2026-01-23,Office Supplies - Paper/Pens/Ink (Shipping/Tax Diff),Operations,User_9,Review Further
+INV-000538,PO-00084,SUP-036,23094.86,USD,2025-04-07,Payroll Processing Fees - Oct,Finance,User_15,Approve
+INV-000539,,SUP-033,1146.55,USD,2025-12-08,Suspicious Non-PO Request,Marketing,User_14,Reject
+INV-000540,,SUP-031,3678.22,USD,2025-09-16,Suspicious Non-PO Request,Marketing,User_15,Reject
+INV-000541,PO-00002,SUP-043,39924.0,USD,2025-04-13,Bank Transaction Fees (Shipping/Tax Diff),Finance,User_19,Review Further
+INV-000542,PO-00009,SUP-044,31116.73,USD,2026-01-05,Financial Reporting Software - Seat License,Finance,User_3,Approve
+INV-000543,,SUP-029,3681.05,USD,2025-11-30,Bank Transaction Fees,Finance,User_3,Review Further
+INV-000544,,SUP-022,2560.53,USD,2025-01-29,Suspicious Non-PO Request,Finance,User_19,Reject
+INV-000545,PO-00013,SUP-030,49040.83,EUR,2025-11-18,Cisco Meraki MR56 Access Points,IT,User_13,Reject
+INV-000546,PO-00109,SUP-022,39075.15,USD,2025-05-22,Bank Transaction Fees (Shipping/Tax Diff),Finance,User_20,Review Further
+INV-000547,PO-00084,SUP-036,23094.86,USD,2025-04-16,Payroll Processing Fees - Oct,Finance,User_15,Approve
+INV-000548,PO-00217,SUP-021,17374.35,USD,2025-09-27,Financial Reporting Software - Seat License,Finance,User_11,Approve
+INV-000549,PO-00119,SUP-030,6472.47,GBP,2025-06-21,Lenovo ThinkPad X1 Carbon Gen 9,IT,User_4,Review Further
+INV-000550,PO-00268,SUP-040,38158.48,EUR,2025-06-23,Creative Design for Holiday Campaign (Shipping/Tax Diff),Marketing,User_1,Review Further
+INV-000551,PO-00265,SUP-016,27665.81,GBP,2025-05-01,Waste Management Services,Operations,User_10,Review Further
+INV-000552,PO-00052,SUP-009,8308.47,USD,2025-07-10,Cloud Hosting Services - AWS,IT,User_18,Approve
+INV-000553,,SUP-049,1358.57,USD,2025-05-13,Suspicious Non-PO Request,Operations,User_2,Reject
+INV-000554,PO-00246,SUP-039,17001.42,USD,2025-04-30,HVAC Maintenance and Repair,Operations,User_10,Approve
+INV-000555,PO-00188,SUP-007,30974.78,USD,2025-11-02,Cloud Hosting Services - AWS,IT,User_12,Approve
+INV-000556,PO-00203,SUP-043,34276.61,USD,2025-06-20,Corporate Insurance Premium (Shipping/Tax Diff),Finance,User_13,Review Further
+INV-000557,PO-00084,SUP-036,24686.69,USD,2025-04-24,Payroll Processing Fees - Oct (Shipping/Tax Diff),Finance,User_15,Review Further
+INV-000558,PO-00197,SUP-044,38000.57,USD,2025-05-30,Audit Services - FY2025,Finance,User_9,Reject
+INV-000559,PO-00190,SUP-027,45133.96,USD,2025-11-11,Bank Transaction Fees,Finance,User_2,Approve
+INV-000560,PO-00222,SUP-020,11415.66,USD,2025-03-17,Office Cleaning Services - Monthly,Operations,User_7,Approve
+INV-000561,,SUP-038,4416.07,USD,2025-08-27,Office Supplies - Paper/Pens/Ink,Operations,User_6,Review Further
+INV-000562,PO-00066,SUP-040,16748.97,USD,2025-08-18,Social Media Content Creation - Oct,Marketing,User_12,Approve
+INV-000563,,SUP-003,3030.0,USD,2025-03-15,Suspicious Non-PO Request,IT,User_8,Reject
+INV-000564,PO-00291,SUP-015,49820.07,EUR,2025-06-03,Cloud Hosting Services - AWS,IT,User_7,Approve
+INV-000565,PO-00146,SUP-014,28008.4,EUR,2025-05-06,Corporate Insurance Premium (Shipping/Tax Diff),Finance,User_15,Review Further
+INV-000566,,SUP-010,2888.76,USD,2025-04-06,Suspicious Non-PO Request,Finance,User_5,Reject
+INV-000567,PO-00255,SUP-046,48297.03,USD,2025-07-02,Pest Control Quarterly Service,Operations,User_12,Approve
+INV-000568,,SUP-049,941.19,USD,2025-08-09,Suspicious Non-PO Request,Operations,User_20,Reject
+INV-000569,PO-00248,SUP-022,39687.27,USD,2025-12-23,Unrelated Service Fee,Finance,User_14,Reject
+INV-000570,PO-00073,SUP-005,15809.59,USD,2025-10-11,Unrelated Service Fee,Operations,User_13,Reject
+INV-000571,,SUP-004,2083.3,USD,2025-03-28,Suspicious Non-PO Request,Operations,User_19,Reject
+INV-000572,PO-00287,SUP-001,30452.19,USD,2025-03-15,Pest Control Quarterly Service,Operations,User_12,Approve
+INV-000573,PO-00197,SUP-044,29648.22,USD,2025-06-22,Audit Services - FY2025,Finance,User_9,Approve
+INV-000574,,SUP-013,1922.15,USD,2025-03-22,Dell Latitude 5520 Laptop (Count: 5),IT,User_4,Review Further
+INV-000575,PO-00154,SUP-003,30884.93,USD,2025-11-17,Server Rack Maintenance Fee (Shipping/Tax Diff),IT,User_15,Review Further
+INV-000576,,SUP-049,4512.96,USD,2025-11-17,Security Guard Services - Nov,Operations,User_2,Review Further
+INV-000577,PO-00084,SUP-036,26568.79,USD,2025-04-30,Payroll Processing Fees - Oct,Finance,User_15,Reject
+INV-000578,PO-00248,SUP-022,41757.83,USD,2026-01-12,Tax Consultation Fees (Shipping/Tax Diff),Finance,User_14,Review Further
+INV-000579,PO-00113,SUP-033,15609.29,USD,2025-10-13,Creative Design for Holiday Campaign,Marketing,User_9,Reject
+INV-000580,PO-00030,SUP-027,35440.44,EUR,2025-12-30,Payroll Processing Fees - Oct (Shipping/Tax Diff),Finance,User_4,Review Further
+INV-000581,PO-00163,SUP-030,31742.47,USD,2025-05-29,Cloud Hosting Services - AWS,IT,User_3,Approve
+INV-000582,PO-00231,SUP-021,16986.9,USD,2025-06-15,Tax Consultation Fees,Finance,User_17,Approve
+INV-000583,PO-00154,SUP-003,29206.21,USD,2025-11-23,Server Rack Maintenance Fee,IT,User_15,Approve
+INV-000584,,SUP-028,3731.05,USD,2025-01-17,Suspicious Non-PO Request,IT,User_19,Reject
+INV-000585,PO-00262,SUP-044,19058.18,USD,2025-03-17,Audit Services - FY2025,Finance,User_4,Approve
+INV-000586,PO-00057,SUP-044,32037.11,USD,2025-04-18,Financial Reporting Software - Seat License,Finance,User_15,Approve
+INV-000587,PO-00084,SUP-036,23094.86,USD,2025-04-21,Payroll Processing Fees - Oct,Finance,User_15,Approve
+INV-000588,PO-00212,SUP-034,17830.64,USD,2025-03-28,Software Development Consultation - Q3,IT,User_9,Approve
+INV-000589,PO-00255,SUP-046,48297.03,USD,2025-07-05,Pest Control Quarterly Service,Operations,User_12,Approve
+INV-000590,PO-00076,SUP-018,42094.04,EUR,2025-09-27,Facilities Management Retainer (Shipping/Tax Diff),Operations,User_15,Review Further
+INV-000591,PO-00143,SUP-039,29664.74,USD,2025-07-27,Pest Control Quarterly Service,Operations,User_13,Reject
+INV-000592,PO-00294,SUP-017,20996.64,USD,2025-11-16,Cloud Hosting Services - AWS,IT,User_6,Reject
+INV-000593,PO-00162,SUP-005,41864.76,USD,2025-07-17,Pest Control Quarterly Service,Operations,User_20,Reject
+INV-000594,PO-00068,SUP-044,30777.25,USD,2025-05-10,Financial Reporting Software - Seat License (Shipping/Tax Diff),Finance,User_4,Review Further
+INV-000595,PO-00152,SUP-014,7659.78,USD,2025-10-29,Tax Consultation Fees,Finance,User_3,Approve
+INV-000596,PO-00289,SUP-041,14295.14,USD,2026-01-20,Microsoft 365 Enterprise Licenses (Annual),IT,User_6,Approve
+INV-000597,PO-00217,SUP-021,17374.35,USD,2025-09-18,Financial Reporting Software - Seat License,Finance,User_11,Approve
+INV-000598,PO-00203,SUP-043,34435.25,USD,2025-06-29,Corporate Insurance Premium (Shipping/Tax Diff),Finance,User_13,Review Further
+INV-000599,PO-00080,SUP-039,33214.82,EUR,2025-09-26,Security Guard Services - Nov (Shipping/Tax Diff),Operations,User_14,Review Further
+INV-000600,PO-00101,SUP-032,8042.93,EUR,2025-12-11,Tax Consultation Fees,Finance,User_4,Approve
+INV-000601,PO-00174,SUP-023,48964.76,USD,2025-12-29,Tax Consultation Fees,Finance,User_20,Reject
+INV-000602,PO-00296,SUP-027,19901.5,USD,2025-02-20,Corporate Insurance Premium (Shipping/Tax Diff),Finance,User_15,Review Further
+INV-000603,,SUP-008,51.42,USD,2025-04-04,Suspicious Non-PO Request,IT,User_3,Reject
+INV-000604,PO-00066,SUP-040,16748.97,USD,2025-09-13,Social Media Content Creation - Oct,Marketing,User_12,Approve
+INV-000605,,SUP-019,126.06,USD,2026-01-09,Suspicious Non-PO Request,Operations,User_3,Reject
+INV-000606,PO-00126,SUP-010,4447.82,USD,2025-10-10,Bank Transaction Fees (Shipping/Tax Diff),Finance,User_5,Review Further
+INV-000607,,SUP-041,4817.13,USD,2025-09-03,Dell Latitude 5520 Laptop (Count: 5),IT,User_13,Review Further
+INV-000608,PO-00122,SUP-003,9382.36,USD,2025-07-22,Dell Latitude 5520 Laptop (Count: 5),IT,User_9,Approve
+INV-000609,PO-00201,SUP-050,42441.28,USD,2025-09-24,Waste Management Services,Operations,User_16,Approve
+INV-000610,PO-00208,SUP-023,5114.89,USD,2025-04-04,Unrelated Service Fee,Finance,User_5,Reject
+INV-000611,,SUP-032,2241.7,USD,2025-07-26,Suspicious Non-PO Request,Finance,User_19,Reject
+INV-000612,PO-00220,SUP-046,29347.38,USD,2025-12-28,Breakroom Snacks and Coffee,Operations,User_17,Reject
+INV-000613,PO-00279,SUP-023,25062.06,USD,2025-05-06,Payroll Processing Fees - Oct,Finance,User_17,Approve
+INV-000614,,SUP-008,3186.63,USD,2025-05-06,Suspicious Non-PO Request,IT,User_8,Reject
+INV-000615,PO-00210,SUP-008,50060.23,USD,2026-01-08,Monitor 27-inch 4K - Dell UltraSharp (Shipping/Tax Diff),IT,User_10,Review Further
+INV-000616,,SUP-010,3384.8,USD,2025-07-08,Suspicious Non-PO Request,Finance,User_3,Reject
+INV-000617,PO-00113,SUP-033,10999.93,USD,2025-10-27,Creative Design for Holiday Campaign,Marketing,User_9,Approve
+INV-000618,,SUP-009,4738.23,USD,2025-12-29,Suspicious Non-PO Request,IT,User_7,Reject
+INV-000619,,SUP-046,1248.18,USD,2025-05-29,Office Supplies - Paper/Pens/Ink,Operations,User_7,Review Further
+INV-000620,,SUP-025,3112.05,USD,2025-04-03,Suspicious Non-PO Request,Operations,User_4,Reject
+INV-000621,PO-00206,SUP-028,22952.02,USD,2025-09-10,Microsoft 365 Enterprise Licenses (Annual) (Shipping/Tax Diff),IT,User_14,Review Further
+INV-000622,PO-00098,SUP-013,48123.01,USD,2025-08-11,Monitor 27-inch 4K - Dell UltraSharp,IT,User_14,Reject
+INV-000623,PO-00066,SUP-040,16748.97,USD,2025-09-08,Social Media Content Creation - Oct,Marketing,User_12,Approve
+INV-000624,,SUP-009,1149.36,USD,2025-11-05,Suspicious Non-PO Request,IT,User_5,Reject
+INV-000625,PO-00125,SUP-029,16527.21,USD,2025-03-25,Payroll Processing Fees - Oct,Finance,User_3,Reject
+INV-000626,PO-00081,SUP-038,36058.12,EUR,2025-05-01,Waste Management Services,Operations,User_13,Approve
+INV-000627,PO-00007,SUP-040,18269.48,USD,2025-04-18,Video Production Services - Promo,Marketing,User_2,Approve
+INV-000628,,SUP-043,3386.81,USD,2025-07-27,Suspicious Non-PO Request,Finance,User_19,Reject
+INV-000629,PO-00231,SUP-021,16986.9,USD,2025-06-12,Tax Consultation Fees,Finance,User_17,Approve
+INV-000630,,SUP-040,1383.57,USD,2025-11-23,Video Production Services - Promo,Marketing,User_11,Review Further
+INV-000631,PO-00191,SUP-010,9895.52,EUR,2025-06-28,Audit Services - FY2025,Finance,User_3,Approve
+INV-000632,PO-00149,SUP-044,1176.89,USD,2025-11-21,Payroll Processing Fees - Oct,Finance,User_8,Approve
+INV-000633,,SUP-024,699.14,USD,2025-11-04,Suspicious Non-PO Request,IT,User_8,Reject
+INV-000634,PO-00178,SUP-030,26777.19,GBP,2025-08-02,Cloud Hosting Services - AWS,IT,User_9,Review Further
+INV-000635,,SUP-017,4797.78,USD,2025-03-31,Dell Latitude 5520 Laptop (Count: 5),IT,User_16,Review Further
+INV-000636,PO-00060,SUP-036,15758.79,USD,2025-03-10,Unrelated Service Fee,Finance,User_7,Reject
+INV-000637,PO-00170,SUP-027,15308.14,USD,2025-12-12,Payroll Processing Fees - Oct,Finance,User_15,Approve
+INV-000638,PO-00096,SUP-017,1970.31,USD,2026-02-02,Monitor 27-inch 4K - Dell UltraSharp (Shipping/Tax Diff),IT,User_15,Review Further
+INV-000639,,SUP-027,1116.56,USD,2025-05-24,Bank Transaction Fees,Finance,User_16,Review Further
+INV-000640,PO-00060,SUP-036,15758.79,USD,2025-02-28,Audit Services - FY2025,Finance,User_7,Approve
+INV-000641,PO-00279,SUP-023,28995.36,USD,2025-04-27,Payroll Processing Fees - Oct,Finance,User_17,Reject
+INV-000642,PO-00231,SUP-021,18326.19,USD,2025-06-18,Tax Consultation Fees (Shipping/Tax Diff),Finance,User_17,Review Further
+INV-000643,PO-00128,SUP-015,30512.72,EUR,2025-09-03,Lenovo ThinkPad X1 Carbon Gen 9,IT,User_15,Approve
+INV-000644,PO-00050,SUP-047,1044.57,USD,2025-02-26,Microsoft 365 Enterprise Licenses (Annual) (Shipping/Tax Diff),IT,User_18,Review Further
+INV-000645,PO-00036,SUP-001,43259.92,USD,2025-10-21,Office Cleaning Services - Monthly,Operations,User_2,Approve
+INV-000646,PO-00224,SUP-032,37052.8,USD,2025-02-13,Payroll Processing Fees - Oct,Finance,User_5,Reject
+INV-000647,PO-00064,SUP-042,5850.73,USD,2026-01-13,Office Cleaning Services - Monthly,Operations,User_8,Review Further
+INV-000648,,SUP-049,1750.95,USD,2025-06-23,Suspicious Non-PO Request,Operations,User_11,Reject
+INV-000649,PO-00293,SUP-004,48394.28,USD,2026-01-27,Facilities Management Retainer,Operations,User_3,Approve
+INV-000650,PO-00061,SUP-048,5588.28,EUR,2026-01-24,Unrelated Service Fee,Finance,User_20,Reject
+INV-000651,PO-00289,SUP-041,14295.14,USD,2025-12-24,Microsoft 365 Enterprise Licenses (Annual),IT,User_6,Approve
+INV-000652,PO-00116,SUP-033,5106.14,EUR,2025-02-07,SEO Optimization Services,Marketing,User_8,Approve
+INV-000653,PO-00126,SUP-010,4167.07,USD,2025-09-28,Unrelated Service Fee,Finance,User_5,Reject
+INV-000654,,SUP-046,2015.38,USD,2025-03-03,Suspicious Non-PO Request,Operations,User_3,Reject
+INV-000655,,SUP-023,2015.21,USD,2025-02-25,Suspicious Non-PO Request,Finance,User_4,Reject
+INV-000656,,SUP-013,4661.37,USD,2025-08-01,Lenovo ThinkPad X1 Carbon Gen 9,IT,User_10,Review Further
+INV-000657,,SUP-038,3151.08,USD,2025-03-22,HVAC Maintenance and Repair,Operations,User_17,Review Further
+INV-000658,PO-00028,SUP-043,9026.16,USD,2025-04-23,Payroll Processing Fees - Oct,Finance,User_9,Reject
+INV-000659,PO-00085,SUP-024,23730.34,USD,2025-11-03,Server Rack Maintenance Fee (Shipping/Tax Diff),IT,User_16,Review Further
+INV-000660,,SUP-043,3008.04,USD,2025-12-03,Suspicious Non-PO Request,Finance,User_19,Reject
+INV-000661,PO-00244,SUP-022,34105.44,USD,2025-07-29,Audit Services - FY2025,Finance,User_3,Approve
+INV-000662,PO-00291,SUP-015,49820.07,EUR,2025-05-09,Cloud Hosting Services - AWS,IT,User_7,Approve
+INV-000663,PO-00230,SUP-050,29649.13,EUR,2025-09-11,Security Guard Services - Nov,Operations,User_10,Approve
+INV-000664,,SUP-046,102.25,USD,2025-10-08,Facilities Management Retainer,Operations,User_5,Review Further
+INV-000665,PO-00127,SUP-003,51649.36,USD,2025-11-18,Microsoft 365 Enterprise Licenses (Annual) (Shipping/Tax Diff),IT,User_4,Review Further
+INV-000666,,SUP-040,2180.65,USD,2025-06-12,Suspicious Non-PO Request,Marketing,User_20,Reject
+INV-000667,PO-00080,SUP-039,30758.06,EUR,2025-10-20,Security Guard Services - Nov,Operations,User_14,Approve
+INV-000668,PO-00161,SUP-003,34788.88,USD,2026-01-10,Microsoft 365 Enterprise Licenses (Annual),IT,User_18,Approve
+INV-000669,PO-00058,SUP-006,28264.89,USD,2025-09-06,Security Guard Services - Nov,Operations,User_5,Approve
+INV-000670,,SUP-040,3145.35,USD,2025-10-05,Creative Design for Holiday Campaign,Marketing,User_20,Review Further
+INV-000671,PO-00293,SUP-004,70109.7,USD,2026-01-10,Facilities Management Retainer,Operations,User_3,Reject
+INV-000672,,SUP-018,596.26,USD,2025-09-04,Pest Control Quarterly Service,Operations,User_20,Review Further
+INV-000673,PO-00043,SUP-027,34981.28,EUR,2025-08-20,Bank Transaction Fees,Finance,User_5,Approve
+INV-000674,,SUP-005,4850.1,USD,2025-01-25,Security Guard Services - Nov,Operations,User_6,Review Further
+INV-000675,,SUP-049,2220.16,USD,2025-01-18,Security Guard Services - Nov,Operations,User_8,Review Further
+INV-000676,PO-00073,SUP-005,15809.59,USD,2025-10-20,Waste Management Services,Operations,User_13,Approve
+INV-000677,PO-00240,SUP-044,9817.85,EUR,2026-01-06,Corporate Insurance Premium,Finance,User_17,Approve
+INV-000678,PO-00085,SUP-024,23616.88,USD,2025-10-09,Server Rack Maintenance Fee (Shipping/Tax Diff),IT,User_16,Review Further
+INV-000679,,SUP-008,3889.48,USD,2025-02-19,Server Rack Maintenance Fee,IT,User_18,Review Further
+INV-000680,PO-00289,SUP-041,14295.14,USD,2026-01-06,Microsoft 365 Enterprise Licenses (Annual),IT,User_6,Approve
+INV-000681,PO-00147,SUP-029,13719.28,USD,2025-05-14,Tax Consultation Fees,Finance,User_15,Approve
+INV-000682,PO-00212,SUP-034,26711.86,USD,2025-03-23,Software Development Consultation - Q3,IT,User_9,Reject
+INV-000683,PO-00057,SUP-044,35212.17,USD,2025-04-21,Financial Reporting Software - Seat License (Shipping/Tax Diff),Finance,User_15,Review Further
+INV-000684,PO-00177,SUP-009,37500.3,USD,2025-07-11,Unrelated Service Fee,IT,User_5,Reject
+INV-000685,PO-00075,SUP-015,15397.02,USD,2025-12-07,Dell Latitude 5520 Laptop (Count: 5),IT,User_10,Approve
+INV-000686,PO-00066,SUP-040,16748.97,USD,2025-09-16,Social Media Content Creation - Oct,Marketing,User_12,Approve
+INV-000687,,SUP-042,1834.11,USD,2025-02-09,Security Guard Services - Nov,Operations,User_7,Review Further
+INV-000688,PO-00261,SUP-037,21037.4,USD,2025-02-14,Monitor 27-inch 4K - Dell UltraSharp,IT,User_8,Approve
+INV-000689,PO-00072,SUP-018,47469.29,USD,2025-03-06,Facilities Management Retainer,Operations,User_4,Approve
+INV-000690,,SUP-050,257.87,USD,2026-01-02,Suspicious Non-PO Request,Operations,User_16,Reject
+INV-000691,,SUP-035,830.61,USD,2025-03-01,Suspicious Non-PO Request,Operations,User_20,Reject
+INV-000692,PO-00185,SUP-016,2970.36,USD,2025-05-10,Office Cleaning Services - Monthly (Shipping/Tax Diff),Operations,User_16,Review Further
+INV-000693,PO-00128,SUP-015,30512.72,EUR,2025-09-16,Lenovo ThinkPad X1 Carbon Gen 9,IT,User_15,Approve
+INV-000694,,SUP-019,4909.29,USD,2025-12-10,Suspicious Non-PO Request,Operations,User_12,Reject
+INV-000695,,SUP-043,1919.96,USD,2025-03-23,Suspicious Non-PO Request,Finance,User_9,Reject
+INV-000696,PO-00100,SUP-016,2492.78,USD,2026-01-27,Office Cleaning Services - Monthly,Operations,User_7,Approve
+INV-000697,PO-00036,SUP-001,46123.04,USD,2025-10-10,Office Cleaning Services - Monthly (Shipping/Tax Diff),Operations,User_2,Review Further
+INV-000698,,SUP-005,4165.18,USD,2025-10-24,Suspicious Non-PO Request,Operations,User_6,Reject
+INV-000699,PO-00256,SUP-011,30567.6,EUR,2025-10-07,Cloud Hosting Services - AWS,IT,User_17,Reject
+INV-000700,PO-00204,SUP-035,15097.44,GBP,2025-11-21,Waste Management Services,Operations,User_4,Review Further
+INV-000701,PO-00183,SUP-029,13113.17,USD,2026-02-06,Audit Services - FY2025 (Shipping/Tax Diff),Finance,User_20,Review Further
+INV-000702,PO-00125,SUP-029,18055.45,USD,2025-03-17,Payroll Processing Fees - Oct,Finance,User_3,Reject
+INV-000703,,SUP-035,1451.49,USD,2025-08-11,Security Guard Services - Nov,Operations,User_11,Review Further
+INV-000704,PO-00072,SUP-018,47469.29,USD,2025-02-27,Facilities Management Retainer,Operations,User_4,Approve
+INV-000705,,SUP-029,204.81,USD,2025-03-09,Tax Consultation Fees,Finance,User_16,Review Further
+INV-000706,PO-00061,SUP-048,7454.97,EUR,2026-02-04,Corporate Insurance Premium,Finance,User_20,Reject
+INV-000707,PO-00227,SUP-022,28883.28,EUR,2025-09-05,Bank Transaction Fees,Finance,User_10,Approve
+INV-000708,PO-00032,SUP-043,4014.16,USD,2025-01-31,Bank Transaction Fees,Finance,User_8,Approve
+INV-000709,PO-00150,SUP-006,47379.51,EUR,2025-10-07,Unrelated Service Fee,Operations,User_10,Reject
+INV-000710,PO-00109,SUP-022,36822.87,USD,2025-05-20,Bank Transaction Fees,Finance,User_20,Approve
+INV-000711,PO-00114,SUP-006,44065.31,USD,2026-01-12,Unrelated Service Fee,Operations,User_3,Reject
+INV-000712,PO-00078,SUP-009,33360.76,USD,2025-10-07,Software Development Consultation - Q3,IT,User_8,Approve
+INV-000713,PO-00185,SUP-016,3363.77,USD,2025-04-29,Office Cleaning Services - Monthly,Operations,User_16,Reject
+INV-000714,,SUP-003,3639.6,USD,2025-10-13,Lenovo ThinkPad X1 Carbon Gen 9,IT,User_13,Review Further
+INV-000715,PO-00281,SUP-022,15041.44,GBP,2025-11-25,Audit Services - FY2025,Finance,User_11,Review Further
+INV-000716,PO-00250,SUP-004,10004.26,USD,2025-09-26,HVAC Maintenance and Repair,Operations,User_3,Approve
+INV-000717,PO-00182,SUP-030,20340.7,EUR,2025-10-01,Cloud Hosting Services - AWS (Shipping/Tax Diff),IT,User_12,Review Further
+INV-000718,PO-00081,SUP-038,36058.12,EUR,2025-05-05,Waste Management Services,Operations,User_13,Approve
+INV-000719,PO-00001,SUP-029,6471.9,USD,2026-01-15,Bank Transaction Fees (Shipping/Tax Diff),Finance,User_8,Review Further
+INV-000720,PO-00208,SUP-023,5114.89,USD,2025-03-19,Audit Services - FY2025,Finance,User_5,Approve
+INV-000721,PO-00049,SUP-022,20091.4,USD,2025-06-25,Unrelated Service Fee,Finance,User_15,Reject
+INV-000722,PO-00071,SUP-014,583.72,USD,2025-09-15,Corporate Insurance Premium,Finance,User_12,Approve
+INV-000723,PO-00094,SUP-038,2107.72,EUR,2025-10-06,Facilities Management Retainer (Shipping/Tax Diff),Operations,User_6,Review Further
+INV-000724,PO-00140,SUP-033,38273.9,EUR,2025-03-01,Google Ads Spend - September,Marketing,User_17,Approve
+INV-000725,,SUP-002,221.58,USD,2025-06-08,Suspicious Non-PO Request,Marketing,User_20,Reject
+INV-000726,PO-00286,SUP-001,39036.51,USD,2025-06-03,Facilities Management Retainer,Operations,User_13,Approve
+INV-000727,PO-00164,SUP-038,38138.3,EUR,2025-03-26,Security Guard Services - Nov,Operations,User_6,Approve
+INV-000728,,SUP-048,4118.6,USD,2026-01-02,Suspicious Non-PO Request,Finance,User_9,Reject
+INV-000729,PO-00285,SUP-041,8120.15,USD,2025-02-08,Server Rack Maintenance Fee (Shipping/Tax Diff),IT,User_5,Review Further
+INV-000730,,SUP-048,1867.06,USD,2025-11-08,Tax Consultation Fees,Finance,User_8,Review Further
+INV-000731,PO-00173,SUP-012,955.69,EUR,2025-06-08,Dell Latitude 5520 Laptop (Count: 5) (Shipping/Tax Diff),IT,User_10,Review Further
+INV-000732,PO-00182,SUP-030,20456.13,EUR,2025-10-18,Cloud Hosting Services - AWS (Shipping/Tax Diff),IT,User_12,Review Further
+INV-000733,PO-00248,SUP-022,54561.63,USD,2025-12-12,Tax Consultation Fees,Finance,User_14,Reject
+INV-000734,PO-00082,SUP-014,34715.82,USD,2025-04-21,Audit Services - FY2025 (Shipping/Tax Diff),Finance,User_14,Review Further
+INV-000735,PO-00213,SUP-031,58814.66,USD,2025-05-24,Q3 Digital Ad Campaign Management,Marketing,User_1,Reject
+INV-000736,PO-00005,SUP-036,40566.81,USD,2025-07-16,Unrelated Service Fee,Finance,User_14,Reject
+INV-000737,PO-00023,SUP-024,8328.81,USD,2025-09-13,Dell Latitude 5520 Laptop (Count: 5),IT,User_17,Approve
+INV-000738,PO-00033,SUP-049,43051.95,USD,2025-03-08,Security Guard Services - Nov,Operations,User_9,Approve
+INV-000739,,SUP-043,2536.89,USD,2025-05-07,Suspicious Non-PO Request,Finance,User_5,Reject
+INV-000740,PO-00073,SUP-005,15809.59,USD,2025-11-06,Unrelated Service Fee,Operations,User_13,Reject
+INV-000741,PO-00196,SUP-025,5941.35,USD,2025-05-02,Office Cleaning Services - Monthly,Operations,User_1,Approve
+INV-000742,PO-00129,SUP-007,43078.25,USD,2025-07-07,Monitor 27-inch 4K - Dell UltraSharp,IT,User_19,Approve
+INV-000743,,SUP-030,2878.63,USD,2025-02-08,Monitor 27-inch 4K - Dell UltraSharp,IT,User_18,Review Further
+INV-000744,PO-00210,SUP-008,47085.93,USD,2026-02-03,Monitor 27-inch 4K - Dell UltraSharp,IT,User_10,Approve
+INV-000745,,SUP-049,717.61,USD,2025-10-27,Suspicious Non-PO Request,Operations,User_7,Reject
+INV-000746,PO-00012,SUP-004,10870.6,GBP,2025-08-17,Breakroom Snacks and Coffee,Operations,User_20,Review Further
+INV-000747,,SUP-009,404.64,USD,2025-08-22,Microsoft 365 Enterprise Licenses (Annual),IT,User_11,Review Further
+INV-000748,PO-00037,SUP-011,40129.33,USD,2025-07-19,Microsoft 365 Enterprise Licenses (Annual),IT,User_7,Approve
+INV-000749,PO-00033,SUP-049,45860.7,USD,2025-02-22,Security Guard Services - Nov (Shipping/Tax Diff),Operations,User_9,Review Further
+INV-000750,PO-00181,SUP-002,47607.6,USD,2025-03-04,Q3 Digital Ad Campaign Management,Marketing,User_18,Reject
+INV-000751,PO-00147,SUP-029,13719.28,USD,2025-06-11,Tax Consultation Fees,Finance,User_15,Approve
+INV-000752,PO-00106,SUP-030,39913.25,GBP,2025-03-24,Dell Latitude 5520 Laptop (Count: 5),IT,User_18,Review Further
+INV-000753,PO-00214,SUP-048,35283.59,USD,2025-07-12,Financial Reporting Software - Seat License,Finance,User_12,Approve
+INV-000754,PO-00148,SUP-021,1929.04,USD,2025-03-18,Unrelated Service Fee,Finance,User_6,Reject
+INV-000755,PO-00222,SUP-020,15010.64,USD,2025-02-28,Office Cleaning Services - Monthly,Operations,User_7,Reject
+INV-000756,,SUP-014,2713.13,USD,2025-04-28,Suspicious Non-PO Request,Finance,User_18,Reject
+INV-000757,PO-00176,SUP-020,2151.54,GBP,2025-10-11,Facilities Management Retainer,Operations,User_3,Review Further
+INV-000758,PO-00233,SUP-050,7748.99,USD,2025-04-14,Office Supplies - Paper/Pens/Ink,Operations,User_20,Approve
+INV-000759,PO-00170,SUP-027,16119.56,USD,2025-11-23,Payroll Processing Fees - Oct (Shipping/Tax Diff),Finance,User_15,Review Further
+INV-000760,PO-00244,SUP-022,36927.25,USD,2025-07-07,Audit Services - FY2025 (Shipping/Tax Diff),Finance,User_3,Review Further
+INV-000761,,SUP-014,3318.85,USD,2025-12-19,Audit Services - FY2025,Finance,User_12,Review Further
+INV-000762,PO-00276,SUP-012,21607.43,USD,2025-10-11,Server Rack Maintenance Fee (Shipping/Tax Diff),IT,User_2,Review Further
+INV-000763,PO-00269,SUP-002,12407.93,USD,2025-08-21,Email Marketing Platform Subscription,Marketing,User_3,Approve
+INV-000764,PO-00028,SUP-043,6855.38,USD,2025-04-21,Payroll Processing Fees - Oct,Finance,User_9,Approve
+INV-000765,PO-00150,SUP-006,49842.66,EUR,2025-10-11,HVAC Maintenance and Repair (Shipping/Tax Diff),Operations,User_10,Review Further
+INV-000766,PO-00228,SUP-046,1532.4,USD,2025-08-20,Facilities Management Retainer,Operations,User_20,Approve
+INV-000767,,SUP-014,3437.34,USD,2025-07-14,Suspicious Non-PO Request,Finance,User_10,Reject
+INV-000768,PO-00095,SUP-009,49045.74,EUR,2025-03-24,Dell Latitude 5520 Laptop (Count: 5),IT,User_19,Approve
+INV-000769,PO-00001,SUP-029,6010.89,USD,2025-12-09,Unrelated Service Fee,Finance,User_8,Reject
+INV-000770,PO-00122,SUP-003,11912.08,USD,2025-08-12,Dell Latitude 5520 Laptop (Count: 5),IT,User_9,Reject
+INV-000771,PO-00065,SUP-002,17808.09,USD,2025-10-01,SEO Optimization Services,Marketing,User_1,Approve
+INV-000772,PO-00033,SUP-049,43051.95,GBP,2025-03-15,Security Guard Services - Nov,Operations,User_9,Review Further
+INV-000773,,SUP-002,1239.79,USD,2025-04-02,Suspicious Non-PO Request,Marketing,User_14,Reject
+INV-000774,PO-00154,SUP-003,30868.89,USD,2025-12-15,Server Rack Maintenance Fee (Shipping/Tax Diff),IT,User_15,Review Further
+INV-000775,PO-00062,SUP-028,43297.98,EUR,2025-05-24,Cisco Meraki MR56 Access Points,IT,User_1,Approve
+INV-000776,PO-00238,SUP-034,3504.29,USD,2025-02-12,Cloud Hosting Services - AWS (Shipping/Tax Diff),IT,User_3,Review Further
+INV-000777,PO-00008,SUP-030,7035.49,USD,2025-11-19,Monitor 27-inch 4K - Dell UltraSharp (Shipping/Tax Diff),IT,User_18,Review Further
+INV-000778,PO-00068,SUP-044,29239.19,USD,2025-05-06,Financial Reporting Software - Seat License,Finance,User_4,Approve
+INV-000779,PO-00076,SUP-018,39395.06,EUR,2025-08-24,Facilities Management Retainer,Operations,User_15,Approve
+INV-000780,PO-00141,SUP-044,12271.33,EUR,2025-07-04,Corporate Insurance Premium,Finance,User_16,Reject
+INV-000781,PO-00236,SUP-014,5464.9,USD,2025-09-06,Payroll Processing Fees - Oct,Finance,User_9,Reject
+INV-000782,PO-00157,SUP-021,16249.73,EUR,2025-02-17,Payroll Processing Fees - Oct,Finance,User_13,Approve
+INV-000783,,SUP-043,4930.48,USD,2025-11-25,Suspicious Non-PO Request,Finance,User_9,Reject
+INV-000784,,SUP-043,1199.3,USD,2025-12-31,Financial Reporting Software - Seat License,Finance,User_1,Review Further
+INV-000785,PO-00172,SUP-006,18268.48,USD,2025-12-11,Breakroom Snacks and Coffee,Operations,User_1,Approve
+INV-000786,PO-00070,SUP-022,20924.6,USD,2025-04-14,Corporate Insurance Premium (Shipping/Tax Diff),Finance,User_9,Review Further
+INV-000787,,SUP-050,1006.64,USD,2025-01-30,Suspicious Non-PO Request,Operations,User_14,Reject
+INV-000788,PO-00073,SUP-005,15809.59,USD,2025-11-12,Waste Management Services,Operations,User_13,Approve
+INV-000789,PO-00029,SUP-016,23511.7,USD,2025-12-19,Office Supplies - Paper/Pens/Ink (Shipping/Tax Diff),Operations,User_10,Review Further
+INV-000790,PO-00166,SUP-018,7705.7,USD,2025-09-12,Waste Management Services,Operations,User_6,Approve
+INV-000791,PO-00118,SUP-018,25468.77,USD,2025-08-10,Pest Control Quarterly Service,Operations,User_10,Reject
+INV-000792,PO-00125,SUP-029,12997.68,USD,2025-03-02,Payroll Processing Fees - Oct,Finance,User_3,Approve
+INV-000793,PO-00239,SUP-015,34243.8,USD,2025-12-26,Server Rack Maintenance Fee,IT,User_15,Reject
+INV-000794,PO-00031,SUP-012,3935.6,USD,2025-05-12,Dell Latitude 5520 Laptop (Count: 5) (Shipping/Tax Diff),IT,User_19,Review Further
+INV-000795,PO-00151,SUP-026,21066.77,EUR,2025-07-07,Payroll Processing Fees - Oct,Finance,User_8,Approve
+INV-000796,PO-00130,SUP-016,33002.22,USD,2025-03-26,Security Guard Services - Nov (Shipping/Tax Diff),Operations,User_7,Review Further
+INV-000797,PO-00151,SUP-026,21066.77,EUR,2025-07-01,Payroll Processing Fees - Oct,Finance,User_8,Approve
+INV-000798,PO-00179,SUP-029,37454.69,USD,2025-07-03,Financial Reporting Software - Seat License,Finance,User_15,Approve
+INV-000799,PO-00038,SUP-044,22706.37,USD,2025-11-24,Payroll Processing Fees - Oct,Finance,User_9,Approve
+INV-000800,PO-00184,SUP-013,3629.24,GBP,2026-01-10,Server Rack Maintenance Fee,IT,User_14,Review Further
+INV-000801,PO-00130,SUP-016,30676.73,USD,2025-03-18,Security Guard Services - Nov,Operations,User_7,Approve
+INV-000802,,SUP-039,3904.72,USD,2026-01-05,Suspicious Non-PO Request,Operations,User_18,Reject
+INV-000803,PO-00003,SUP-038,1974.96,USD,2025-03-01,Office Supplies - Paper/Pens/Ink,Operations,User_17,Approve
+INV-000804,PO-00285,SUP-041,8118.0,USD,2025-02-15,Server Rack Maintenance Fee (Shipping/Tax Diff),IT,User_5,Review Further
+INV-000805,PO-00260,SUP-035,44060.06,USD,2025-04-07,Security Guard Services - Nov (Shipping/Tax Diff),Operations,User_15,Review Further
+INV-000806,,SUP-026,3545.82,USD,2025-12-04,Suspicious Non-PO Request,Finance,User_12,Reject
+INV-000807,PO-00159,SUP-029,29121.38,USD,2025-03-31,Payroll Processing Fees - Oct (Shipping/Tax Diff),Finance,User_5,Review Further
+INV-000808,PO-00246,SUP-039,17001.42,USD,2025-04-11,HVAC Maintenance and Repair,Operations,User_10,Approve
+INV-000809,PO-00118,SUP-018,18944.79,USD,2025-07-12,Pest Control Quarterly Service (Shipping/Tax Diff),Operations,User_10,Review Further
+INV-000810,,SUP-006,3574.64,USD,2025-08-16,Suspicious Non-PO Request,Operations,User_10,Reject
+INV-000811,PO-00240,SUP-044,9817.85,EUR,2025-12-25,Corporate Insurance Premium,Finance,User_17,Approve
+INV-000812,,SUP-035,701.28,USD,2025-04-27,Breakroom Snacks and Coffee,Operations,User_1,Review Further
+INV-000813,PO-00249,SUP-046,1402.41,USD,2025-07-19,Breakroom Snacks and Coffee,Operations,User_7,Approve
+INV-000814,PO-00192,SUP-016,32154.9,USD,2025-12-22,Office Cleaning Services - Monthly,Operations,User_11,Approve
+INV-000815,PO-00018,SUP-043,13505.71,EUR,2025-11-12,Corporate Insurance Premium,Finance,User_19,Approve
+INV-000816,PO-00039,SUP-025,47907.78,EUR,2025-06-08,Security Guard Services - Nov (Shipping/Tax Diff),Operations,User_18,Review Further
+INV-000817,PO-00104,SUP-010,1771.08,USD,2025-11-10,Financial Reporting Software - Seat License,Finance,User_13,Review Further
+INV-000818,,SUP-049,322.57,USD,2025-07-11,Suspicious Non-PO Request,Operations,User_2,Reject
+INV-000819,PO-00138,SUP-024,32635.84,EUR,2025-09-27,Dell Latitude 5520 Laptop (Count: 5),IT,User_11,Reject
+INV-000820,,SUP-050,4968.99,USD,2025-04-06,Suspicious Non-PO Request,Operations,User_10,Reject
+INV-000821,PO-00049,SUP-022,20091.4,USD,2025-06-01,Bank Transaction Fees,Finance,User_15,Approve
+INV-000822,,SUP-010,1531.51,USD,2025-07-21,Suspicious Non-PO Request,Finance,User_13,Reject
+INV-000823,PO-00067,SUP-013,34136.15,USD,2025-09-06,Software Development Consultation - Q3,IT,User_4,Approve
+INV-000824,,SUP-037,3488.37,USD,2025-06-03,Suspicious Non-PO Request,IT,User_11,Reject
+INV-000825,PO-00164,SUP-038,41436.75,EUR,2025-04-15,Security Guard Services - Nov (Shipping/Tax Diff),Operations,User_6,Review Further
+INV-000826,PO-00176,SUP-020,2151.54,USD,2025-10-11,Facilities Management Retainer,Operations,User_3,Approve
+INV-000827,PO-00156,SUP-042,52548.07,EUR,2025-05-11,Office Supplies - Paper/Pens/Ink (Shipping/Tax Diff),Operations,User_8,Review Further
+INV-000828,,SUP-040,2896.96,USD,2025-11-29,Suspicious Non-PO Request,Marketing,User_12,Reject
+INV-000829,PO-00016,SUP-016,47846.93,USD,2025-12-10,Facilities Management Retainer (Shipping/Tax Diff),Operations,User_16,Review Further
+INV-000830,,SUP-037,1487.92,USD,2025-04-23,Microsoft 365 Enterprise Licenses (Annual),IT,User_1,Review Further
+INV-000831,PO-00147,SUP-029,13719.28,USD,2025-05-12,Tax Consultation Fees,Finance,User_15,Approve
+INV-000832,PO-00044,SUP-045,14284.99,USD,2025-07-20,Q3 Digital Ad Campaign Management,Marketing,User_11,Reject
+INV-000833,PO-00072,SUP-018,47469.29,USD,2025-03-31,Facilities Management Retainer,Operations,User_4,Approve
+INV-000834,,SUP-022,1444.05,USD,2025-02-17,Suspicious Non-PO Request,Finance,User_10,Reject
+INV-000835,PO-00075,SUP-015,15397.02,USD,2025-12-15,Dell Latitude 5520 Laptop (Count: 5),IT,User_10,Approve
+INV-000836,PO-00261,SUP-037,21037.4,USD,2025-03-05,Monitor 27-inch 4K - Dell UltraSharp,IT,User_8,Approve
+INV-000837,PO-00078,SUP-009,33360.76,USD,2025-10-16,Software Development Consultation - Q3,IT,User_8,Approve
+INV-000838,,SUP-027,4177.44,USD,2025-12-24,Suspicious Non-PO Request,Finance,User_16,Reject
+INV-000839,PO-00175,SUP-016,37901.08,USD,2026-02-06,HVAC Maintenance and Repair,Operations,User_2,Approve
+INV-000840,PO-00211,SUP-025,17906.49,USD,2025-07-22,Unrelated Service Fee,Operations,User_16,Reject
+INV-000841,PO-00098,SUP-013,38180.87,USD,2025-07-09,Monitor 27-inch 4K - Dell UltraSharp,IT,User_14,Approve
+INV-000842,PO-00028,SUP-043,6855.38,USD,2025-05-02,Payroll Processing Fees - Oct,Finance,User_9,Approve
+INV-000843,PO-00300,SUP-017,32089.55,EUR,2025-12-30,Cisco Meraki MR56 Access Points (Shipping/Tax Diff),IT,User_17,Review Further
+INV-000844,,SUP-019,789.06,USD,2025-01-29,Suspicious Non-PO Request,Operations,User_11,Reject
+INV-000845,PO-00173,SUP-012,972.7,EUR,2025-06-23,Dell Latitude 5520 Laptop (Count: 5) (Shipping/Tax Diff),IT,User_10,Review Further
+INV-000846,PO-00141,SUP-044,9483.71,EUR,2025-06-08,Corporate Insurance Premium,Finance,User_16,Approve
+INV-000847,,SUP-027,479.65,USD,2025-05-15,Suspicious Non-PO Request,Finance,User_12,Reject
+INV-000848,PO-00039,SUP-025,46795.69,EUR,2025-05-24,Security Guard Services - Nov (Shipping/Tax Diff),Operations,User_18,Review Further
+INV-000849,PO-00299,SUP-014,4833.25,USD,2026-01-08,Payroll Processing Fees - Oct,Finance,User_5,Reject
+INV-000850,PO-00214,SUP-048,35283.59,USD,2025-06-24,Financial Reporting Software - Seat License,Finance,User_12,Approve
+INV-000851,PO-00206,SUP-028,22963.92,USD,2025-08-16,Microsoft 365 Enterprise Licenses (Annual) (Shipping/Tax Diff),IT,User_14,Review Further
+INV-000852,PO-00230,SUP-050,29649.13,EUR,2025-09-28,Security Guard Services - Nov,Operations,User_10,Approve
+INV-000853,PO-00057,SUP-044,32037.11,USD,2025-03-24,Financial Reporting Software - Seat License,Finance,User_15,Approve
+INV-000854,PO-00253,SUP-015,2796.47,USD,2025-08-29,Software Development Consultation - Q3 (Shipping/Tax Diff),IT,User_15,Review Further
+INV-000855,PO-00084,SUP-036,24788.72,USD,2025-03-20,Payroll Processing Fees - Oct (Shipping/Tax Diff),Finance,User_15,Review Further
+INV-000856,,SUP-012,3842.59,USD,2025-06-22,Suspicious Non-PO Request,IT,User_1,Reject
+INV-000857,,SUP-028,1042.75,USD,2025-06-09,Suspicious Non-PO Request,IT,User_9,Reject
+INV-000858,PO-00159,SUP-029,26534.58,USD,2025-03-17,Payroll Processing Fees - Oct,Finance,User_5,Approve
+INV-000859,,SUP-017,125.52,USD,2025-11-28,Microsoft 365 Enterprise Licenses (Annual),IT,User_18,Review Further
+INV-000860,PO-00139,SUP-049,1780.31,USD,2025-06-01,Office Supplies - Paper/Pens/Ink,Operations,User_9,Approve
+INV-000861,PO-00191,SUP-010,11973.05,EUR,2025-06-24,Audit Services - FY2025,Finance,User_3,Reject
+INV-000862,PO-00108,SUP-043,5724.17,EUR,2025-10-20,Financial Reporting Software - Seat License,Finance,User_5,Approve
+INV-000863,,SUP-011,193.51,USD,2025-12-25,Suspicious Non-PO Request,IT,User_2,Reject
+INV-000864,,SUP-004,1989.99,USD,2026-01-09,Suspicious Non-PO Request,Operations,User_20,Reject
+INV-000865,PO-00263,SUP-014,7311.18,EUR,2025-05-11,Unrelated Service Fee,Finance,User_5,Reject
+INV-000866,PO-00077,SUP-021,11078.22,USD,2026-01-24,Payroll Processing Fees - Oct,Finance,User_3,Approve
+INV-000867,PO-00177,SUP-009,37500.3,USD,2025-08-14,Cisco Meraki MR56 Access Points,IT,User_5,Approve
+INV-000868,PO-00186,SUP-044,12122.6,USD,2025-04-17,Corporate Insurance Premium,Finance,User_13,Approve
+INV-000869,PO-00276,SUP-012,22180.19,USD,2025-10-14,Server Rack Maintenance Fee (Shipping/Tax Diff),IT,User_2,Review Further
+INV-000870,PO-00116,SUP-033,5106.14,USD,2025-02-17,SEO Optimization Services,Marketing,User_8,Review Further
+INV-000871,,SUP-032,4590.46,USD,2025-07-02,Suspicious Non-PO Request,Finance,User_11,Reject
+INV-000872,,SUP-001,608.79,USD,2025-09-16,HVAC Maintenance and Repair,Operations,User_15,Review Further
+INV-000873,PO-00005,SUP-036,43418.02,USD,2025-06-12,Audit Services - FY2025 (Shipping/Tax Diff),Finance,User_14,Review Further
+INV-000874,PO-00245,SUP-035,30274.16,USD,2025-03-29,Waste Management Services (Shipping/Tax Diff),Operations,User_9,Review Further
+INV-000875,PO-00234,SUP-039,4229.99,EUR,2025-12-31,Pest Control Quarterly Service,Operations,User_19,Approve
+INV-000876,PO-00063,SUP-010,49790.3,USD,2025-08-17,Payroll Processing Fees - Oct,Finance,User_9,Reject
+INV-000877,PO-00142,SUP-009,19308.01,USD,2025-10-16,Software Development Consultation - Q3 (Shipping/Tax Diff),IT,User_4,Review Further
+INV-000878,PO-00120,SUP-042,9664.92,EUR,2026-02-14,Office Supplies - Paper/Pens/Ink,Operations,User_9,Approve
+INV-000879,,SUP-009,4657.77,USD,2025-11-03,Suspicious Non-PO Request,IT,User_16,Reject
+INV-000880,PO-00194,SUP-025,11189.59,GBP,2025-11-22,Office Supplies - Paper/Pens/Ink,Operations,User_5,Review Further
+INV-000881,PO-00001,SUP-029,6010.89,USD,2026-01-15,Bank Transaction Fees,Finance,User_8,Approve
+INV-000882,,SUP-024,4079.63,USD,2025-07-27,Suspicious Non-PO Request,IT,User_11,Reject
+INV-000883,,SUP-050,1127.18,USD,2025-03-26,Suspicious Non-PO Request,Operations,User_19,Reject
+INV-000884,PO-00123,SUP-001,27891.27,EUR,2025-03-01,HVAC Maintenance and Repair,Operations,User_4,Approve
+INV-000885,PO-00252,SUP-039,20757.48,USD,2025-12-06,HVAC Maintenance and Repair (Shipping/Tax Diff),Operations,User_20,Review Further
+INV-000886,,SUP-014,3982.02,USD,2025-12-27,Suspicious Non-PO Request,Finance,User_10,Reject
+INV-000887,PO-00288,SUP-043,39432.68,USD,2025-03-27,Corporate Insurance Premium,Finance,User_13,Reject
+INV-000888,PO-00079,SUP-009,40424.86,USD,2025-05-28,Cisco Meraki MR56 Access Points,IT,User_2,Approve
+INV-000889,,SUP-046,4510.32,USD,2025-02-10,Facilities Management Retainer,Operations,User_1,Review Further
+INV-000890,,SUP-026,204.36,USD,2025-08-23,Suspicious Non-PO Request,Finance,User_19,Reject
+INV-000891,PO-00111,SUP-027,44140.74,EUR,2025-07-03,Tax Consultation Fees,Finance,User_19,Approve
+INV-000892,PO-00284,SUP-048,35727.16,USD,2025-03-18,Payroll Processing Fees - Oct (Shipping/Tax Diff),Finance,User_17,Review Further
+INV-000893,PO-00034,SUP-030,27192.08,USD,2025-05-30,Server Rack Maintenance Fee,IT,User_16,Approve
+INV-000894,,SUP-012,4987.41,USD,2025-12-23,Cisco Meraki MR56 Access Points,IT,User_5,Review Further
+INV-000895,PO-00024,SUP-016,45675.08,USD,2025-11-01,Breakroom Snacks and Coffee,Operations,User_5,Approve
+INV-000896,PO-00085,SUP-024,25905.74,USD,2025-10-26,Server Rack Maintenance Fee,IT,User_16,Reject
+INV-000897,PO-00047,SUP-007,18722.02,USD,2025-12-11,Dell Latitude 5520 Laptop (Count: 5),IT,User_14,Reject
+INV-000898,,SUP-042,2571.6,USD,2025-10-23,Suspicious Non-PO Request,Operations,User_15,Reject
+INV-000899,,SUP-019,3042.64,USD,2025-11-05,Suspicious Non-PO Request,Operations,User_16,Reject
+INV-000900,,SUP-024,4636.49,USD,2025-11-05,Suspicious Non-PO Request,IT,User_12,Reject
+INV-000901,PO-00055,SUP-034,34257.44,EUR,2026-02-14,Cloud Hosting Services - AWS (Shipping/Tax Diff),IT,User_9,Review Further
+INV-000902,,SUP-044,3664.42,USD,2025-10-10,Suspicious Non-PO Request,Finance,User_9,Reject
+INV-000903,PO-00007,SUP-040,19759.05,USD,2025-04-16,Video Production Services - Promo (Shipping/Tax Diff),Marketing,User_2,Review Further
+INV-000904,PO-00033,SUP-049,43051.95,USD,2025-03-12,Security Guard Services - Nov,Operations,User_9,Approve
+INV-000905,PO-00013,SUP-030,40074.56,EUR,2025-11-18,Cisco Meraki MR56 Access Points (Shipping/Tax Diff),IT,User_13,Review Further
+INV-000906,PO-00171,SUP-010,49968.99,USD,2025-05-28,Payroll Processing Fees - Oct,Finance,User_8,Approve
+INV-000907,PO-00207,SUP-021,14004.35,EUR,2026-01-08,Tax Consultation Fees (Shipping/Tax Diff),Finance,User_3,Review Further
+INV-000908,,SUP-005,224.86,USD,2025-11-15,Breakroom Snacks and Coffee,Operations,User_10,Review Further
+INV-000909,PO-00013,SUP-030,36591.78,EUR,2025-10-18,Cisco Meraki MR56 Access Points,IT,User_13,Approve
+INV-000910,PO-00105,SUP-039,29808.84,USD,2025-04-02,Office Supplies - Paper/Pens/Ink,Operations,User_10,Approve
+INV-000911,,SUP-016,2449.56,USD,2025-03-19,Suspicious Non-PO Request,Operations,User_17,Reject
+INV-000912,,SUP-040,706.07,USD,2025-06-06,Creative Design for Holiday Campaign,Marketing,User_9,Review Further
+INV-000913,,SUP-046,914.34,USD,2025-11-12,Suspicious Non-PO Request,Operations,User_5,Reject
+INV-000914,,SUP-002,3923.51,USD,2025-05-14,Suspicious Non-PO Request,Marketing,User_16,Reject
+INV-000915,PO-00171,SUP-010,49968.99,USD,2025-05-01,Payroll Processing Fees - Oct,Finance,User_8,Approve
+INV-000916,PO-00200,SUP-017,2646.57,USD,2025-12-26,Cloud Hosting Services - AWS,IT,User_1,Review Further
+INV-000917,PO-00156,SUP-042,49048.34,EUR,2025-05-15,Office Supplies - Paper/Pens/Ink,Operations,User_8,Approve
+INV-000918,,SUP-045,2228.92,USD,2025-12-06,Suspicious Non-PO Request,Marketing,User_6,Reject
+INV-000919,PO-00181,SUP-002,39638.76,USD,2025-03-18,Q3 Digital Ad Campaign Management,Marketing,User_18,Approve
+INV-000920,PO-00235,SUP-023,34216.11,USD,2025-09-11,Corporate Insurance Premium,Finance,User_11,Approve
+INV-000921,PO-00294,SUP-017,14872.93,USD,2025-11-18,Cloud Hosting Services - AWS,IT,User_6,Approve
+INV-000922,PO-00229,SUP-038,49204.11,EUR,2026-01-27,Security Guard Services - Nov (Shipping/Tax Diff),Operations,User_4,Review Further
+INV-000923,PO-00297,SUP-011,30791.44,USD,2025-04-18,Microsoft 365 Enterprise Licenses (Annual),IT,User_10,Approve
+INV-000924,,SUP-043,4639.75,USD,2025-08-31,Suspicious Non-PO Request,Finance,User_13,Reject
+INV-000925,PO-00216,SUP-035,64933.46,USD,2025-12-27,Security Guard Services - Nov,Operations,User_13,Reject
+INV-000926,PO-00096,SUP-017,1841.55,USD,2026-01-30,Monitor 27-inch 4K - Dell UltraSharp,IT,User_15,Approve
+INV-000927,PO-00102,SUP-011,23519.18,USD,2025-05-23,Cloud Hosting Services - AWS,IT,User_6,Approve
+INV-000928,PO-00191,SUP-010,9895.52,EUR,2025-07-12,Audit Services - FY2025,Finance,User_3,Approve
+INV-000929,PO-00177,SUP-009,40752.16,USD,2025-08-07,Cisco Meraki MR56 Access Points (Shipping/Tax Diff),IT,User_5,Review Further
+INV-000930,PO-00294,SUP-017,16355.18,USD,2025-11-08,Cloud Hosting Services - AWS (Shipping/Tax Diff),IT,User_6,Review Further
+INV-000931,PO-00246,SUP-039,17001.42,GBP,2025-04-01,HVAC Maintenance and Repair,Operations,User_10,Review Further
+INV-000932,PO-00164,SUP-038,40715.53,EUR,2025-03-24,Security Guard Services - Nov (Shipping/Tax Diff),Operations,User_6,Review Further
+INV-000933,,SUP-038,218.51,USD,2025-11-27,Suspicious Non-PO Request,Operations,User_3,Reject
+INV-000934,PO-00001,SUP-029,6010.89,USD,2026-01-17,Unrelated Service Fee,Finance,User_8,Reject
+INV-000935,,SUP-008,4791.09,USD,2025-02-27,Suspicious Non-PO Request,IT,User_20,Reject
+INV-000936,PO-00270,SUP-014,3850.13,GBP,2025-07-29,Corporate Insurance Premium,Finance,User_13,Review Further
+INV-000937,PO-00227,SUP-022,31001.8,EUR,2025-08-26,Bank Transaction Fees (Shipping/Tax Diff),Finance,User_10,Review Further
+INV-000938,PO-00185,SUP-016,3566.55,USD,2025-05-08,Office Cleaning Services - Monthly,Operations,User_16,Reject
+INV-000939,PO-00181,SUP-002,39638.76,USD,2025-03-12,Q3 Digital Ad Campaign Management,Marketing,User_18,Approve
+INV-000940,PO-00232,SUP-007,25742.63,USD,2025-10-16,Software Development Consultation - Q3,IT,User_5,Approve
+INV-000941,PO-00096,SUP-017,1841.55,USD,2025-12-23,Monitor 27-inch 4K - Dell UltraSharp,IT,User_15,Approve
+INV-000942,,SUP-038,4073.36,USD,2025-04-15,Suspicious Non-PO Request,Operations,User_15,Reject
+INV-000943,PO-00146,SUP-014,28114.57,EUR,2025-04-30,Corporate Insurance Premium (Shipping/Tax Diff),Finance,User_15,Review Further
+INV-000944,PO-00050,SUP-047,961.12,USD,2025-04-01,Microsoft 365 Enterprise Licenses (Annual),IT,User_18,Approve
+INV-000945,PO-00222,SUP-020,11415.66,USD,2025-02-13,Unrelated Service Fee,Operations,User_7,Reject
+INV-000946,,SUP-021,398.54,USD,2025-05-22,Suspicious Non-PO Request,Finance,User_15,Reject
+INV-000947,,SUP-031,3219.66,USD,2025-02-02,Creative Design for Holiday Campaign,Marketing,User_13,Review Further
+INV-000948,PO-00063,SUP-010,39228.13,USD,2025-07-04,Payroll Processing Fees - Oct,Finance,User_9,Approve
+INV-000949,PO-00185,SUP-016,3575.26,USD,2025-03-31,Office Cleaning Services - Monthly,Operations,User_16,Reject
+INV-000950,PO-00184,SUP-013,3629.24,USD,2026-01-25,Server Rack Maintenance Fee,IT,User_14,Approve
+INV-000951,PO-00007,SUP-040,18269.48,USD,2025-04-10,Video Production Services - Promo,Marketing,User_2,Approve
+INV-000952,PO-00008,SUP-030,8388.63,USD,2025-10-19,Monitor 27-inch 4K - Dell UltraSharp,IT,User_18,Reject
+INV-000953,PO-00203,SUP-043,41990.52,USD,2025-06-25,Corporate Insurance Premium,Finance,User_13,Reject
+INV-000954,,SUP-002,2325.21,USD,2025-06-11,Suspicious Non-PO Request,Marketing,User_7,Reject
+INV-000955,PO-00020,SUP-050,8626.25,EUR,2025-03-18,HVAC Maintenance and Repair (Shipping/Tax Diff),Operations,User_20,Review Further
+INV-000956,PO-00224,SUP-032,25120.57,USD,2025-01-23,Payroll Processing Fees - Oct,Finance,User_5,Approve
+INV-000957,PO-00216,SUP-035,48604.61,USD,2025-12-17,Security Guard Services - Nov,Operations,User_13,Approve
+INV-000958,,SUP-009,1005.81,USD,2025-11-13,Suspicious Non-PO Request,IT,User_8,Reject
+INV-000959,PO-00166,SUP-018,8462.77,USD,2025-09-20,Waste Management Services (Shipping/Tax Diff),Operations,User_6,Review Further
+INV-000960,PO-00048,SUP-026,26377.74,USD,2025-11-21,Financial Reporting Software - Seat License,Finance,User_11,Approve
+INV-000961,,SUP-030,3949.5,USD,2025-02-04,Microsoft 365 Enterprise Licenses (Annual),IT,User_13,Review Further
+INV-000962,PO-00045,SUP-011,29416.79,GBP,2025-03-15,Cisco Meraki MR56 Access Points,IT,User_17,Review Further
+INV-000963,,SUP-003,2917.76,USD,2025-02-19,Suspicious Non-PO Request,IT,User_2,Reject
+INV-000964,,SUP-005,4540.54,USD,2025-11-26,Suspicious Non-PO Request,Operations,User_2,Reject
+INV-000965,,SUP-047,902.63,USD,2025-02-08,Suspicious Non-PO Request,IT,User_10,Reject
+INV-000966,,SUP-003,2975.66,USD,2025-03-09,Suspicious Non-PO Request,IT,User_4,Reject
+INV-000967,PO-00014,SUP-003,34564.02,USD,2025-12-20,Lenovo ThinkPad X1 Carbon Gen 9,IT,User_2,Approve
+INV-000968,PO-00207,SUP-021,13117.04,EUR,2026-02-02,Unrelated Service Fee,Finance,User_3,Reject
+INV-000969,PO-00121,SUP-016,30041.14,USD,2025-11-22,Security Guard Services - Nov,Operations,User_10,Approve
+INV-000970,PO-00179,SUP-029,37454.69,USD,2025-06-28,Financial Reporting Software - Seat License,Finance,User_15,Approve
+INV-000971,PO-00255,SUP-046,51003.46,USD,2025-07-01,Pest Control Quarterly Service (Shipping/Tax Diff),Operations,User_12,Review Further
+INV-000972,PO-00088,SUP-039,44704.83,USD,2025-07-20,Security Guard Services - Nov,Operations,User_5,Approve
+INV-000973,PO-00266,SUP-046,6531.49,EUR,2025-07-25,Office Supplies - Paper/Pens/Ink,Operations,User_20,Approve
+INV-000974,,SUP-045,544.84,USD,2025-12-03,Suspicious Non-PO Request,Marketing,User_20,Reject
+INV-000975,,SUP-026,2460.49,USD,2025-01-17,Suspicious Non-PO Request,Finance,User_1,Reject
+INV-000976,PO-00117,SUP-024,31766.88,USD,2026-01-19,Server Rack Maintenance Fee (Shipping/Tax Diff),IT,User_14,Review Further
+INV-000977,PO-00154,SUP-003,29206.21,USD,2025-12-21,Server Rack Maintenance Fee,IT,User_15,Approve
+INV-000978,,SUP-039,2279.57,USD,2025-05-16,Suspicious Non-PO Request,Operations,User_6,Reject
+INV-000979,PO-00017,SUP-014,25333.09,USD,2025-12-29,Financial Reporting Software - Seat License (Shipping/Tax Diff),Finance,User_8,Review Further
+INV-000980,PO-00005,SUP-036,40566.81,USD,2025-06-21,Audit Services - FY2025,Finance,User_14,Approve
+INV-000981,,SUP-002,4933.69,USD,2025-03-03,Suspicious Non-PO Request,Marketing,User_20,Reject
+INV-000982,PO-00215,SUP-048,47100.49,EUR,2025-04-30,Corporate Insurance Premium (Shipping/Tax Diff),Finance,User_3,Review Further
+INV-000983,,SUP-048,1008.91,USD,2025-03-31,Payroll Processing Fees - Oct,Finance,User_16,Review Further
+INV-000984,PO-00003,SUP-038,1974.96,USD,2025-03-13,Office Supplies - Paper/Pens/Ink,Operations,User_17,Approve
+INV-000985,PO-00137,SUP-030,34589.56,USD,2025-09-27,Monitor 27-inch 4K - Dell UltraSharp,IT,User_17,Approve
+INV-000986,PO-00041,SUP-033,24539.24,EUR,2025-08-13,Unrelated Service Fee,Marketing,User_2,Reject
+INV-000987,,SUP-047,309.66,USD,2025-10-16,Suspicious Non-PO Request,IT,User_6,Reject
+INV-000988,PO-00141,SUP-044,9483.71,EUR,2025-06-21,Corporate Insurance Premium,Finance,User_16,Approve
+INV-000989,PO-00110,SUP-024,24920.46,USD,2025-11-01,Cloud Hosting Services - AWS (Shipping/Tax Diff),IT,User_8,Review Further
+INV-000990,PO-00176,SUP-020,2151.54,USD,2025-09-04,Facilities Management Retainer,Operations,User_3,Approve
+INV-000991,PO-00082,SUP-014,32974.87,USD,2025-04-26,Audit Services - FY2025,Finance,User_14,Approve
+INV-000992,PO-00291,SUP-015,49820.07,EUR,2025-05-18,Cloud Hosting Services - AWS,IT,User_7,Approve
+INV-000993,,SUP-009,2946.21,USD,2025-02-10,Cisco Meraki MR56 Access Points,IT,User_14,Review Further
+INV-000994,PO-00019,SUP-031,11356.38,EUR,2025-08-11,Google Ads Spend - September,Marketing,User_3,Approve
+INV-000995,,SUP-037,3613.12,USD,2025-12-03,Cloud Hosting Services - AWS,IT,User_12,Review Further
+INV-000996,,SUP-049,3476.44,USD,2025-02-13,HVAC Maintenance and Repair,Operations,User_9,Review Further
+INV-000997,PO-00062,SUP-028,43297.98,EUR,2025-06-06,Cisco Meraki MR56 Access Points,IT,User_1,Approve
+INV-000998,,SUP-005,1511.05,USD,2025-04-04,Suspicious Non-PO Request,Operations,User_20,Reject
+INV-000999,PO-00149,SUP-044,1176.89,USD,2025-11-19,Payroll Processing Fees - Oct,Finance,User_8,Approve
+INV-001000,PO-00195,SUP-025,14225.1,USD,2025-01-29,HVAC Maintenance and Repair,Operations,User_18,Approve
+INV-001001,PO-00015,SUP-013,56711.85,USD,2025-02-15,Monitor 27-inch 4K - Dell UltraSharp,IT,User_3,Reject
+INV-001002,,SUP-028,2199.53,USD,2025-05-07,Suspicious Non-PO Request,IT,User_19,Reject
+INV-001003,PO-00006,SUP-044,8196.24,USD,2025-06-08,Financial Reporting Software - Seat License,Finance,User_3,Approve
+INV-001004,,SUP-039,2379.73,USD,2025-09-29,Suspicious Non-PO Request,Operations,User_2,Reject
+INV-001005,PO-00022,SUP-019,36175.73,GBP,2026-01-26,Breakroom Snacks and Coffee,Operations,User_4,Review Further
+INV-001006,PO-00026,SUP-016,46490.38,USD,2025-03-13,Breakroom Snacks and Coffee,Operations,User_2,Approve
+INV-001007,PO-00280,SUP-026,36490.53,EUR,2025-03-11,Audit Services - FY2025,Finance,User_20,Approve
+INV-001008,,SUP-005,1514.16,USD,2025-12-11,Suspicious Non-PO Request,Operations,User_3,Reject
+INV-001009,PO-00065,SUP-002,17808.09,GBP,2025-10-14,SEO Optimization Services,Marketing,User_1,Review Further
+INV-001010,,SUP-033,2301.46,USD,2025-03-25,Suspicious Non-PO Request,Marketing,User_13,Reject
+INV-001011,PO-00081,SUP-038,36058.12,EUR,2025-06-03,Waste Management Services,Operations,User_13,Approve
+INV-001012,,SUP-048,3155.16,USD,2025-07-30,Corporate Insurance Premium,Finance,User_11,Review Further
+INV-001013,PO-00071,SUP-014,583.72,USD,2025-10-04,Corporate Insurance Premium,Finance,User_12,Approve
+INV-001014,PO-00058,SUP-006,29792.55,USD,2025-09-11,Security Guard Services - Nov (Shipping/Tax Diff),Operations,User_5,Review Further
+INV-001015,PO-00192,SUP-016,32154.9,USD,2026-01-21,Office Cleaning Services - Monthly,Operations,User_11,Approve
+INV-001016,PO-00248,SUP-022,39687.27,USD,2026-01-03,Tax Consultation Fees,Finance,User_14,Approve
+INV-001017,PO-00031,SUP-012,3884.9,USD,2025-06-14,Dell Latitude 5520 Laptop (Count: 5) (Shipping/Tax Diff),IT,User_19,Review Further
+INV-001018,PO-00239,SUP-015,27057.01,USD,2025-12-06,Server Rack Maintenance Fee (Shipping/Tax Diff),IT,User_15,Review Further
+INV-001019,,SUP-043,612.11,USD,2025-09-15,Bank Transaction Fees,Finance,User_19,Review Further
+INV-001020,PO-00062,SUP-028,43297.98,EUR,2025-06-07,Cisco Meraki MR56 Access Points,IT,User_1,Approve
+INV-001021,PO-00023,SUP-024,8767.93,USD,2025-09-17,Dell Latitude 5520 Laptop (Count: 5) (Shipping/Tax Diff),IT,User_17,Review Further
+INV-001022,PO-00044,SUP-045,11276.19,USD,2025-07-18,Q3 Digital Ad Campaign Management,Marketing,User_11,Approve
+INV-001023,PO-00163,SUP-030,31742.47,USD,2025-06-18,Cloud Hosting Services - AWS,IT,User_3,Approve
+INV-001024,PO-00269,SUP-002,13413.56,USD,2025-08-26,Email Marketing Platform Subscription (Shipping/Tax Diff),Marketing,User_3,Review Further
+INV-001025,PO-00092,SUP-030,15281.33,EUR,2025-07-18,Unrelated Service Fee,IT,User_18,Reject
+INV-001026,,SUP-001,4425.7,USD,2025-02-27,Suspicious Non-PO Request,Operations,User_3,Reject
+INV-001027,,SUP-021,4785.3,USD,2025-03-10,Financial Reporting Software - Seat License,Finance,User_6,Review Further
+INV-001028,,SUP-004,794.97,USD,2025-04-28,Office Cleaning Services - Monthly,Operations,User_17,Review Further
+INV-001029,PO-00271,SUP-002,34118.11,USD,2025-03-06,Video Production Services - Promo (Shipping/Tax Diff),Marketing,User_1,Review Further
+INV-001030,PO-00099,SUP-006,23780.19,USD,2025-03-09,Office Cleaning Services - Monthly,Operations,User_8,Approve
+INV-001031,,SUP-044,4365.38,USD,2025-05-12,Suspicious Non-PO Request,Finance,User_17,Reject
+INV-001032,PO-00020,SUP-050,8664.99,EUR,2025-04-23,HVAC Maintenance and Repair (Shipping/Tax Diff),Operations,User_20,Review Further
+INV-001033,PO-00074,SUP-031,8544.66,EUR,2025-11-02,Email Marketing Platform Subscription,Marketing,User_6,Reject
+INV-001034,PO-00063,SUP-010,39228.13,USD,2025-07-20,Payroll Processing Fees - Oct,Finance,User_9,Approve
+INV-001035,,SUP-008,1890.92,USD,2025-06-10,Suspicious Non-PO Request,IT,User_2,Reject
+INV-001036,PO-00044,SUP-045,11276.19,USD,2025-06-25,Q3 Digital Ad Campaign Management,Marketing,User_11,Approve
+INV-001037,PO-00041,SUP-033,24539.24,EUR,2025-08-22,SEO Optimization Services,Marketing,User_2,Approve
+INV-001038,PO-00185,SUP-016,2902.97,USD,2025-04-11,Office Cleaning Services - Monthly (Shipping/Tax Diff),Operations,User_16,Review Further
+INV-001039,,SUP-028,4969.18,USD,2025-11-04,Server Rack Maintenance Fee,IT,User_5,Review Further
+INV-001040,,SUP-019,2834.31,USD,2025-01-31,Facilities Management Retainer,Operations,User_11,Review Further
+INV-001041,PO-00090,SUP-048,32626.49,USD,2025-07-04,Payroll Processing Fees - Oct,Finance,User_7,Reject
+INV-001042,PO-00273,SUP-031,2694.62,USD,2025-04-02,Video Production Services - Promo,Marketing,User_15,Approve
+INV-001043,PO-00067,SUP-013,50847.59,USD,2025-09-10,Software Development Consultation - Q3,IT,User_4,Reject
+INV-001044,PO-00285,SUP-041,7567.58,USD,2025-02-17,Server Rack Maintenance Fee,IT,User_5,Approve
+INV-001045,PO-00058,SUP-006,28264.89,USD,2025-09-26,Security Guard Services - Nov,Operations,User_5,Approve
+INV-001046,PO-00227,SUP-022,31659.39,EUR,2025-09-12,Bank Transaction Fees (Shipping/Tax Diff),Finance,User_10,Review Further
+INV-001047,PO-00055,SUP-034,31894.78,USD,2026-01-09,Cloud Hosting Services - AWS,IT,User_9,Review Further
+INV-001048,PO-00047,SUP-007,12687.66,USD,2025-11-03,Dell Latitude 5520 Laptop (Count: 5),IT,User_14,Approve
+INV-001049,PO-00201,SUP-050,50181.23,USD,2025-09-20,Waste Management Services,Operations,User_16,Reject
+INV-001050,PO-00146,SUP-014,26162.75,EUR,2025-05-24,Corporate Insurance Premium,Finance,User_15,Approve
+INV-001051,,SUP-030,4681.54,USD,2025-06-05,Dell Latitude 5520 Laptop (Count: 5),IT,User_7,Review Further
+INV-001052,PO-00027,SUP-001,47374.0,USD,2025-12-03,Security Guard Services - Nov,Operations,User_3,Review Further
+INV-001053,PO-00021,SUP-048,19390.15,USD,2025-09-07,Payroll Processing Fees - Oct,Finance,User_18,Approve
+INV-001054,PO-00055,SUP-034,31894.78,EUR,2026-01-24,Unrelated Service Fee,IT,User_9,Reject
+INV-001055,PO-00038,SUP-044,24280.05,USD,2025-10-16,Payroll Processing Fees - Oct (Shipping/Tax Diff),Finance,User_9,Review Further
+INV-001056,,SUP-010,1789.21,USD,2025-08-30,Audit Services - FY2025,Finance,User_18,Review Further
+INV-001057,PO-00092,SUP-030,16383.5,EUR,2025-07-24,Monitor 27-inch 4K - Dell UltraSharp (Shipping/Tax Diff),IT,User_18,Review Further
+INV-001058,PO-00039,SUP-025,64093.3,EUR,2025-05-30,Security Guard Services - Nov,Operations,User_18,Reject
+INV-001059,PO-00155,SUP-023,18729.42,EUR,2025-10-22,Corporate Insurance Premium (Shipping/Tax Diff),Finance,User_15,Review Further
+INV-001060,PO-00047,SUP-007,12687.66,USD,2025-12-09,Dell Latitude 5520 Laptop (Count: 5),IT,User_14,Approve
+INV-001061,PO-00239,SUP-015,25599.86,USD,2025-12-11,Server Rack Maintenance Fee,IT,User_15,Approve
+INV-001062,PO-00119,SUP-030,6472.47,USD,2025-05-24,Lenovo ThinkPad X1 Carbon Gen 9,IT,User_4,Approve
+INV-001063,PO-00130,SUP-016,32420.59,USD,2025-02-25,Security Guard Services - Nov (Shipping/Tax Diff),Operations,User_7,Review Further
+INV-001064,PO-00282,SUP-009,22572.83,USD,2025-07-21,Monitor 27-inch 4K - Dell UltraSharp,IT,User_15,Approve
+INV-001065,,SUP-029,4139.93,USD,2025-11-09,Suspicious Non-PO Request,Finance,User_10,Reject
+INV-001066,PO-00268,SUP-040,36067.94,EUR,2025-05-18,Creative Design for Holiday Campaign,Marketing,User_1,Approve
+INV-001067,,SUP-041,1535.84,USD,2025-12-07,Suspicious Non-PO Request,IT,User_16,Reject
+INV-001068,PO-00147,SUP-029,13719.28,USD,2025-05-30,Tax Consultation Fees,Finance,User_15,Approve
+INV-001069,PO-00147,SUP-029,14929.81,USD,2025-05-30,Tax Consultation Fees (Shipping/Tax Diff),Finance,User_15,Review Further
+INV-001070,PO-00154,SUP-003,29206.21,USD,2025-12-04,Server Rack Maintenance Fee,IT,User_15,Approve
+INV-001071,PO-00130,SUP-016,30676.73,GBP,2025-03-26,Security Guard Services - Nov,Operations,User_7,Review Further
+INV-001072,PO-00107,SUP-014,18843.26,USD,2026-01-11,Unrelated Service Fee,Finance,User_1,Reject
+INV-001073,PO-00033,SUP-049,43051.95,GBP,2025-02-10,Security Guard Services - Nov,Operations,User_9,Review Further
+INV-001074,PO-00249,SUP-046,1402.41,USD,2025-08-17,Breakroom Snacks and Coffee,Operations,User_7,Approve
+INV-001075,PO-00148,SUP-021,1929.04,USD,2025-03-28,Bank Transaction Fees,Finance,User_6,Approve
+INV-001076,,SUP-031,1837.76,USD,2025-12-05,Q3 Digital Ad Campaign Management,Marketing,User_12,Review Further
+INV-001077,PO-00029,SUP-016,30414.94,USD,2025-12-02,Office Supplies - Paper/Pens/Ink,Operations,User_10,Reject
+INV-001078,PO-00061,SUP-048,5957.83,EUR,2026-01-11,Corporate Insurance Premium (Shipping/Tax Diff),Finance,User_20,Review Further
+INV-001079,PO-00277,SUP-020,19701.46,USD,2025-07-24,Office Cleaning Services - Monthly (Shipping/Tax Diff),Operations,User_9,Review Further
+INV-001080,PO-00123,SUP-001,29486.26,EUR,2025-02-19,HVAC Maintenance and Repair (Shipping/Tax Diff),Operations,User_4,Review Further
+INV-001081,PO-00066,SUP-040,16748.97,USD,2025-09-07,Social Media Content Creation - Oct,Marketing,User_12,Approve
+INV-001082,PO-00279,SUP-023,30732.52,USD,2025-05-22,Payroll Processing Fees - Oct,Finance,User_17,Reject
+INV-001083,,SUP-044,982.66,USD,2025-10-27,Suspicious Non-PO Request,Finance,User_20,Reject
+INV-001084,PO-00131,SUP-045,4915.6,USD,2025-12-26,SEO Optimization Services (Shipping/Tax Diff),Marketing,User_18,Review Further
+INV-001085,PO-00279,SUP-023,29972.5,USD,2025-04-21,Payroll Processing Fees - Oct,Finance,User_17,Reject
+INV-001086,PO-00223,SUP-020,38483.8,USD,2025-05-26,Breakroom Snacks and Coffee,Operations,User_11,Approve
+INV-001087,,SUP-046,2237.59,USD,2025-11-15,Facilities Management Retainer,Operations,User_17,Review Further
+INV-001088,PO-00282,SUP-009,23846.74,USD,2025-08-03,Monitor 27-inch 4K - Dell UltraSharp (Shipping/Tax Diff),IT,User_15,Review Further
+INV-001089,,SUP-049,1171.54,USD,2025-03-19,Suspicious Non-PO Request,Operations,User_7,Reject
+INV-001090,PO-00237,SUP-018,18834.05,USD,2025-03-14,Security Guard Services - Nov (Shipping/Tax Diff),Operations,User_15,Review Further
+INV-001091,PO-00254,SUP-040,37743.36,USD,2025-06-15,Conference Sponsorship - TechSummit,Marketing,User_18,Approve
+INV-001092,,SUP-012,3315.95,USD,2025-11-13,Server Rack Maintenance Fee,IT,User_2,Review Further
+INV-001093,,SUP-028,377.92,USD,2025-12-21,Suspicious Non-PO Request,IT,User_1,Reject
+INV-001094,PO-00232,SUP-007,25742.63,USD,2025-10-25,Software Development Consultation - Q3,IT,User_5,Approve
+INV-001095,,SUP-049,1790.09,USD,2025-03-01,Suspicious Non-PO Request,Operations,User_5,Reject
+INV-001096,PO-00072,SUP-018,47469.29,USD,2025-03-23,Facilities Management Retainer,Operations,User_4,Approve
+INV-001097,PO-00230,SUP-050,31232.89,EUR,2025-10-02,Security Guard Services - Nov (Shipping/Tax Diff),Operations,User_10,Review Further
+INV-001098,PO-00233,SUP-050,8510.04,USD,2025-03-18,Office Supplies - Paper/Pens/Ink (Shipping/Tax Diff),Operations,User_20,Review Further
+INV-001099,PO-00138,SUP-024,22169.06,USD,2025-09-30,Dell Latitude 5520 Laptop (Count: 5),IT,User_11,Review Further
+INV-001100,PO-00276,SUP-012,20212.09,USD,2025-11-04,Unrelated Service Fee,IT,User_2,Reject
+INV-001101,PO-00158,SUP-046,52982.74,USD,2025-10-06,HVAC Maintenance and Repair (Shipping/Tax Diff),Operations,User_4,Review Further
+INV-001102,PO-00230,SUP-050,39432.98,EUR,2025-09-21,Security Guard Services - Nov,Operations,User_10,Reject
+INV-001103,,SUP-001,4923.83,USD,2025-03-18,Suspicious Non-PO Request,Operations,User_15,Reject
+INV-001104,PO-00090,SUP-048,27359.25,USD,2025-07-21,Payroll Processing Fees - Oct,Finance,User_7,Approve
+INV-001105,PO-00176,SUP-020,2151.54,USD,2025-09-17,Facilities Management Retainer,Operations,User_3,Approve
+INV-001106,PO-00281,SUP-022,15041.44,USD,2025-11-19,Audit Services - FY2025,Finance,User_11,Approve
+INV-001107,PO-00059,SUP-027,41812.45,USD,2025-03-02,Corporate Insurance Premium,Finance,User_14,Approve
+INV-001108,,SUP-050,2066.05,USD,2025-08-21,Suspicious Non-PO Request,Operations,User_7,Reject
+INV-001109,PO-00218,SUP-002,5432.23,USD,2025-12-29,Q3 Digital Ad Campaign Management,Marketing,User_6,Reject
+INV-001110,PO-00085,SUP-024,21623.67,USD,2025-10-28,Server Rack Maintenance Fee,IT,User_16,Approve
+INV-001111,PO-00273,SUP-031,2882.54,USD,2025-05-07,Video Production Services - Promo (Shipping/Tax Diff),Marketing,User_15,Review Further
+INV-001112,PO-00086,SUP-049,37712.95,EUR,2025-06-06,Breakroom Snacks and Coffee,Operations,User_8,Approve
+INV-001113,,SUP-016,4877.28,USD,2025-07-06,Waste Management Services,Operations,User_7,Review Further
+INV-001114,PO-00067,SUP-013,37060.75,USD,2025-09-13,Software Development Consultation - Q3 (Shipping/Tax Diff),IT,User_4,Review Further
+INV-001115,PO-00057,SUP-044,32037.11,GBP,2025-04-16,Financial Reporting Software - Seat License,Finance,User_15,Review Further
+INV-001116,PO-00288,SUP-043,28909.13,GBP,2025-03-26,Corporate Insurance Premium,Finance,User_13,Review Further
+INV-001117,PO-00164,SUP-038,38138.3,EUR,2025-04-04,Security Guard Services - Nov,Operations,User_6,Approve
+INV-001118,,SUP-005,1290.91,USD,2025-09-25,HVAC Maintenance and Repair,Operations,User_8,Review Further
+INV-001119,PO-00229,SUP-038,53363.81,EUR,2026-01-14,Security Guard Services - Nov,Operations,User_4,Reject
+INV-001120,PO-00006,SUP-044,8860.94,USD,2025-06-12,Financial Reporting Software - Seat License (Shipping/Tax Diff),Finance,User_3,Review Further
+INV-001121,PO-00200,SUP-017,2844.03,EUR,2025-12-24,Cloud Hosting Services - AWS (Shipping/Tax Diff),IT,User_1,Review Further
+INV-001122,,SUP-039,3327.36,USD,2025-09-22,Suspicious Non-PO Request,Operations,User_17,Reject
+INV-001123,PO-00212,SUP-034,19403.27,USD,2025-04-07,Software Development Consultation - Q3 (Shipping/Tax Diff),IT,User_9,Review Further
+INV-001124,PO-00254,SUP-040,37743.36,USD,2025-07-07,Conference Sponsorship - TechSummit,Marketing,User_18,Approve
+INV-001125,PO-00218,SUP-002,4705.37,USD,2025-12-15,Q3 Digital Ad Campaign Management,Marketing,User_6,Approve
+INV-001126,,SUP-029,925.5,USD,2025-12-17,Bank Transaction Fees,Finance,User_10,Review Further
+INV-001127,PO-00274,SUP-035,9522.76,USD,2025-12-28,HVAC Maintenance and Repair,Operations,User_15,Approve
+INV-001128,PO-00158,SUP-046,48258.81,USD,2025-11-07,HVAC Maintenance and Repair,Operations,User_4,Approve
+INV-001129,PO-00248,SUP-022,42603.92,USD,2026-01-14,Tax Consultation Fees (Shipping/Tax Diff),Finance,User_14,Review Further
+INV-001130,PO-00103,SUP-049,51807.44,USD,2025-12-15,Security Guard Services - Nov (Shipping/Tax Diff),Operations,User_10,Review Further
+INV-001131,PO-00098,SUP-013,38180.87,USD,2025-07-24,Monitor 27-inch 4K - Dell UltraSharp,IT,User_14,Approve
+INV-001132,PO-00080,SUP-039,30758.06,EUR,2025-09-17,Security Guard Services - Nov,Operations,User_14,Approve
+INV-001133,,SUP-005,1863.73,USD,2025-11-08,Suspicious Non-PO Request,Operations,User_1,Reject
+INV-001134,PO-00233,SUP-050,9064.44,USD,2025-03-23,Office Supplies - Paper/Pens/Ink,Operations,User_20,Reject
+INV-001135,,SUP-006,3258.01,USD,2025-11-13,Suspicious Non-PO Request,Operations,User_3,Reject
+INV-001136,,SUP-013,890.41,USD,2025-10-16,Suspicious Non-PO Request,IT,User_11,Reject
+INV-001137,PO-00298,SUP-032,26521.93,GBP,2025-10-04,Payroll Processing Fees - Oct,Finance,User_5,Review Further
+INV-001138,,SUP-047,2375.01,USD,2025-01-25,Suspicious Non-PO Request,IT,User_11,Reject
+INV-001139,PO-00185,SUP-016,2744.67,USD,2025-04-27,Office Cleaning Services - Monthly,Operations,User_16,Approve
+INV-001140,,SUP-042,3391.8,USD,2025-07-05,Facilities Management Retainer,Operations,User_16,Review Further
+INV-001141,,SUP-050,4848.67,USD,2025-04-27,Suspicious Non-PO Request,Operations,User_16,Reject
+INV-001142,PO-00143,SUP-039,20876.43,USD,2025-07-05,Pest Control Quarterly Service,Operations,User_13,Approve
+INV-001143,,SUP-035,2888.93,USD,2025-05-09,Suspicious Non-PO Request,Operations,User_20,Reject
+INV-001144,PO-00029,SUP-016,23124.96,USD,2025-12-24,Office Supplies - Paper/Pens/Ink (Shipping/Tax Diff),Operations,User_10,Review Further
+INV-001145,PO-00057,SUP-044,32037.11,USD,2025-03-26,Financial Reporting Software - Seat License,Finance,User_15,Approve
+INV-001146,PO-00094,SUP-038,1936.73,EUR,2025-10-09,Facilities Management Retainer,Operations,User_6,Approve
+INV-001147,PO-00075,SUP-015,16476.58,USD,2025-12-11,Dell Latitude 5520 Laptop (Count: 5) (Shipping/Tax Diff),IT,User_10,Review Further
+INV-001148,PO-00275,SUP-036,11464.22,USD,2025-07-24,Tax Consultation Fees (Shipping/Tax Diff),Finance,User_11,Review Further
+INV-001149,PO-00099,SUP-006,29119.64,USD,2025-03-26,Office Cleaning Services - Monthly,Operations,User_8,Reject
+INV-001150,,SUP-016,3207.74,USD,2025-11-24,Suspicious Non-PO Request,Operations,User_14,Reject
+INV-001151,PO-00058,SUP-006,28264.89,USD,2025-08-30,Security Guard Services - Nov,Operations,User_5,Approve
+INV-001152,PO-00178,SUP-030,26777.19,GBP,2025-08-16,Cloud Hosting Services - AWS,IT,User_9,Review Further
+INV-001153,PO-00153,SUP-008,21156.63,USD,2025-09-10,Cloud Hosting Services - AWS,IT,User_10,Reject
+INV-001154,,SUP-011,1470.87,USD,2025-04-06,Suspicious Non-PO Request,IT,User_9,Reject
+INV-001155,,SUP-026,999.98,USD,2025-05-19,Suspicious Non-PO Request,Finance,User_10,Reject
+INV-001156,PO-00227,SUP-022,28883.28,EUR,2025-08-24,Bank Transaction Fees,Finance,User_10,Approve
+INV-001157,,SUP-019,1399.92,USD,2025-01-28,Suspicious Non-PO Request,Operations,User_9,Reject
+INV-001158,,SUP-019,4269.98,USD,2025-09-19,Suspicious Non-PO Request,Operations,User_1,Reject
+INV-001159,,SUP-001,3027.92,USD,2025-02-15,Suspicious Non-PO Request,Operations,User_14,Reject
+INV-001160,PO-00241,SUP-002,22800.89,USD,2025-02-23,Video Production Services - Promo,Marketing,User_17,Approve
+INV-001161,,SUP-038,2876.32,USD,2025-09-27,Suspicious Non-PO Request,Operations,User_4,Reject
+INV-001162,,SUP-033,3019.12,USD,2025-06-23,Suspicious Non-PO Request,Marketing,User_11,Reject
+INV-001163,PO-00160,SUP-033,57603.44,EUR,2025-12-29,Social Media Content Creation - Oct,Marketing,User_9,Reject
+INV-001164,PO-00282,SUP-009,22572.83,USD,2025-07-06,Monitor 27-inch 4K - Dell UltraSharp,IT,User_15,Approve
+INV-001165,PO-00057,SUP-044,32037.11,USD,2025-04-25,Financial Reporting Software - Seat License,Finance,User_15,Approve
+INV-001166,PO-00222,SUP-020,14821.22,USD,2025-03-22,Office Cleaning Services - Monthly,Operations,User_7,Reject
+INV-001167,,SUP-042,1424.78,USD,2025-03-29,Suspicious Non-PO Request,Operations,User_12,Reject
+INV-001168,PO-00243,SUP-030,8357.94,USD,2025-12-31,Software Development Consultation - Q3,IT,User_13,Approve
+INV-001169,,SUP-002,3710.28,USD,2025-02-10,Suspicious Non-PO Request,Marketing,User_8,Reject
+INV-001170,PO-00127,SUP-003,68102.44,USD,2025-11-06,Microsoft 365 Enterprise Licenses (Annual),IT,User_4,Reject
+INV-001171,PO-00132,SUP-025,632.45,EUR,2025-05-03,Pest Control Quarterly Service,Operations,User_10,Approve
+INV-001172,PO-00142,SUP-009,26449.59,USD,2025-09-28,Software Development Consultation - Q3,IT,User_4,Reject
+INV-001173,PO-00003,SUP-038,1974.96,USD,2025-02-19,Unrelated Service Fee,Operations,User_17,Reject
+INV-001174,,SUP-039,4456.72,USD,2025-08-26,Suspicious Non-PO Request,Operations,User_11,Reject
+INV-001175,,SUP-042,446.47,USD,2025-09-22,Suspicious Non-PO Request,Operations,User_16,Reject
+INV-001176,PO-00081,SUP-038,36058.12,EUR,2025-04-30,Waste Management Services,Operations,User_13,Approve
+INV-001177,PO-00227,SUP-022,30835.58,EUR,2025-09-29,Bank Transaction Fees (Shipping/Tax Diff),Finance,User_10,Review Further
+INV-001178,PO-00030,SUP-027,35438.0,EUR,2025-12-27,Payroll Processing Fees - Oct (Shipping/Tax Diff),Finance,User_4,Review Further
+INV-001179,PO-00267,SUP-023,5987.47,USD,2025-03-16,Payroll Processing Fees - Oct,Finance,User_17,Approve
+INV-001180,PO-00270,SUP-014,3850.13,USD,2025-08-12,Corporate Insurance Premium,Finance,User_13,Approve
+INV-001181,,SUP-031,1562.46,USD,2025-11-04,Social Media Content Creation - Oct,Marketing,User_3,Review Further
+INV-001182,PO-00189,SUP-019,22512.45,USD,2025-09-07,Unrelated Service Fee,Operations,User_4,Reject
+INV-001183,PO-00284,SUP-048,35948.34,USD,2025-03-24,Payroll Processing Fees - Oct (Shipping/Tax Diff),Finance,User_17,Review Further
+INV-001184,PO-00176,SUP-020,2151.54,USD,2025-09-08,Facilities Management Retainer,Operations,User_3,Approve
+INV-001185,PO-00249,SUP-046,1402.41,USD,2025-07-31,Unrelated Service Fee,Operations,User_7,Reject
+INV-001186,,SUP-017,1869.62,USD,2025-08-03,Lenovo ThinkPad X1 Carbon Gen 9,IT,User_13,Review Further
+INV-001187,,SUP-018,2814.72,USD,2025-11-23,Suspicious Non-PO Request,Operations,User_8,Reject
+INV-001188,,SUP-035,3521.24,USD,2025-04-10,Suspicious Non-PO Request,Operations,User_2,Reject
+INV-001189,PO-00041,SUP-033,24539.24,EUR,2025-09-03,SEO Optimization Services,Marketing,User_2,Approve
+INV-001190,,SUP-032,2857.85,USD,2025-01-21,Suspicious Non-PO Request,Finance,User_17,Reject
+INV-001191,PO-00275,SUP-036,12873.87,USD,2025-06-27,Tax Consultation Fees,Finance,User_11,Reject
+INV-001192,,SUP-010,4316.59,USD,2025-05-30,Suspicious Non-PO Request,Finance,User_10,Reject
+INV-001193,,SUP-033,4288.87,USD,2025-11-17,Suspicious Non-PO Request,Marketing,User_7,Reject
+INV-001194,,SUP-038,942.83,USD,2025-03-29,Suspicious Non-PO Request,Operations,User_1,Reject
+INV-001195,,SUP-041,2282.33,USD,2025-05-21,Server Rack Maintenance Fee,IT,User_12,Review Further
+INV-001196,PO-00192,SUP-016,32154.9,USD,2026-01-03,Unrelated Service Fee,Operations,User_11,Reject
+INV-001197,PO-00103,SUP-049,52389.3,USD,2025-12-07,Security Guard Services - Nov (Shipping/Tax Diff),Operations,User_10,Review Further
+INV-001198,,SUP-013,2807.15,USD,2025-02-09,Suspicious Non-PO Request,IT,User_11,Reject
+INV-001199,PO-00276,SUP-012,22033.45,USD,2025-10-07,Server Rack Maintenance Fee (Shipping/Tax Diff),IT,User_2,Review Further
+INV-001200,,SUP-009,2547.48,USD,2025-07-28,Suspicious Non-PO Request,IT,User_10,Reject
+INV-001201,,SUP-026,4466.52,USD,2025-02-04,Tax Consultation Fees,Finance,User_19,Review Further
+INV-001202,PO-00039,SUP-025,43787.05,EUR,2025-05-30,Unrelated Service Fee,Operations,User_18,Reject
+INV-001203,,SUP-022,3565.77,USD,2025-08-23,Financial Reporting Software - Seat License,Finance,User_5,Review Further
+INV-001204,,SUP-014,682.96,USD,2025-06-06,Payroll Processing Fees - Oct,Finance,User_12,Review Further
+INV-001205,PO-00051,SUP-001,14488.51,USD,2025-10-21,Facilities Management Retainer (Shipping/Tax Diff),Operations,User_8,Review Further
+INV-001206,PO-00289,SUP-041,14295.14,USD,2026-01-13,Microsoft 365 Enterprise Licenses (Annual),IT,User_6,Approve
+INV-001207,PO-00027,SUP-001,47374.0,EUR,2025-12-13,Security Guard Services - Nov,Operations,User_3,Approve
+INV-001208,PO-00229,SUP-038,46028.6,EUR,2026-01-15,Security Guard Services - Nov,Operations,User_4,Approve
+INV-001209,,SUP-039,1187.81,USD,2025-02-01,Breakroom Snacks and Coffee,Operations,User_16,Review Further
+INV-001210,PO-00058,SUP-006,28264.89,USD,2025-09-21,Security Guard Services - Nov,Operations,User_5,Approve
+INV-001211,,SUP-031,1814.77,USD,2025-10-28,Suspicious Non-PO Request,Marketing,User_16,Reject
+INV-001212,PO-00300,SUP-017,35004.04,EUR,2025-12-26,Cisco Meraki MR56 Access Points,IT,User_17,Reject
+INV-001213,,SUP-001,883.06,USD,2025-10-01,Suspicious Non-PO Request,Operations,User_9,Reject
+INV-001214,PO-00052,SUP-009,8896.88,USD,2025-06-13,Cloud Hosting Services - AWS (Shipping/Tax Diff),IT,User_18,Review Further
+INV-001215,,SUP-016,2515.65,USD,2025-03-03,Office Cleaning Services - Monthly,Operations,User_11,Review Further
+INV-001216,PO-00245,SUP-035,28119.18,USD,2025-03-27,Waste Management Services,Operations,User_9,Approve
+INV-001217,PO-00084,SUP-036,23094.86,USD,2025-03-27,Unrelated Service Fee,Finance,User_15,Reject
+INV-001218,,SUP-040,2328.15,USD,2025-12-17,Suspicious Non-PO Request,Marketing,User_16,Reject
+INV-001219,,SUP-021,3307.13,USD,2025-07-01,Suspicious Non-PO Request,Finance,User_2,Reject
+INV-001220,PO-00034,SUP-030,27192.08,USD,2025-06-09,Unrelated Service Fee,IT,User_16,Reject
+INV-001221,,SUP-014,4323.23,USD,2025-12-09,Suspicious Non-PO Request,Finance,User_10,Reject
+INV-001222,PO-00086,SUP-049,39773.12,EUR,2025-06-12,Breakroom Snacks and Coffee (Shipping/Tax Diff),Operations,User_8,Review Further
+INV-001223,,SUP-004,4826.99,USD,2025-08-06,Suspicious Non-PO Request,Operations,User_3,Reject
+INV-001224,,SUP-021,3908.49,USD,2025-06-08,Audit Services - FY2025,Finance,User_5,Review Further
+INV-001225,PO-00021,SUP-048,19390.15,GBP,2025-09-12,Payroll Processing Fees - Oct,Finance,User_18,Review Further
+INV-001226,PO-00105,SUP-039,29808.84,USD,2025-02-28,Office Supplies - Paper/Pens/Ink,Operations,User_10,Approve
+INV-001227,PO-00208,SUP-023,5597.07,USD,2025-03-29,Audit Services - FY2025 (Shipping/Tax Diff),Finance,User_5,Review Further
+INV-001228,,SUP-036,3021.69,USD,2025-03-01,Suspicious Non-PO Request,Finance,User_14,Reject
+INV-001229,PO-00233,SUP-050,7748.99,USD,2025-03-10,Office Supplies - Paper/Pens/Ink,Operations,User_20,Approve
+INV-001230,PO-00077,SUP-021,15250.98,USD,2026-01-04,Payroll Processing Fees - Oct,Finance,User_3,Reject
+INV-001231,PO-00203,SUP-043,33105.75,USD,2025-07-03,Corporate Insurance Premium (Shipping/Tax Diff),Finance,User_13,Review Further
+INV-001232,PO-00242,SUP-011,15341.66,EUR,2025-02-12,Server Rack Maintenance Fee,IT,User_17,Reject
+INV-001233,PO-00044,SUP-045,11276.19,USD,2025-06-30,Q3 Digital Ad Campaign Management,Marketing,User_11,Approve
+INV-001234,PO-00124,SUP-022,14574.8,EUR,2025-11-07,Payroll Processing Fees - Oct,Finance,User_11,Approve
+INV-001235,PO-00207,SUP-021,17428.98,EUR,2026-01-16,Tax Consultation Fees,Finance,User_3,Reject
+INV-001236,,SUP-018,3321.23,USD,2025-11-01,Facilities Management Retainer,Operations,User_9,Review Further
+INV-001237,,SUP-001,2542.05,USD,2025-03-13,Suspicious Non-PO Request,Operations,User_15,Reject
+INV-001238,PO-00040,SUP-011,32781.17,USD,2025-03-07,Dell Latitude 5520 Laptop (Count: 5),IT,User_8,Approve
+INV-001239,PO-00264,SUP-009,30959.74,USD,2025-10-08,Microsoft 365 Enterprise Licenses (Annual),IT,User_9,Approve
+INV-001240,PO-00004,SUP-046,30838.05,USD,2025-02-18,Waste Management Services (Shipping/Tax Diff),Operations,User_15,Review Further
+INV-001241,PO-00236,SUP-014,4713.56,USD,2025-10-05,Payroll Processing Fees - Oct,Finance,User_9,Reject
+INV-001242,,SUP-025,3383.37,USD,2025-08-24,Office Cleaning Services - Monthly,Operations,User_18,Review Further
+INV-001243,,SUP-013,900.09,USD,2025-09-15,Suspicious Non-PO Request,IT,User_15,Reject
+INV-001244,PO-00243,SUP-030,9034.31,USD,2026-01-01,Software Development Consultation - Q3 (Shipping/Tax Diff),IT,User_13,Review Further
+INV-001245,PO-00121,SUP-016,32136.51,USD,2025-10-29,Security Guard Services - Nov (Shipping/Tax Diff),Operations,User_10,Review Further
+INV-001246,,SUP-042,718.81,USD,2025-04-21,Suspicious Non-PO Request,Operations,User_4,Reject
+INV-001247,,SUP-009,182.74,USD,2025-09-17,Suspicious Non-PO Request,IT,User_5,Reject
+INV-001248,PO-00271,SUP-002,34044.94,USD,2025-03-07,Video Production Services - Promo (Shipping/Tax Diff),Marketing,User_1,Review Further
+INV-001249,,SUP-011,2138.3,USD,2025-03-14,Suspicious Non-PO Request,IT,User_6,Reject
+INV-001250,PO-00225,SUP-026,35331.73,USD,2025-10-15,Corporate Insurance Premium,Finance,User_3,Approve
+INV-001251,PO-00043,SUP-027,37726.31,EUR,2025-09-13,Bank Transaction Fees (Shipping/Tax Diff),Finance,User_5,Review Further
+INV-001252,,SUP-011,88.98,USD,2025-12-02,Suspicious Non-PO Request,IT,User_14,Reject
+INV-001253,PO-00039,SUP-025,46613.01,EUR,2025-06-22,Security Guard Services - Nov (Shipping/Tax Diff),Operations,User_18,Review Further
+INV-001254,PO-00228,SUP-046,1680.68,USD,2025-09-10,Facilities Management Retainer (Shipping/Tax Diff),Operations,User_20,Review Further
+INV-001255,,SUP-030,350.49,USD,2025-01-23,Suspicious Non-PO Request,IT,User_14,Reject
+INV-001256,,SUP-010,3259.09,USD,2025-09-13,Suspicious Non-PO Request,Finance,User_4,Reject
+INV-001257,PO-00235,SUP-023,34216.11,USD,2025-09-28,Corporate Insurance Premium,Finance,User_11,Approve
+INV-001258,,SUP-030,1475.65,USD,2025-04-22,Suspicious Non-PO Request,IT,User_16,Reject
+INV-001259,PO-00178,SUP-030,29350.12,USD,2025-09-01,Cloud Hosting Services - AWS (Shipping/Tax Diff),IT,User_9,Review Further
+INV-001260,PO-00066,SUP-040,16748.97,USD,2025-08-31,Unrelated Service Fee,Marketing,User_12,Reject
+INV-001261,PO-00194,SUP-025,15744.92,USD,2025-12-11,Office Supplies - Paper/Pens/Ink,Operations,User_5,Reject
+INV-001262,PO-00180,SUP-012,47245.0,EUR,2025-04-02,Lenovo ThinkPad X1 Carbon Gen 9,IT,User_18,Reject
+INV-001263,PO-00267,SUP-023,5987.47,USD,2025-02-28,Payroll Processing Fees - Oct,Finance,User_17,Approve
+INV-001264,,SUP-039,2486.32,USD,2025-08-14,Breakroom Snacks and Coffee,Operations,User_16,Review Further
+INV-001265,PO-00148,SUP-021,2394.48,USD,2025-04-30,Bank Transaction Fees,Finance,User_6,Reject
+INV-001266,,SUP-028,4148.35,USD,2025-09-28,Suspicious Non-PO Request,IT,User_2,Reject
+INV-001267,,SUP-007,1172.12,USD,2025-10-28,Server Rack Maintenance Fee,IT,User_8,Review Further
+INV-001268,PO-00025,SUP-003,27199.26,USD,2025-04-09,Dell Latitude 5520 Laptop (Count: 5),IT,User_16,Approve
+INV-001269,PO-00112,SUP-038,19259.97,USD,2026-02-05,Office Cleaning Services - Monthly,Operations,User_11,Review Further
+INV-001270,PO-00240,SUP-044,10333.49,EUR,2026-01-11,Corporate Insurance Premium (Shipping/Tax Diff),Finance,User_17,Review Further
+INV-001271,PO-00284,SUP-048,33723.6,USD,2025-02-28,Unrelated Service Fee,Finance,User_17,Reject
+INV-001272,PO-00173,SUP-012,900.85,USD,2025-06-10,Dell Latitude 5520 Laptop (Count: 5),IT,User_10,Review Further
+INV-001273,PO-00095,SUP-009,49045.74,EUR,2025-03-27,Dell Latitude 5520 Laptop (Count: 5),IT,User_19,Approve
+INV-001274,,SUP-024,634.39,USD,2025-04-29,Suspicious Non-PO Request,IT,User_12,Reject
+INV-001275,PO-00117,SUP-024,32026.06,USD,2025-12-29,Server Rack Maintenance Fee (Shipping/Tax Diff),IT,User_14,Review Further
+INV-001276,PO-00166,SUP-018,7705.7,USD,2025-08-31,Waste Management Services,Operations,User_6,Approve
+INV-001277,,SUP-005,1049.36,USD,2025-08-14,Suspicious Non-PO Request,Operations,User_1,Reject
+INV-001278,PO-00129,SUP-007,43078.25,USD,2025-06-26,Monitor 27-inch 4K - Dell UltraSharp,IT,User_19,Approve
+INV-001279,,SUP-012,1893.56,USD,2025-08-14,Lenovo ThinkPad X1 Carbon Gen 9,IT,User_12,Review Further
+INV-001280,PO-00160,SUP-033,48512.86,EUR,2025-12-30,Social Media Content Creation - Oct,Marketing,User_9,Approve
+INV-001281,,SUP-031,2172.67,USD,2025-08-11,Suspicious Non-PO Request,Marketing,User_15,Reject
+INV-001282,PO-00266,SUP-046,7027.02,EUR,2025-06-22,Office Supplies - Paper/Pens/Ink (Shipping/Tax Diff),Operations,User_20,Review Further
+INV-001283,,SUP-021,1608.28,USD,2025-04-08,Suspicious Non-PO Request,Finance,User_14,Reject
+INV-001284,,SUP-019,4616.47,USD,2025-04-01,Suspicious Non-PO Request,Operations,User_19,Reject
+INV-001285,PO-00280,SUP-026,36490.53,USD,2025-03-16,Audit Services - FY2025,Finance,User_20,Review Further
+INV-001286,PO-00124,SUP-022,14574.8,EUR,2025-11-23,Unrelated Service Fee,Finance,User_11,Reject
+INV-001287,PO-00064,SUP-042,5850.73,EUR,2026-01-31,Office Cleaning Services - Monthly,Operations,User_8,Approve
+INV-001288,,SUP-022,1434.91,USD,2025-10-11,Suspicious Non-PO Request,Finance,User_20,Reject
+INV-001289,PO-00025,SUP-003,27199.26,USD,2025-05-11,Dell Latitude 5520 Laptop (Count: 5),IT,User_16,Approve
+INV-001290,PO-00086,SUP-049,40249.62,EUR,2025-07-07,Breakroom Snacks and Coffee (Shipping/Tax Diff),Operations,User_8,Review Further
+INV-001291,PO-00278,SUP-047,22129.09,EUR,2025-08-10,Monitor 27-inch 4K - Dell UltraSharp,IT,User_13,Approve
+INV-001292,,SUP-036,2710.3,USD,2025-08-01,Suspicious Non-PO Request,Finance,User_5,Reject
+INV-001293,,SUP-003,509.46,USD,2025-10-23,Suspicious Non-PO Request,IT,User_10,Reject
+INV-001294,,SUP-006,188.06,USD,2025-10-17,Breakroom Snacks and Coffee,Operations,User_19,Review Further
+INV-001295,PO-00095,SUP-009,49045.74,USD,2025-03-28,Dell Latitude 5520 Laptop (Count: 5),IT,User_19,Review Further
+INV-001296,PO-00287,SUP-001,40429.08,USD,2025-02-07,Pest Control Quarterly Service,Operations,User_12,Reject
+INV-001297,,SUP-021,3272.26,USD,2025-03-18,Suspicious Non-PO Request,Finance,User_15,Reject
+INV-001298,,SUP-014,1727.95,USD,2025-05-14,Suspicious Non-PO Request,Finance,User_19,Reject
+INV-001299,PO-00086,SUP-049,37712.95,USD,2025-06-10,Breakroom Snacks and Coffee,Operations,User_8,Review Further
+INV-001300,PO-00094,SUP-038,1936.73,EUR,2025-10-26,Facilities Management Retainer,Operations,User_6,Approve
+INV-001301,PO-00037,SUP-011,42632.66,USD,2025-07-27,Microsoft 365 Enterprise Licenses (Annual) (Shipping/Tax Diff),IT,User_7,Review Further
+INV-001302,PO-00255,SUP-046,48297.03,USD,2025-07-15,Pest Control Quarterly Service,Operations,User_12,Approve
+INV-001303,PO-00239,SUP-015,25599.86,USD,2025-12-12,Server Rack Maintenance Fee,IT,User_15,Approve
+INV-001304,PO-00043,SUP-027,34981.28,EUR,2025-08-22,Bank Transaction Fees,Finance,User_5,Approve
+INV-001305,PO-00107,SUP-014,18843.26,USD,2026-01-01,Corporate Insurance Premium,Finance,User_1,Approve
+INV-001306,PO-00081,SUP-038,36058.12,EUR,2025-05-27,Waste Management Services,Operations,User_13,Approve
+INV-001307,PO-00039,SUP-025,47885.55,EUR,2025-06-28,Security Guard Services - Nov (Shipping/Tax Diff),Operations,User_18,Review Further
+INV-001308,PO-00079,SUP-009,40424.86,USD,2025-06-07,Cisco Meraki MR56 Access Points,IT,User_2,Approve
+INV-001309,PO-00173,SUP-012,900.85,EUR,2025-06-30,Unrelated Service Fee,IT,User_10,Reject
+INV-001310,PO-00188,SUP-007,30974.78,USD,2025-09-30,Cloud Hosting Services - AWS,IT,User_12,Approve
+INV-001311,PO-00194,SUP-025,11189.59,USD,2025-12-13,Office Supplies - Paper/Pens/Ink,Operations,User_5,Approve
+INV-001312,PO-00151,SUP-026,21066.77,EUR,2025-06-16,Payroll Processing Fees - Oct,Finance,User_8,Approve
+INV-001313,PO-00219,SUP-045,33861.45,EUR,2025-02-19,Creative Design for Holiday Campaign,Marketing,User_14,Approve
+INV-001314,PO-00231,SUP-021,16986.9,USD,2025-05-15,Tax Consultation Fees,Finance,User_17,Approve
+INV-001315,PO-00205,SUP-004,21788.46,EUR,2025-05-12,Office Supplies - Paper/Pens/Ink,Operations,User_11,Approve
+INV-001316,PO-00026,SUP-016,46490.38,USD,2025-04-15,Breakroom Snacks and Coffee,Operations,User_2,Approve
+INV-001317,,SUP-039,1888.76,USD,2025-07-24,Suspicious Non-PO Request,Operations,User_10,Reject
+INV-001318,PO-00162,SUP-005,31526.56,USD,2025-08-02,Pest Control Quarterly Service,Operations,User_20,Approve
+INV-001319,PO-00059,SUP-027,52232.9,USD,2025-02-13,Corporate Insurance Premium,Finance,User_14,Reject
+INV-001320,PO-00155,SUP-023,17583.64,EUR,2025-09-26,Corporate Insurance Premium,Finance,User_15,Approve
+INV-001321,PO-00053,SUP-028,5627.53,USD,2025-12-22,Cisco Meraki MR56 Access Points,IT,User_4,Approve
+INV-001322,PO-00197,SUP-044,32465.23,USD,2025-06-09,Audit Services - FY2025 (Shipping/Tax Diff),Finance,User_9,Review Further
+INV-001323,PO-00018,SUP-043,14695.53,EUR,2025-11-18,Corporate Insurance Premium (Shipping/Tax Diff),Finance,User_19,Review Further
+INV-001324,PO-00195,SUP-025,15042.32,USD,2025-02-05,HVAC Maintenance and Repair (Shipping/Tax Diff),Operations,User_18,Review Further
+INV-001325,,SUP-019,3142.61,USD,2025-11-29,Waste Management Services,Operations,User_14,Review Further
+INV-001326,PO-00116,SUP-033,5106.14,USD,2025-02-20,SEO Optimization Services,Marketing,User_8,Review Further
+INV-001327,PO-00062,SUP-028,43297.98,USD,2025-05-17,Cisco Meraki MR56 Access Points,IT,User_1,Review Further
+INV-001328,PO-00007,SUP-040,19695.45,USD,2025-03-12,Video Production Services - Promo (Shipping/Tax Diff),Marketing,User_2,Review Further
+INV-001329,PO-00275,SUP-036,10478.75,USD,2025-07-23,Tax Consultation Fees,Finance,User_11,Approve
+INV-001330,PO-00264,SUP-009,30959.74,GBP,2025-10-04,Microsoft 365 Enterprise Licenses (Annual),IT,User_9,Review Further
+INV-001331,,SUP-004,2405.39,USD,2025-01-23,Suspicious Non-PO Request,Operations,User_4,Reject
+INV-001332,,SUP-025,1068.73,USD,2025-11-06,Suspicious Non-PO Request,Operations,User_15,Reject
+INV-001333,PO-00071,SUP-014,583.72,USD,2025-08-28,Corporate Insurance Premium,Finance,User_12,Approve
+INV-001334,PO-00266,SUP-046,7923.86,EUR,2025-06-19,Office Supplies - Paper/Pens/Ink,Operations,User_20,Reject
+INV-001335,PO-00207,SUP-021,13117.04,EUR,2026-01-06,Tax Consultation Fees,Finance,User_3,Approve
+INV-001336,,SUP-030,4899.94,USD,2025-10-18,Cloud Hosting Services - AWS,IT,User_6,Review Further
+INV-001337,,SUP-039,493.66,USD,2025-06-20,HVAC Maintenance and Repair,Operations,User_14,Review Further
+INV-001338,PO-00272,SUP-043,17567.72,USD,2025-02-21,Bank Transaction Fees,Finance,User_19,Approve
+INV-001339,,SUP-032,538.78,USD,2025-03-27,Financial Reporting Software - Seat License,Finance,User_14,Review Further
+INV-001340,PO-00014,SUP-003,42647.44,USD,2026-01-15,Lenovo ThinkPad X1 Carbon Gen 9,IT,User_2,Reject
+INV-001341,PO-00238,SUP-034,3316.06,USD,2025-03-07,Cloud Hosting Services - AWS,IT,User_3,Approve
+INV-001342,PO-00100,SUP-016,2492.78,USD,2025-12-17,Office Cleaning Services - Monthly,Operations,User_7,Approve
+INV-001343,PO-00138,SUP-024,23309.55,EUR,2025-11-03,Dell Latitude 5520 Laptop (Count: 5) (Shipping/Tax Diff),IT,User_11,Review Further
+INV-001344,,SUP-035,4436.47,USD,2025-05-31,Security Guard Services - Nov,Operations,User_18,Review Further
+INV-001345,PO-00125,SUP-029,13911.9,USD,2025-02-15,Payroll Processing Fees - Oct (Shipping/Tax Diff),Finance,User_3,Review Further
+INV-001346,PO-00059,SUP-027,44200.71,USD,2025-03-08,Corporate Insurance Premium (Shipping/Tax Diff),Finance,User_14,Review Further
+INV-001347,PO-00223,SUP-020,41223.37,USD,2025-06-07,Breakroom Snacks and Coffee (Shipping/Tax Diff),Operations,User_11,Review Further
+INV-001348,PO-00115,SUP-037,24684.6,EUR,2025-09-09,Lenovo ThinkPad X1 Carbon Gen 9,IT,User_16,Approve
+INV-001349,PO-00246,SUP-039,17993.78,USD,2025-04-04,HVAC Maintenance and Repair (Shipping/Tax Diff),Operations,User_10,Review Further
+INV-001350,PO-00073,SUP-005,15809.59,USD,2025-11-08,Waste Management Services,Operations,User_13,Approve
+INV-001351,,SUP-036,3415.99,USD,2025-07-12,Suspicious Non-PO Request,Finance,User_7,Reject
+INV-001352,,SUP-022,849.01,USD,2025-10-14,Suspicious Non-PO Request,Finance,User_19,Reject
+INV-001353,PO-00276,SUP-012,20212.09,USD,2025-10-13,Server Rack Maintenance Fee,IT,User_2,Approve
+INV-001354,PO-00175,SUP-016,37901.08,USD,2026-01-10,Unrelated Service Fee,Operations,User_2,Reject
+INV-001355,PO-00068,SUP-044,40605.5,USD,2025-05-07,Financial Reporting Software - Seat License,Finance,User_4,Reject
+INV-001356,PO-00173,SUP-012,900.85,EUR,2025-06-21,Unrelated Service Fee,IT,User_10,Reject
+INV-001357,,SUP-007,4915.96,USD,2025-07-07,Suspicious Non-PO Request,IT,User_7,Reject
+INV-001358,PO-00198,SUP-042,54809.95,USD,2025-04-27,Security Guard Services - Nov,Operations,User_16,Reject
+INV-001359,PO-00050,SUP-047,1244.27,USD,2025-04-06,Microsoft 365 Enterprise Licenses (Annual),IT,User_18,Reject
+INV-001360,PO-00237,SUP-018,19522.67,USD,2025-03-25,Security Guard Services - Nov (Shipping/Tax Diff),Operations,User_15,Review Further
+INV-001361,PO-00261,SUP-037,21037.4,GBP,2025-03-11,Monitor 27-inch 4K - Dell UltraSharp,IT,User_8,Review Further
+INV-001362,PO-00001,SUP-029,6010.89,USD,2026-01-01,Bank Transaction Fees,Finance,User_8,Approve
+INV-001363,PO-00053,SUP-028,5627.53,USD,2025-12-31,Cisco Meraki MR56 Access Points,IT,User_4,Approve
+INV-001364,PO-00217,SUP-021,17374.35,USD,2025-09-11,Unrelated Service Fee,Finance,User_11,Reject
+INV-001365,PO-00045,SUP-011,36110.06,USD,2025-02-10,Cisco Meraki MR56 Access Points,IT,User_17,Reject
+INV-001366,PO-00233,SUP-050,8210.64,USD,2025-04-16,Office Supplies - Paper/Pens/Ink (Shipping/Tax Diff),Operations,User_20,Review Further
+INV-001367,PO-00191,SUP-010,14774.42,EUR,2025-06-28,Audit Services - FY2025,Finance,User_3,Reject
+INV-001368,,SUP-030,2489.55,USD,2026-01-09,Lenovo ThinkPad X1 Carbon Gen 9,IT,User_20,Review Further
+INV-001369,PO-00183,SUP-029,12845.33,USD,2026-01-27,Audit Services - FY2025 (Shipping/Tax Diff),Finance,User_20,Review Further
+INV-001370,PO-00136,SUP-027,42845.79,USD,2025-05-22,Corporate Insurance Premium (Shipping/Tax Diff),Finance,User_15,Review Further
+INV-001371,PO-00005,SUP-036,40566.81,USD,2025-07-13,Audit Services - FY2025,Finance,User_14,Approve
+INV-001372,,SUP-033,371.99,USD,2025-05-26,Suspicious Non-PO Request,Marketing,User_19,Reject
+INV-001373,PO-00028,SUP-043,6855.38,USD,2025-05-02,Payroll Processing Fees - Oct,Finance,User_9,Approve
+INV-001374,,SUP-043,4850.56,USD,2025-12-27,Corporate Insurance Premium,Finance,User_18,Review Further
+INV-001375,PO-00195,SUP-025,14225.1,USD,2025-02-12,HVAC Maintenance and Repair,Operations,User_18,Approve
+INV-001376,PO-00234,SUP-039,6254.32,EUR,2026-01-12,Pest Control Quarterly Service,Operations,User_19,Reject
+INV-001377,PO-00141,SUP-044,9483.71,EUR,2025-06-13,Corporate Insurance Premium,Finance,User_16,Approve
+INV-001378,PO-00206,SUP-028,21091.49,USD,2025-08-30,Microsoft 365 Enterprise Licenses (Annual),IT,User_14,Approve
+INV-001379,PO-00216,SUP-035,48604.61,USD,2025-12-19,Security Guard Services - Nov,Operations,User_13,Approve
+INV-001380,,SUP-024,4596.04,USD,2025-10-13,Software Development Consultation - Q3,IT,User_15,Review Further
+INV-001381,,SUP-044,454.95,USD,2025-11-02,Bank Transaction Fees,Finance,User_1,Review Further
+INV-001382,PO-00245,SUP-035,28119.18,USD,2025-03-16,Unrelated Service Fee,Operations,User_9,Reject
+INV-001383,,SUP-024,1588.49,USD,2025-11-30,Suspicious Non-PO Request,IT,User_4,Reject
+INV-001384,PO-00113,SUP-033,11733.79,USD,2025-10-07,Creative Design for Holiday Campaign (Shipping/Tax Diff),Marketing,User_9,Review Further
+INV-001385,,SUP-041,2394.2,USD,2025-07-07,Suspicious Non-PO Request,IT,User_2,Reject
+INV-001386,,SUP-031,410.91,USD,2025-11-17,Suspicious Non-PO Request,Marketing,User_20,Reject
+INV-001387,PO-00109,SUP-022,38775.75,USD,2025-04-17,Bank Transaction Fees (Shipping/Tax Diff),Finance,User_20,Review Further
+INV-001388,PO-00197,SUP-044,42216.88,USD,2025-05-19,Audit Services - FY2025,Finance,User_9,Reject
+INV-001389,PO-00147,SUP-029,13719.28,USD,2025-05-18,Tax Consultation Fees,Finance,User_15,Approve
+INV-001390,PO-00060,SUP-036,15758.79,USD,2025-02-11,Audit Services - FY2025,Finance,User_7,Approve
+INV-001391,PO-00175,SUP-016,40519.01,USD,2026-01-03,HVAC Maintenance and Repair (Shipping/Tax Diff),Operations,User_2,Review Further
+INV-001392,PO-00295,SUP-009,11599.96,USD,2025-11-09,Lenovo ThinkPad X1 Carbon Gen 9,IT,User_8,Approve
+INV-001393,PO-00011,SUP-048,15303.65,USD,2025-08-24,Bank Transaction Fees (Shipping/Tax Diff),Finance,User_6,Review Further
+INV-001394,PO-00217,SUP-021,19057.56,USD,2025-09-05,Financial Reporting Software - Seat License (Shipping/Tax Diff),Finance,User_11,Review Further
+INV-001395,PO-00072,SUP-018,47469.29,USD,2025-03-03,Facilities Management Retainer,Operations,User_4,Approve
+INV-001396,,SUP-037,110.83,USD,2025-02-17,Suspicious Non-PO Request,IT,User_19,Reject
+INV-001397,,SUP-036,2569.05,USD,2025-07-14,Suspicious Non-PO Request,Finance,User_14,Reject
+INV-001398,PO-00194,SUP-025,11189.59,USD,2025-11-13,Office Supplies - Paper/Pens/Ink,Operations,User_5,Approve
+INV-001399,,SUP-019,1592.75,USD,2025-08-25,Suspicious Non-PO Request,Operations,User_17,Reject
+INV-001400,PO-00175,SUP-016,40381.09,USD,2026-01-18,HVAC Maintenance and Repair (Shipping/Tax Diff),Operations,User_2,Review Further
+INV-001401,,SUP-037,4852.84,USD,2025-10-06,Cisco Meraki MR56 Access Points,IT,User_19,Review Further
+INV-001402,PO-00279,SUP-023,25062.06,USD,2025-05-17,Unrelated Service Fee,Finance,User_17,Reject
+INV-001403,PO-00232,SUP-007,31417.37,USD,2025-10-17,Software Development Consultation - Q3,IT,User_5,Reject
+INV-001404,PO-00253,SUP-015,2926.65,USD,2025-10-04,Software Development Consultation - Q3 (Shipping/Tax Diff),IT,User_15,Review Further
+INV-001405,PO-00155,SUP-023,22286.93,EUR,2025-10-08,Corporate Insurance Premium,Finance,User_15,Reject
+INV-001406,PO-00042,SUP-045,606.69,USD,2025-08-26,Email Marketing Platform Subscription,Marketing,User_15,Approve
+INV-001407,PO-00078,SUP-009,49106.5,USD,2025-11-14,Software Development Consultation - Q3,IT,User_8,Reject
+INV-001408,,SUP-006,1189.86,USD,2025-11-29,Suspicious Non-PO Request,Operations,User_7,Reject
+INV-001409,PO-00190,SUP-027,45133.96,USD,2025-11-13,Unrelated Service Fee,Finance,User_2,Reject
+INV-001410,,SUP-040,962.01,USD,2025-01-17,Q3 Digital Ad Campaign Management,Marketing,User_12,Review Further
+INV-001411,,SUP-029,620.19,USD,2025-06-11,Suspicious Non-PO Request,Finance,User_15,Reject
+INV-001412,PO-00214,SUP-048,35283.59,USD,2025-06-04,Financial Reporting Software - Seat License,Finance,User_12,Approve
+INV-001413,,SUP-019,1456.3,USD,2025-05-06,Suspicious Non-PO Request,Operations,User_9,Reject
+INV-001414,PO-00230,SUP-050,29649.13,EUR,2025-08-27,Security Guard Services - Nov,Operations,User_10,Approve
+INV-001415,,SUP-039,1345.85,USD,2025-03-06,Suspicious Non-PO Request,Operations,User_1,Reject
+INV-001416,PO-00205,SUP-004,21788.46,EUR,2025-05-18,Office Supplies - Paper/Pens/Ink,Operations,User_11,Approve
+INV-001417,PO-00276,SUP-012,20212.09,USD,2025-10-28,Server Rack Maintenance Fee,IT,User_2,Approve
+INV-001418,PO-00162,SUP-005,31526.56,USD,2025-08-04,Unrelated Service Fee,Operations,User_20,Reject
+INV-001419,PO-00106,SUP-030,47917.9,USD,2025-03-25,Dell Latitude 5520 Laptop (Count: 5),IT,User_18,Reject
+INV-001420,PO-00161,SUP-003,34788.88,USD,2025-12-24,Microsoft 365 Enterprise Licenses (Annual),IT,User_18,Approve
+INV-001421,PO-00291,SUP-015,49820.07,EUR,2025-05-31,Cloud Hosting Services - AWS,IT,User_7,Approve
+INV-001422,PO-00232,SUP-007,25742.63,USD,2025-10-15,Software Development Consultation - Q3,IT,User_5,Approve
+INV-001423,PO-00089,SUP-049,34850.52,GBP,2025-08-17,Office Supplies - Paper/Pens/Ink,Operations,User_14,Review Further
+INV-001424,PO-00112,SUP-038,19259.97,EUR,2025-12-26,Office Cleaning Services - Monthly,Operations,User_11,Approve
+INV-001425,PO-00018,SUP-043,13505.71,EUR,2025-10-25,Corporate Insurance Premium,Finance,User_19,Approve
+INV-001426,PO-00055,SUP-034,31894.78,EUR,2026-01-14,Unrelated Service Fee,IT,User_9,Reject
+INV-001427,PO-00024,SUP-016,49363.08,USD,2025-10-11,Breakroom Snacks and Coffee (Shipping/Tax Diff),Operations,User_5,Review Further
+INV-001428,PO-00232,SUP-007,27685.12,USD,2025-11-13,Software Development Consultation - Q3 (Shipping/Tax Diff),IT,User_5,Review Further
+INV-001429,PO-00006,SUP-044,8196.24,USD,2025-06-29,Financial Reporting Software - Seat License,Finance,User_3,Approve
+INV-001430,PO-00183,SUP-029,12074.18,USD,2026-01-26,Audit Services - FY2025,Finance,User_20,Approve
+INV-001431,PO-00067,SUP-013,37192.4,USD,2025-09-17,Software Development Consultation - Q3 (Shipping/Tax Diff),IT,User_4,Review Further
+INV-001432,,SUP-022,1136.66,USD,2025-04-27,Suspicious Non-PO Request,Finance,User_15,Reject
+INV-001433,PO-00233,SUP-050,11448.55,USD,2025-03-31,Office Supplies - Paper/Pens/Ink,Operations,User_20,Reject
+INV-001434,,SUP-042,469.56,USD,2025-02-26,Suspicious Non-PO Request,Operations,User_10,Reject
+INV-001435,,SUP-015,253.66,USD,2025-10-03,Suspicious Non-PO Request,IT,User_20,Reject
+INV-001436,PO-00075,SUP-015,15397.02,USD,2025-12-03,Dell Latitude 5520 Laptop (Count: 5),IT,User_10,Approve
+INV-001437,PO-00072,SUP-018,47469.29,USD,2025-03-02,Facilities Management Retainer,Operations,User_4,Approve
+INV-001438,PO-00032,SUP-043,4014.16,USD,2025-01-22,Bank Transaction Fees,Finance,User_8,Approve
+INV-001439,PO-00213,SUP-031,40457.46,USD,2025-06-11,Q3 Digital Ad Campaign Management,Marketing,User_1,Approve
+INV-001440,PO-00082,SUP-014,36151.35,USD,2025-04-06,Audit Services - FY2025 (Shipping/Tax Diff),Finance,User_14,Review Further
+INV-001441,,SUP-009,1833.17,USD,2025-10-20,Software Development Consultation - Q3,IT,User_7,Review Further
+INV-001442,PO-00109,SUP-022,36822.87,USD,2025-05-28,Bank Transaction Fees,Finance,User_20,Approve
+INV-001443,PO-00299,SUP-014,4171.17,USD,2026-01-16,Payroll Processing Fees - Oct,Finance,User_5,Approve
+INV-001444,PO-00003,SUP-038,1974.96,USD,2025-03-06,Unrelated Service Fee,Operations,User_17,Reject
+INV-001445,PO-00081,SUP-038,36058.12,EUR,2025-05-13,Waste Management Services,Operations,User_13,Approve
+INV-001446,,SUP-014,1765.83,USD,2025-08-08,Suspicious Non-PO Request,Finance,User_13,Reject
+INV-001447,,SUP-034,3287.75,USD,2025-03-31,Lenovo ThinkPad X1 Carbon Gen 9,IT,User_13,Review Further
+INV-001448,PO-00068,SUP-044,29239.19,USD,2025-05-19,Financial Reporting Software - Seat License,Finance,User_4,Approve
+INV-001449,PO-00003,SUP-038,2154.13,USD,2025-02-21,Office Supplies - Paper/Pens/Ink (Shipping/Tax Diff),Operations,User_17,Review Further
+INV-001450,PO-00169,SUP-045,45109.87,USD,2025-09-22,Google Ads Spend - September,Marketing,User_15,Approve
+INV-001451,PO-00134,SUP-024,51486.49,EUR,2025-07-04,Lenovo ThinkPad X1 Carbon Gen 9,IT,User_4,Reject
+INV-001452,,SUP-019,737.8,USD,2025-03-20,Suspicious Non-PO Request,Operations,User_10,Reject
+INV-001453,PO-00133,SUP-037,14761.19,EUR,2025-05-27,Cloud Hosting Services - AWS,IT,User_3,Approve
+INV-001454,PO-00205,SUP-004,23726.16,EUR,2025-06-08,Office Supplies - Paper/Pens/Ink (Shipping/Tax Diff),Operations,User_11,Review Further
+INV-001455,,SUP-010,2955.43,USD,2025-10-31,Tax Consultation Fees,Finance,User_2,Review Further
+INV-001456,PO-00111,SUP-027,44140.74,EUR,2025-07-16,Tax Consultation Fees,Finance,User_19,Approve
+INV-001457,PO-00037,SUP-011,51638.83,USD,2025-07-31,Microsoft 365 Enterprise Licenses (Annual),IT,User_7,Reject
+INV-001458,,SUP-041,1983.65,USD,2025-10-14,Suspicious Non-PO Request,IT,User_13,Reject
+INV-001459,PO-00123,SUP-001,35048.89,EUR,2025-02-21,HVAC Maintenance and Repair,Operations,User_4,Reject
+INV-001460,,SUP-050,2786.89,USD,2025-01-30,Pest Control Quarterly Service,Operations,User_20,Review Further
+INV-001461,,SUP-042,4561.16,USD,2025-07-30,Office Supplies - Paper/Pens/Ink,Operations,User_10,Review Further
+INV-001462,PO-00006,SUP-044,8196.24,USD,2025-06-09,Financial Reporting Software - Seat License,Finance,User_3,Approve
+INV-001463,PO-00282,SUP-009,22572.83,USD,2025-07-10,Monitor 27-inch 4K - Dell UltraSharp,IT,User_15,Approve
+INV-001464,PO-00146,SUP-014,26162.75,EUR,2025-05-01,Corporate Insurance Premium,Finance,User_15,Approve
+INV-001465,PO-00205,SUP-004,21788.46,EUR,2025-05-31,Office Supplies - Paper/Pens/Ink,Operations,User_11,Approve
+INV-001466,PO-00003,SUP-038,1974.96,USD,2025-02-13,Office Supplies - Paper/Pens/Ink,Operations,User_17,Approve
+INV-001467,,SUP-004,1068.1,USD,2025-08-23,Suspicious Non-PO Request,Operations,User_16,Reject
+INV-001468,PO-00012,SUP-004,11786.36,USD,2025-08-01,Breakroom Snacks and Coffee (Shipping/Tax Diff),Operations,User_20,Review Further
+INV-001469,,SUP-036,4955.87,USD,2025-08-30,Suspicious Non-PO Request,Finance,User_3,Reject
+INV-001470,,SUP-043,1678.01,USD,2025-11-01,Suspicious Non-PO Request,Finance,User_16,Reject
+INV-001471,,SUP-032,500.96,USD,2025-12-10,Suspicious Non-PO Request,Finance,User_15,Reject
+INV-001472,PO-00149,SUP-044,1176.89,USD,2025-12-02,Payroll Processing Fees - Oct,Finance,User_8,Approve
+INV-001473,PO-00104,SUP-010,2148.06,EUR,2025-12-16,Financial Reporting Software - Seat License,Finance,User_13,Reject
+INV-001474,PO-00099,SUP-006,23780.19,USD,2025-04-08,Office Cleaning Services - Monthly,Operations,User_8,Approve
+INV-001475,,SUP-036,2864.65,USD,2025-08-03,Suspicious Non-PO Request,Finance,User_2,Reject
+INV-001476,,SUP-009,4418.65,USD,2025-10-16,Suspicious Non-PO Request,IT,User_10,Reject
+INV-001477,PO-00089,SUP-049,34850.52,USD,2025-08-30,Office Supplies - Paper/Pens/Ink,Operations,User_14,Approve
+INV-001478,PO-00290,SUP-005,21001.06,USD,2025-10-13,Security Guard Services - Nov (Shipping/Tax Diff),Operations,User_9,Review Further
+INV-001479,PO-00020,SUP-050,8535.41,EUR,2025-03-25,HVAC Maintenance and Repair (Shipping/Tax Diff),Operations,User_20,Review Further
+INV-001480,PO-00192,SUP-016,32154.9,USD,2025-12-13,Office Cleaning Services - Monthly,Operations,User_11,Approve
+INV-001481,PO-00179,SUP-029,39971.0,USD,2025-07-10,Financial Reporting Software - Seat License (Shipping/Tax Diff),Finance,User_15,Review Further
+INV-001482,PO-00047,SUP-007,12687.66,USD,2025-11-02,Dell Latitude 5520 Laptop (Count: 5),IT,User_14,Approve
+INV-001483,,SUP-016,3560.04,USD,2025-03-24,Suspicious Non-PO Request,Operations,User_11,Reject
+INV-001484,,SUP-044,2764.72,USD,2025-05-18,Suspicious Non-PO Request,Finance,User_15,Reject
+INV-001485,,SUP-002,848.76,USD,2025-01-23,Social Media Content Creation - Oct,Marketing,User_20,Review Further
+INV-001486,,SUP-048,3720.16,USD,2025-04-10,Suspicious Non-PO Request,Finance,User_3,Reject
+INV-001487,PO-00190,SUP-027,45133.96,USD,2025-11-11,Bank Transaction Fees,Finance,User_2,Approve
+INV-001488,,SUP-019,3586.34,USD,2025-12-25,Suspicious Non-PO Request,Operations,User_18,Reject
+INV-001489,,SUP-032,3192.21,USD,2025-10-08,Suspicious Non-PO Request,Finance,User_4,Reject
+INV-001490,PO-00294,SUP-017,15897.23,USD,2025-10-31,Cloud Hosting Services - AWS (Shipping/Tax Diff),IT,User_6,Review Further
+INV-001491,PO-00254,SUP-040,37743.36,USD,2025-06-24,Conference Sponsorship - TechSummit,Marketing,User_18,Approve
+INV-001492,,SUP-025,129.39,USD,2025-01-28,Suspicious Non-PO Request,Operations,User_1,Reject
+INV-001493,PO-00214,SUP-048,35283.59,USD,2025-06-09,Financial Reporting Software - Seat License,Finance,User_12,Approve
+INV-001494,PO-00186,SUP-044,14649.76,USD,2025-03-31,Corporate Insurance Premium,Finance,User_13,Reject
+INV-001495,PO-00274,SUP-035,13040.23,USD,2026-01-12,HVAC Maintenance and Repair,Operations,User_15,Reject
+INV-001496,,SUP-011,2731.43,USD,2025-08-21,Lenovo ThinkPad X1 Carbon Gen 9,IT,User_4,Review Further
+INV-001497,PO-00191,SUP-010,9895.52,EUR,2025-06-30,Audit Services - FY2025,Finance,User_3,Approve
+INV-001498,PO-00281,SUP-022,15041.44,USD,2025-11-03,Audit Services - FY2025,Finance,User_11,Approve
+INV-001499,PO-00083,SUP-018,40303.44,USD,2025-05-02,Pest Control Quarterly Service,Operations,User_18,Approve
+INV-001500,PO-00018,SUP-043,13505.71,EUR,2025-10-21,Corporate Insurance Premium,Finance,User_19,Approve
