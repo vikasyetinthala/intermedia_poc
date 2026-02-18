@@ -17,6 +17,8 @@ from sklearn.calibration import CalibratedClassifierCV, calibration_curve
 import matplotlib.pyplot as plt
 import shap
 from mlflow.models import infer_signature
+import time
+from monitoring.metrics import push_training_metrics
 
 # Ensure models dir exists
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
@@ -171,6 +173,7 @@ df_final, dept_map, req_map = engineered_features(df_raw) # dept_map created her
 print("Starting MLflow Run...")
 mlflow.set_experiment("Invoice_Classifier_Training")
 
+training_start_time = time.time()
 with mlflow.start_run(run_name=f"Training_{datetime.now().strftime('%Y%m%d_%H%M%S')}"):
     # --- Rolling Window Logic (90-day window) ---
     history['Invoice_Date'] = pd.to_datetime(history['Invoice_Date'])
@@ -338,4 +341,22 @@ with mlflow.start_run(run_name=f"Training_{datetime.now().strftime('%Y%m%d_%H%M%
 with open(os.path.join(MODEL_DIR, 'invoice_classifier.pkl'), 'wb') as f:
     pickle.dump(artifacts, f)
 
+training_duration = time.time() - training_start_time
 print(f"Success! Model saved to {os.path.join(MODEL_DIR, 'invoice_classifier.pkl')}")
+
+# Push Metrics to Prometheus Pushgateway
+print("Pushing metrics to Prometheus Pushgateway...")
+active_run = mlflow.active_run()
+run_id = active_run.info.run_id if active_run else "unknown_run"
+
+metrics_to_push = {
+    'duration': training_duration,
+    'dataset_size': len(df_window),
+    'accuracy': best_metrics.get('accuracy', 0),
+    'f1_score': best_metrics.get('f1_score', 0),
+    'precision': best_metrics.get('precision', 0),
+    'recall': best_metrics.get('recall', 0)
+}
+
+# You can configure the gateway URL based on your environment
+push_training_metrics(metrics_to_push, run_id=run_id, gateway_url="localhost:9091")
